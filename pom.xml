@@ -34,5 +34,7 @@
 
   <modules>
     <module>openai-simple</module>
+    <module>ollama-simple</module>
+    <module>docker-model</module>
   </modules>
 </project>
