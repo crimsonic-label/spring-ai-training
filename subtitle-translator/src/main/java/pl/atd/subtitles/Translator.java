@@ -11,7 +11,7 @@ public class Translator {
 
   private static final String PROMPT_TEMPLATE = "Translate to Polish {textToTranslate}, answer with only the best translation without any comments";
 
-  private ChatClient chatClient;
+  private final ChatClient chatClient;
 
   public Translator(ChatClient.Builder chatClientBuilder) {
     this.chatClient = chatClientBuilder.build();

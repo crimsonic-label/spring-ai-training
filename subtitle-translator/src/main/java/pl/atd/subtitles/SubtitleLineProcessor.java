@@ -68,7 +68,6 @@ public class SubtitleLineProcessor {
         String translated = translator.translate(subtitle.toString());
         writeLine("{b}" + translated + "{/b}", writer);
         log.info(subtitle.toString().trim() + " -> " + translated);
-        ;
       }
       log.info("\nProcessing finished. Read {} lines", counter.get());
     }
