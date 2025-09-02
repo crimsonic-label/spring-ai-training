@@ -18,6 +18,7 @@
   <properties>
     <java.version>24</java.version>
     <spring-ai.version>1.0.1</spring-ai.version>
+    <lombok.version>1.18.38</lombok.version>
   </properties>
 
   <dependencyManagement>
@@ -29,6 +30,11 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
+      <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>${lombok.version}</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
@@ -36,5 +42,6 @@
     <module>openai-simple</module>
     <module>ollama-simple</module>
     <module>docker-model</module>
+    <module>subtitle-translator</module>
   </modules>
 </project>
