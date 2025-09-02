@@ -43,5 +43,6 @@
     <module>ollama-simple</module>
     <module>docker-model</module>
     <module>subtitle-translator</module>
+    <module>multiple-models</module>
   </modules>
 </project>
