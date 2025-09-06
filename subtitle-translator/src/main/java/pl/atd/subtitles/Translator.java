@@ -1,15 +1,18 @@
 package pl.atd.subtitles;
 
+import java.util.Optional;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
-import org.springframework.ai.chat.prompt.PromptTemplate;
 import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
 public class Translator {
 
-  private static final String PROMPT_TEMPLATE = "Translate to Polish {textToTranslate}, answer with only the best translation without any comments";
+  public static final String SUBTITLES_TRANSLATOR_SYSTEM_MESSAGE = """
+      You are translating movie subtitles in English to Polish.
+      Please answer with only the best translation without any comment.
+      Please preserve new lines""";
 
   private final ChatClient chatClient;
 
@@ -18,8 +21,11 @@ public class Translator {
   }
 
   public String translate(String text) {
-    PromptTemplate promptTemplate = new PromptTemplate(PROMPT_TEMPLATE);
-    promptTemplate.add("textToTranslate", text.trim());
-    return chatClient.prompt(promptTemplate.create()).call().content().trim();
+    return Optional.ofNullable(chatClient.prompt()
+            .user(text.trim())
+            .system(SUBTITLES_TRANSLATOR_SYSTEM_MESSAGE)
+            .call().content())
+        .map(String::trim)
+        .orElse(null);
   }
 }
