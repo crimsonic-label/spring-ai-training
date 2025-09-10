@@ -1,4 +1,4 @@
-package pl.atd.ollama.confi;
+package pl.atd.ollama.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
