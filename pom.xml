@@ -44,5 +44,6 @@
     <module>docker-model</module>
     <module>subtitle-translator</module>
     <module>multiple-models</module>
+    <module>rag</module>
   </modules>
 </project>
