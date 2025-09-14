@@ -1,5 +1,5 @@
 services:
-  # vector open source database
+  # vector open source database, run condole on localhost:6333/dashboard
   qdrant:
     image: 'qdrant/qdrant:latest'
     ports:
