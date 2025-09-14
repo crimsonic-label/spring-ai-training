@@ -26,6 +26,9 @@ public class RagController {
   @Value("classpath:/promptTemplate/systemPromptRandomDataTemplate.st")
   Resource promptTemplate;
 
+  @Value("classpath:/promptTemplate/boardgameSystemPromptTemplate.st")
+  Resource boardgameTemplate;
+
   @GetMapping("/random/chat")
   public ResponseEntity<String> randomChat(@RequestParam("message") String message) {
     // top 3 documents from query, get documents with minimum probability of 0.5
@@ -40,6 +43,25 @@ public class RagController {
     return ResponseEntity.ok(chatClient.prompt()
         // system prompt with template filled with found documents
         .system(promptSystemSpec -> promptSystemSpec.text(promptTemplate)
+            .param("documents", similarContext))
+        .user(message)
+        .call().content());
+  }
+
+  @GetMapping("/boardgame/chat")
+  public ResponseEntity<String> documentChat(@RequestParam("message") String message) {
+    // top 3 documents from query, get documents with minimum probability of 0.5
+    SearchRequest searchRequest = SearchRequest.builder().query(message).topK(3)
+        .similarityThreshold(.5).build();
+    // search for documents
+    List<Document> similarDocuments = vectorStore.similaritySearch(searchRequest);
+    // connect documents to single string
+    String similarContext = similarDocuments.stream().map(Document::getText)
+        .collect(Collectors.joining(System.lineSeparator()));
+
+    return ResponseEntity.ok(chatClient.prompt()
+        // system prompt with template filled with found documents
+        .system(promptSystemSpec -> promptSystemSpec.text(boardgameTemplate)
             .param("documents", similarContext))
         .user(message)
         .call().content());

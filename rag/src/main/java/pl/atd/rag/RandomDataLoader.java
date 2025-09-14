@@ -10,9 +10,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.document.Document;
 import org.springframework.ai.vectorstore.VectorStore;
-import org.springframework.stereotype.Component;
 
-@Component
 @RequiredArgsConstructor
 @Slf4j
 public class RandomDataLoader {
@@ -20,7 +18,9 @@ public class RandomDataLoader {
   private final VectorStore vectorStore;
 
   /**
-   * Data for Vector store loaded when app starts and when bean was created
+   * Data loader from a file. Every line creates a document.
+   * Data is loaded when application starts
+   * Add @Component annotation to the class
    */
   @PostConstruct
   public void loadSentencesIntoVectorStore() {
