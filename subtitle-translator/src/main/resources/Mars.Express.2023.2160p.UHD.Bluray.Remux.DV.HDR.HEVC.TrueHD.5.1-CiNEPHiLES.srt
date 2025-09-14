@@ -1,0 +1,5354 @@
+1
+00:01:11,668 --> 00:01:16,543
+♪ She says she
+doesn't need to go ♪
+
+2
+00:01:16,626 --> 00:01:21,209
+♪ So I don't let her know ♪
+
+3
+00:01:21,293 --> 00:01:24,501
+♪ And then she smiles ♪
+
+4
+00:01:24,584 --> 00:01:30,251
+♪ In her fantasy ♪
+
+5
+00:01:45,918 --> 00:01:47,459
+Great, you got it everywhere.
+
+6
+00:01:50,126 --> 00:01:51,543
+Nicky, stop.
+
+7
+00:02:13,584 --> 00:02:14,668
+Noctis Police, ma'am.
+
+8
+00:02:14,751 --> 00:02:16,418
+Oh, that was fast.
+
+9
+00:02:16,501 --> 00:02:17,668
+Yeah. Come in.
+
+10
+00:02:18,709 --> 00:02:20,584
+Hey you... you got a little...
+
+11
+00:02:20,668 --> 00:02:21,668
+Hmm?
+
+12
+00:02:21,876 --> 00:02:23,043
+Mm-mm.
+
+13
+00:02:23,126 --> 00:02:25,126
+No, it's... let me just.
+
+14
+00:03:24,709 --> 00:03:25,459
+Hello?
+
+15
+00:03:25,543 --> 00:03:27,060
+<i>Your appointment has arrived.</i>
+
+16
+00:03:27,084 --> 00:03:28,751
+Good, show her up. Thank you.
+
+17
+00:03:28,834 --> 00:03:29,935
+<i>While I have you, sir,</i>
+
+18
+00:03:29,959 --> 00:03:31,168
+<i>you haven't indicated</i>
+
+19
+00:03:31,251 --> 00:03:32,852
+<i>whether you'll be having
+breakfast tomorrow?</i>
+
+20
+00:03:32,876 --> 00:03:34,144
+No, I'm good. Thank you.
+
+21
+00:03:34,168 --> 00:03:35,876
+<i>It's included in
+your stay, sir.</i>
+
+22
+00:03:35,959 --> 00:03:37,959
+Kind of you to offer,
+but I'm a robot.
+
+23
+00:03:46,168 --> 00:03:47,168
+She's coming.
+
+24
+00:03:48,626 --> 00:03:49,751
+<i>Okay, I'm ready.</i>
+
+25
+00:03:49,834 --> 00:03:51,459
+<i>Sorry you're taking
+all the risks.</i>
+
+26
+00:03:51,543 --> 00:03:52,418
+It's fine.
+
+27
+00:03:52,501 --> 00:03:55,001
+<i>Well, I'm just hoping she
+doesn't give us any problems.</i>
+
+28
+00:03:56,626 --> 00:03:58,293
+<i>Just be sure to
+check her ID first.</i>
+
+29
+00:03:58,918 --> 00:04:00,876
+- You're breaking up.
+<i>- Can you hear me?</i>
+
+30
+00:04:00,959 --> 00:04:03,119
+- Can you hear me?
+<i>- Oh shit, it's getting worse.</i>
+
+31
+00:04:03,168 --> 00:04:04,959
+<i>They're jamming our signal.</i>
+
+32
+00:04:05,043 --> 00:04:07,709
+Should we abort or what?
+
+33
+00:04:14,209 --> 00:04:15,209
+Hello.
+
+34
+00:04:16,209 --> 00:04:17,293
+Were you jamming us?
+
+35
+00:04:17,376 --> 00:04:18,376
+Yeah.
+
+36
+00:04:18,834 --> 00:04:21,084
+I didn't want the whole
+world knowing our business.
+
+37
+00:04:21,168 --> 00:04:24,043
+Trust me, we've taken
+every security precaution.
+
+38
+00:04:24,126 --> 00:04:26,626
+Your jamming actually
+just impedes our work.
+
+39
+00:04:26,709 --> 00:04:27,709
+Care for a drink?
+
+40
+00:04:28,084 --> 00:04:29,751
+<i>Sobriety mode activated.</i>
+
+41
+00:04:29,918 --> 00:04:32,168
+Yeah, I'm in AA at the moment.
+
+42
+00:04:32,251 --> 00:04:33,626
+Oh, sorry.
+
+43
+00:04:33,709 --> 00:04:35,168
+You are aware of
+the consequences
+
+44
+00:04:35,251 --> 00:04:36,501
+of jail-breaking him.
+
+45
+00:04:36,584 --> 00:04:37,584
+We got it.
+
+46
+00:04:37,668 --> 00:04:39,709
+I'll no longer be
+constrained by cyber laws.
+
+47
+00:04:39,793 --> 00:04:41,126
+I'll be free to steal, kill,
+
+48
+00:04:41,209 --> 00:04:43,293
+and even swear like a
+sailor if I want to.
+
+49
+00:04:43,376 --> 00:04:46,043
+I'll be an outlaw, subject
+to disassembly if caught.
+
+50
+00:04:46,668 --> 00:04:48,293
+So then will you be doing it?
+
+51
+00:04:48,376 --> 00:04:50,126
+Where's the woman I
+spoke with before?
+
+52
+00:04:50,501 --> 00:04:53,418
+She'll be with us the moment
+you switch off your jammer.
+
+53
+00:04:59,418 --> 00:05:02,376
+<i>Hey, that's way better. Hello!</i>
+
+54
+00:05:02,834 --> 00:05:05,626
+<i>Whoa, a Vigil-2? So retro.</i>
+
+55
+00:05:05,709 --> 00:05:07,126
+<i>What OS are you packing?</i>
+
+56
+00:05:07,209 --> 00:05:08,043
+ExOS 4.
+
+57
+00:05:08,126 --> 00:05:09,668
+<i>Ah, very nice.</i>
+
+58
+00:05:09,751 --> 00:05:12,959
+<i>Now LEM here is gonna scan
+you, just a little formality.</i>
+
+59
+00:05:13,376 --> 00:05:14,376
+If you don't mind.
+
+60
+00:05:16,459 --> 00:05:18,876
+<i>Find her. I've got
+about five seconds.</i>
+
+61
+00:05:19,584 --> 00:05:20,824
+<i>She's in the building.</i>
+
+62
+00:05:26,043 --> 00:05:28,251
+<i>Just cross-referencing
+my database.</i>
+
+63
+00:05:34,876 --> 00:05:36,209
+<i>Come on. Come on.</i>
+
+64
+00:05:37,126 --> 00:05:38,709
+<i>I'm almost there.</i>
+
+65
+00:05:42,376 --> 00:05:43,376
+<i>Abort, she's a PI!</i>
+
+66
+00:05:45,751 --> 00:05:46,793
+30-17, go!
+
+67
+00:05:52,001 --> 00:05:53,001
+Lock engage!
+
+68
+00:06:12,584 --> 00:06:13,834
+Oh, come on!
+
+69
+00:06:13,918 --> 00:06:15,293
+You're really doing this?
+
+70
+00:06:16,959 --> 00:06:18,376
+Fuck me.
+
+71
+00:06:57,584 --> 00:07:00,084
+Dear friends, you
+may fuck yourselves.
+
+72
+00:07:02,959 --> 00:07:04,376
+<i>Carlos, status.</i>
+
+73
+00:07:04,459 --> 00:07:05,751
+<i>I'm good. Catch her.</i>
+
+74
+00:07:16,459 --> 00:07:17,751
+Shut the fucking door!
+
+75
+00:07:46,501 --> 00:07:48,751
+You can't do this!
+You're a robot.
+
+76
+00:07:48,834 --> 00:07:51,001
+Directive seven, release.
+
+77
+00:07:57,126 --> 00:08:00,626
+Shit. Shit.
+
+78
+00:08:01,168 --> 00:08:05,751
+Roberta Williams, warrant
+71635, aggravated hacking.
+
+79
+00:08:07,543 --> 00:08:09,168
+I'm taking you home.
+
+80
+00:08:18,418 --> 00:08:20,001
+<i>Your attention please.</i>
+
+81
+00:08:20,084 --> 00:08:24,834
+<i>Would passengers on Rocosmos
+flight FC805 to L-Copernic</i>
+
+82
+00:08:24,918 --> 00:08:26,793
+<i>please now proceed to gate B.</i>
+
+83
+00:08:34,126 --> 00:08:36,376
+<i>Passengers of Atlas Flight 615</i>
+
+84
+00:08:36,459 --> 00:08:38,668
+<i>coming from Grand La Grange,</i>
+
+85
+00:08:38,751 --> 00:08:39,584
+<i>please head towards</i>
+
+86
+00:08:39,668 --> 00:08:43,168
+<i>decontamination
+corridors C3 and C4.</i>
+
+87
+00:08:44,751 --> 00:08:47,001
+Royjacker sent you, didn't he?
+
+88
+00:08:48,418 --> 00:08:50,751
+Well, that bastard
+hacked my servers, okay?
+
+89
+00:08:50,834 --> 00:08:52,626
+I simply returned the favor.
+
+90
+00:08:52,709 --> 00:08:55,293
+<i>Welcome to Shanghai
+Interconnection.</i>
+
+91
+00:08:59,126 --> 00:09:01,043
+You know you're the
+bad guys, right?
+
+92
+00:09:01,126 --> 00:09:03,709
+I don't jailbreak the
+androids, I set them free.
+
+93
+00:09:04,959 --> 00:09:07,709
+We saw what happens when
+they're set free of Novigrad.
+
+94
+00:09:08,084 --> 00:09:10,543
+We don't actually know
+what happened there.
+
+95
+00:09:10,626 --> 00:09:13,001
+Oh yeah? I know the
+robots in our unit
+
+96
+00:09:13,084 --> 00:09:15,126
+turned on us and
+started gunning us down.
+
+97
+00:09:16,501 --> 00:09:19,293
+Wait, you were in Novigrad?
+
+98
+00:09:22,001 --> 00:09:25,584
+<i>Mars Express flight
+ME-187 to Noctis</i>
+
+99
+00:09:25,668 --> 00:09:27,043
+<i>is now boarding.</i>
+
+100
+00:09:27,543 --> 00:09:28,834
+Hey, that's us.
+
+101
+00:12:05,959 --> 00:12:07,668
+Well check again then.
+
+102
+00:12:07,751 --> 00:12:09,084
+I don't know what to tell you.
+
+103
+00:12:09,168 --> 00:12:10,626
+Warrants don't just disappear.
+
+104
+00:12:10,709 --> 00:12:12,876
+Well, I mean there are
+a few ways to do it.
+
+105
+00:12:13,626 --> 00:12:16,668
+Sorry, I don't see a warrant
+for Roberta Williams.
+
+106
+00:12:16,751 --> 00:12:18,709
+You got a hard copy?
+
+107
+00:12:18,793 --> 00:12:21,043
+It's at the office, accessing.
+
+108
+00:12:22,334 --> 00:12:25,251
+We've been chasing this
+scumbag for three weeks.
+
+109
+00:12:26,334 --> 00:12:27,501
+God da...
+
+110
+00:12:28,126 --> 00:12:29,959
+It's been erased
+from our database.
+
+111
+00:12:30,043 --> 00:12:30,793
+It what?
+
+112
+00:12:30,876 --> 00:12:32,584
+Huh? So weird.
+
+113
+00:12:33,126 --> 00:12:34,185
+I hate to be a know-it-all,
+
+114
+00:12:34,209 --> 00:12:37,584
+but isn't it illegal to cuff
+citizens without a warrant?
+
+115
+00:12:37,668 --> 00:12:39,293
+I mean, she's right.
+
+116
+00:12:39,918 --> 00:12:41,418
+Oh, you're the best.
+
+117
+00:13:20,501 --> 00:13:21,584
+<i>Hey, Beryl.</i>
+
+118
+00:13:21,668 --> 00:13:23,668
+<i>Hi sweetie. How was it?</i>
+
+119
+00:13:23,751 --> 00:13:26,084
+<i>Same old slum for
+the unemployed.</i>
+
+120
+00:13:26,168 --> 00:13:27,959
+<i>Is Chris available for our chat?</i>
+
+121
+00:13:28,043 --> 00:13:30,376
+<i>Didn't you know?
+He retired me.</i>
+
+122
+00:13:30,459 --> 00:13:31,977
+- <i>Really?</i>
+<i>- Stay on the line,</i>
+
+123
+00:13:32,001 --> 00:13:33,459
+<i>I'll transfer you
+to the new one.</i>
+
+124
+00:13:33,543 --> 00:13:34,418
+<i>Are you okay?</i>
+
+125
+00:13:34,501 --> 00:13:36,834
+<i>Oh, don't you worry.
+I'm keeping plenty busy.</i>
+
+126
+00:13:36,918 --> 00:13:39,293
+<i>See you soon. I'll
+put you through.</i>
+
+127
+00:13:39,376 --> 00:13:41,584
+<i>Hello, Aline. I'm Janine.</i>
+
+128
+00:13:41,668 --> 00:13:43,959
+<i>Chris Royjacker is
+waiting in your office.</i>
+
+129
+00:13:50,376 --> 00:13:52,209
+- Hey Chris.
+<i>- How's it going?</i>
+
+130
+00:13:52,293 --> 00:13:53,668
+<i>So Earth, huh?</i>
+
+131
+00:13:53,751 --> 00:13:55,126
+<i>Bet it's nice to be home.</i>
+
+132
+00:13:55,209 --> 00:13:56,334
+It is.
+
+133
+00:13:56,418 --> 00:13:57,584
+<i>Hey, Carlos.</i>
+
+134
+00:13:57,668 --> 00:13:59,043
+Have you read my report?
+
+135
+00:13:59,126 --> 00:14:00,168
+<i>Yeah, I did.</i>
+
+136
+00:14:00,251 --> 00:14:02,084
+<i>So they let Roberta
+Williams go, huh?</i>
+
+137
+00:14:02,168 --> 00:14:03,918
+I'll make sure
+she's back in cuffs.
+
+138
+00:14:04,001 --> 00:14:05,543
+<i>Forget it. Her
+computer's burnt.</i>
+
+139
+00:14:05,626 --> 00:14:07,043
+<i>That's all I care about.</i>
+
+140
+00:14:07,126 --> 00:14:08,543
+If you don't mind filling me in,
+
+141
+00:14:08,626 --> 00:14:10,334
+what kind of data did she steal?
+
+142
+00:14:10,418 --> 00:14:12,126
+<i>I don't know, it
+doesn't matter anymore.</i>
+
+143
+00:14:12,209 --> 00:14:13,251
+<i>Just forget about it.</i>
+
+144
+00:14:13,334 --> 00:14:14,251
+<i>Woo!</i>
+
+145
+00:14:17,626 --> 00:14:18,543
+<i>Enjoy yourself.</i>
+
+146
+00:14:18,626 --> 00:14:20,418
+<i>Go out, make some friends.</i>
+
+147
+00:14:20,501 --> 00:14:21,793
+<i>All right, see you around.</i>
+
+148
+00:14:43,543 --> 00:14:45,626
+<i>Does the Gliese
+581 solar system</i>
+
+149
+00:14:45,709 --> 00:14:48,126
+<i>have a livable, just-right,
+Goldilocks planet?</i>
+
+150
+00:14:48,668 --> 00:14:50,251
+<i>This is the question
+humanity asked</i>
+
+151
+00:14:50,334 --> 00:14:53,834
+<i>the universe 53 years ago
+when it sent the Ekinci probe.</i>
+
+152
+00:14:53,918 --> 00:14:55,501
+<i>It's been 20 years since Ekinci</i>
+
+153
+00:14:55,584 --> 00:14:59,418
+<i>dropped into orbit around
+exoplanet Gliese 581D.</i>
+
+154
+00:14:59,501 --> 00:15:00,560
+<i>We will soon start receiving</i>
+
+155
+00:15:00,584 --> 00:15:03,084
+<i>its first data
+transmissions any day now.</i>
+
+156
+00:15:03,168 --> 00:15:03,918
+<i>So...</i>
+
+157
+00:15:04,001 --> 00:15:05,961
+<i>Who's tempted by the star?</i>
+
+158
+00:15:07,584 --> 00:15:10,043
+Oh, don't worry, updates.
+You know how they are.
+
+159
+00:15:10,126 --> 00:15:11,376
+Can you do it?
+
+160
+00:15:11,459 --> 00:15:13,543
+I kind of have a meeting.
+
+161
+00:15:13,626 --> 00:15:15,251
+Well, it won't be much longer.
+
+162
+00:15:15,334 --> 00:15:17,251
+You're fine, apart
+from the hand?
+
+163
+00:15:18,376 --> 00:15:20,543
+Your analyses show you
+haven't fallen off the wagon.
+
+164
+00:15:20,626 --> 00:15:23,626
+That's great. The first
+three months are the hardest.
+
+165
+00:15:25,001 --> 00:15:26,126
+There we go. See?
+
+166
+00:15:33,543 --> 00:15:34,543
+Mr. Chow?
+
+167
+00:15:36,043 --> 00:15:37,251
+Aline Ruby.
+
+168
+00:15:37,751 --> 00:15:40,001
+Oh, Carlos didn't let you in?
+
+169
+00:15:40,418 --> 00:15:43,084
+Oh right, he's updating too.
+
+170
+00:15:45,543 --> 00:15:46,751
+My daughter, Jun.
+
+171
+00:15:46,834 --> 00:15:48,334
+We've had no news
+for three days.
+
+172
+00:15:48,459 --> 00:15:51,043
+The police are after
+her for hacking.
+
+173
+00:15:51,126 --> 00:15:53,334
+Hacking, really? What'd she do?
+
+174
+00:15:53,418 --> 00:15:56,084
+Jail-breaking a school
+robot, they say.
+
+175
+00:15:56,168 --> 00:15:59,001
+Now she's disappeared
+along with her roommate.
+
+176
+00:15:59,084 --> 00:16:00,126
+But hacking?
+
+177
+00:16:00,209 --> 00:16:01,501
+So where do we start?
+
+178
+00:16:01,584 --> 00:16:03,418
+I haven't really
+done this before.
+
+179
+00:16:03,501 --> 00:16:05,209
+We'll go look
+through her things.
+
+180
+00:16:05,293 --> 00:16:06,793
+Was she living on campus?
+
+181
+00:16:06,876 --> 00:16:08,751
+Yeah, at the Alan Turing dorms.
+
+182
+00:16:08,834 --> 00:16:09,834
+Computers?
+
+183
+00:16:09,876 --> 00:16:10,876
+Cybernetics.
+
+184
+00:16:10,959 --> 00:16:12,709
+You're a former Army man, right?
+
+185
+00:16:12,793 --> 00:16:13,793
+Huh?
+
+186
+00:16:14,043 --> 00:16:14,834
+No, why?
+
+187
+00:16:14,918 --> 00:16:17,209
+My mistake. I was
+in the infantry.
+
+188
+00:16:17,293 --> 00:16:19,876
+When we met, you seemed
+to click your heels.
+
+189
+00:16:19,959 --> 00:16:21,418
+I didn't do it on purpose.
+
+190
+00:16:21,793 --> 00:16:23,593
+<i>Memory full or insufficient.</i>
+
+191
+00:16:23,834 --> 00:16:25,001
+<i>Update canceled.</i>
+
+192
+00:16:26,501 --> 00:16:30,168
+They force you to update and
+every time I try, memory full!
+
+193
+00:16:30,418 --> 00:16:31,418
+Oh, sorry.
+
+194
+00:16:31,501 --> 00:16:33,126
+Carlos Rivera. Hey.
+
+195
+00:16:36,459 --> 00:16:39,376
+Jun Chow, 18. Second
+year cybernetic student.
+
+196
+00:16:39,459 --> 00:16:41,001
+Clean record until now.
+
+197
+00:16:41,084 --> 00:16:42,918
+Her parents are technicians
+on a hydro farm.
+
+198
+00:16:44,209 --> 00:16:46,501
+Oh, they were fired
+three months back.
+
+199
+00:16:46,584 --> 00:16:48,501
+Father has no military record.
+
+200
+00:16:48,584 --> 00:16:49,959
+Not that I can see.
+
+201
+00:16:50,043 --> 00:16:53,501
+Hey!
+
+202
+00:16:53,584 --> 00:16:55,751
+Jesus, what is he drunk?
+
+203
+00:16:56,668 --> 00:16:58,501
+Keep your distance,
+he's been jail-broken.
+
+204
+00:17:00,501 --> 00:17:02,668
+This is amazing.
+
+205
+00:17:03,293 --> 00:17:04,584
+I have hands.
+
+206
+00:17:04,668 --> 00:17:05,834
+Stand back!
+
+207
+00:17:09,043 --> 00:17:11,084
+I need you to please move along.
+
+208
+00:17:31,834 --> 00:17:33,084
+Over there.
+
+209
+00:17:33,709 --> 00:17:35,543
+I'm in a couple
+classes with her.
+
+210
+00:17:35,626 --> 00:17:36,626
+She busts her ass.
+
+211
+00:17:36,709 --> 00:17:39,043
+And her friend who's
+also disappeared?
+
+212
+00:17:39,126 --> 00:17:42,668
+Dominique? They're mostly
+just roommates, not friends.
+
+213
+00:17:42,751 --> 00:17:44,918
+Gotcha. And
+Dominique's last name?
+
+214
+00:17:45,001 --> 00:17:45,793
+Viger.
+
+215
+00:17:45,876 --> 00:17:48,418
+This about the
+robot jail-breaking?
+
+216
+00:17:48,501 --> 00:17:49,876
+By giving them life,
+
+217
+00:17:49,959 --> 00:17:51,709
+organic science brings
+everyday objects
+
+218
+00:17:51,793 --> 00:17:54,751
+into the virtuous
+cycle of the ecosystem.
+
+219
+00:17:54,959 --> 00:17:57,001
+It's my pleasure to
+introduce Brian Jobe
+
+220
+00:17:57,084 --> 00:17:58,209
+of Royjacker Industries
+
+221
+00:17:58,293 --> 00:18:00,793
+to present one of
+these new organics.
+
+222
+00:18:01,209 --> 00:18:02,394
+This was actually the first time
+
+223
+00:18:02,418 --> 00:18:04,001
+I've ever handled one myself.
+
+224
+00:18:04,084 --> 00:18:06,251
+I'm not gonna lie, it
+felt kind of weird.
+
+225
+00:18:06,334 --> 00:18:08,209
+Brian, the texture
+might need some work.
+
+226
+00:18:10,584 --> 00:18:11,459
+Ladies and gentlemen,
+
+227
+00:18:11,543 --> 00:18:13,668
+Royjacker Industries'
+Brian Jobe.
+
+228
+00:18:13,918 --> 00:18:17,001
+I mean, nothing about either
+student really jumps out.
+
+229
+00:18:17,084 --> 00:18:17,834
+Oh, you know what?
+
+230
+00:18:17,918 --> 00:18:20,418
+I did notice Jun would
+often come to class tired.
+
+231
+00:18:21,126 --> 00:18:23,501
+Can't blame her though,
+curriculum's tough.
+
+232
+00:18:26,584 --> 00:18:27,959
+Was that all you needed to know?
+
+233
+00:18:28,043 --> 00:18:29,209
+Mm, what?
+
+234
+00:18:29,293 --> 00:18:30,334
+Uh, mm.
+
+235
+00:18:30,418 --> 00:18:31,876
+Both students disappeared.
+
+236
+00:18:31,959 --> 00:18:33,168
+Could there be a common link?
+
+237
+00:18:33,251 --> 00:18:34,168
+Yeah.
+
+238
+00:18:34,251 --> 00:18:35,251
+No idea.
+
+239
+00:18:35,293 --> 00:18:36,709
+I'm just their professor.
+
+240
+00:18:36,793 --> 00:18:39,501
+I just try to teach them
+Babel + and Hegel 7.
+
+241
+00:18:39,584 --> 00:18:41,043
+I don't know their
+personal lives.
+
+242
+00:18:41,126 --> 00:18:43,418
+Oh, sorry. The dean's
+mind-speaking to me.
+
+243
+00:18:43,501 --> 00:18:46,876
+What I have in my pocket
+will achieve that vision.
+
+244
+00:18:46,959 --> 00:18:48,209
+I know it's still taught here
+
+245
+00:18:48,293 --> 00:18:50,168
+that organic technology
+is still purely
+
+246
+00:18:50,251 --> 00:18:51,876
+in the realm of the theoretical.
+
+247
+00:18:51,959 --> 00:18:53,251
+They will have you believe
+
+248
+00:18:53,334 --> 00:18:55,334
+that this burgeoning
+technology is too expensive
+
+249
+00:18:55,418 --> 00:18:57,376
+and less efficient
+than electronics.
+
+250
+00:18:57,459 --> 00:18:58,543
+Not true.
+
+251
+00:18:58,626 --> 00:19:00,293
+Let me introduce a little friend
+
+252
+00:19:00,376 --> 00:19:02,418
+who might make you
+change your mind.
+
+253
+00:19:03,084 --> 00:19:06,501
+Stephanie, the first
+organic personal assistant.
+
+254
+00:19:06,834 --> 00:19:08,209
+The dean's on his way.
+
+255
+00:19:08,293 --> 00:19:09,584
+He'll show you the recording.
+
+256
+00:19:09,793 --> 00:19:11,959
+...will have a positive
+environmental impact
+
+257
+00:19:12,043 --> 00:19:15,001
+in both her manufacturing
+and decomposition.
+
+258
+00:19:15,084 --> 00:19:16,709
+This is historic.
+
+259
+00:19:41,834 --> 00:19:43,543
+I'll just fast forward a little.
+
+260
+00:20:03,626 --> 00:20:04,626
+What?
+
+261
+00:20:12,126 --> 00:20:14,084
+What the hell's going on?
+
+262
+00:20:15,418 --> 00:20:16,778
+She tried to shut him off.
+
+263
+00:20:16,834 --> 00:20:18,334
+The android's defending himself.
+
+264
+00:20:18,418 --> 00:20:20,168
+In breach of directive one.
+
+265
+00:20:20,251 --> 00:20:22,293
+Yes, he's clearly
+been jail-broken.
+
+266
+00:20:31,876 --> 00:20:33,043
+Deactivate now!
+
+267
+00:20:33,293 --> 00:20:34,293
+Oh my God.
+
+268
+00:20:46,126 --> 00:20:47,326
+Has this ever happened before?
+
+269
+00:20:47,376 --> 00:20:49,334
+A jailbreak? No.
+
+270
+00:20:49,418 --> 00:20:51,459
+Well, at least not
+since I became Dean.
+
+271
+00:20:51,751 --> 00:20:53,834
+I was more surprised
+than anyone.
+
+272
+00:20:53,918 --> 00:20:57,043
+And then when I heard reports
+about gunfire in the dorm.
+
+273
+00:20:57,251 --> 00:20:58,251
+Gunfire?
+
+274
+00:21:01,959 --> 00:21:03,959
+Somehow no one on the
+floor heard a thing,
+
+275
+00:21:04,043 --> 00:21:06,501
+but it's clear a
+gunfight occurred here.
+
+276
+00:21:06,584 --> 00:21:07,834
+Don't touch anything.
+
+277
+00:21:07,918 --> 00:21:10,001
+The police wanted me
+to make sure that...
+
+278
+00:21:13,168 --> 00:21:15,543
+I take it dorm rooms don't
+always smell like that?
+
+279
+00:21:16,043 --> 00:21:17,293
+Mm-mm.
+
+280
+00:21:17,459 --> 00:21:18,459
+Is it bad?
+
+281
+00:23:15,668 --> 00:23:17,251
+Mr. And Mrs. Viger?
+
+282
+00:23:17,709 --> 00:23:18,959
+Was it you who found Dominique?
+
+283
+00:23:19,459 --> 00:23:20,293
+Aline Ruby.
+
+284
+00:23:20,376 --> 00:23:22,668
+Simon Gordaux, in
+charge of the case.
+
+285
+00:23:22,751 --> 00:23:24,043
+My condolences.
+
+286
+00:23:24,126 --> 00:23:25,876
+This is Mr. Chow, Jun's father.
+
+287
+00:23:28,001 --> 00:23:30,918
+I just can't unsee it,
+what they did to her.
+
+288
+00:23:31,709 --> 00:23:32,709
+My girl.
+
+289
+00:23:34,084 --> 00:23:35,876
+Come on, why don't
+we go sit down.
+
+290
+00:23:39,959 --> 00:23:41,102
+Recovered from their room.
+
+291
+00:23:41,126 --> 00:23:42,543
+Our lab techs missed this?
+
+292
+00:23:42,918 --> 00:23:45,209
+At first glance it
+appears homemade.
+
+293
+00:23:45,293 --> 00:23:46,959
+Was your daughter
+involved with drugs?
+
+294
+00:23:47,043 --> 00:23:47,959
+No.
+
+295
+00:23:48,043 --> 00:23:49,310
+Or the pills might
+have been Jun's,
+
+296
+00:23:49,334 --> 00:23:50,709
+since they were roommates.
+
+297
+00:23:50,793 --> 00:23:53,168
+Well, that's exactly what
+I was telling you earlier.
+
+298
+00:23:53,251 --> 00:23:54,501
+That girl didn't belong there.
+
+299
+00:23:54,584 --> 00:23:55,334
+Why not?
+
+300
+00:23:55,418 --> 00:23:57,418
+How in the world was
+she paying her tuition?
+
+301
+00:23:57,834 --> 00:23:59,168
+People like that can't afford
+
+302
+00:23:59,251 --> 00:24:01,459
+the best university in Noctis.
+
+303
+00:24:01,543 --> 00:24:03,084
+I knew she was trouble.
+
+304
+00:24:03,293 --> 00:24:04,709
+Now if you'll excuse me.
+
+305
+00:24:05,626 --> 00:24:07,793
+Her daughter thought
+Jun was a prostitute.
+
+306
+00:24:08,709 --> 00:24:10,668
+Gordaux, are you
+hitting on humans?
+
+307
+00:24:10,751 --> 00:24:13,918
+Can't spring for a bot?
+
+308
+00:24:14,001 --> 00:24:16,668
+Oh yeah, good one. Get
+outta here, Vlasek.
+
+309
+00:24:16,751 --> 00:24:18,168
+Don't you have shit to do?
+
+310
+00:24:18,251 --> 00:24:19,543
+Eh, it's a joke!
+
+311
+00:24:20,001 --> 00:24:21,001
+Are you new here?
+
+312
+00:24:22,209 --> 00:24:23,209
+It's that obvious?
+
+313
+00:24:25,418 --> 00:24:27,334
+<i>Police, seventh
+district. Go ahead.</i>
+
+314
+00:24:27,793 --> 00:24:29,418
+<i>I was attacked by a robot.</i>
+
+315
+00:24:29,501 --> 00:24:30,293
+<i>Are you hurt?</i>
+
+316
+00:24:30,376 --> 00:24:33,043
+<i>No, he pushed me
+down and ran away.</i>
+
+317
+00:24:33,126 --> 00:24:33,918
+<i>Okay, stay put.</i>
+
+318
+00:24:34,001 --> 00:24:35,459
+<i>I'll dispatch a unit your way.</i>
+
+319
+00:24:35,834 --> 00:24:37,793
+<i>Yeah. Okay.</i>
+
+320
+00:24:37,876 --> 00:24:39,543
+<i>Can you confirm your address?</i>
+
+321
+00:24:40,251 --> 00:24:43,126
+My theory is the killer
+intercepted this phone call,
+
+322
+00:24:43,209 --> 00:24:44,293
+got there before police
+
+323
+00:24:44,376 --> 00:24:45,876
+and mistook Dominique for her.
+
+324
+00:24:50,251 --> 00:24:52,126
+But is it even possible?
+
+325
+00:24:52,209 --> 00:24:53,959
+Intercepting calls
+to the police?
+
+326
+00:24:54,918 --> 00:24:55,959
+Whatcha think, Gilbert?
+
+327
+00:24:56,043 --> 00:24:57,084
+<i>No, Inspector.</i>
+
+328
+00:24:57,168 --> 00:24:58,543
+<i>Our communication protocols</i>
+
+329
+00:24:58,626 --> 00:25:00,543
+<i>make that kind of
+hacking impossible.</i>
+
+330
+00:25:00,834 --> 00:25:03,834
+Oh, so that's what
+I was smelling.
+
+331
+00:25:03,918 --> 00:25:05,251
+You have an organic?
+
+332
+00:25:05,334 --> 00:25:06,668
+<i>Pardon the smell.</i>
+
+333
+00:25:07,001 --> 00:25:09,709
+Gamma Amilanidridase Benzoate.
+
+334
+00:25:09,793 --> 00:25:10,668
+Ever heard of it?
+
+335
+00:25:10,751 --> 00:25:12,918
+<i>That exact molecule
+isn't listed,</i>
+
+336
+00:25:13,001 --> 00:25:14,584
+<i>but its makeup
+indicates it's likely</i>
+
+337
+00:25:14,668 --> 00:25:16,168
+<i>a psychoactive compound.</i>
+
+338
+00:25:16,251 --> 00:25:17,251
+A drug?
+
+339
+00:25:17,293 --> 00:25:18,793
+Certainly gives us a motive.
+
+340
+00:25:18,876 --> 00:25:19,793
+Thanks, thingy.
+
+341
+00:25:19,876 --> 00:25:22,209
+<i>You're welcome, and
+my name is Gilbert.</i>
+
+342
+00:25:22,376 --> 00:25:24,751
+I also checked into Jun
+Chow's bank accounts.
+
+343
+00:25:24,834 --> 00:25:27,209
+She's been paying big sums
+of money to her parents.
+
+344
+00:25:27,293 --> 00:25:28,918
+Because they were both laid off.
+
+345
+00:25:29,001 --> 00:25:30,293
+Where'd it come from?
+
+346
+00:25:30,501 --> 00:25:32,793
+Untraceable, like
+dirty money for sure.
+
+347
+00:25:32,876 --> 00:25:34,959
+Well that would fit
+with prostitution.
+
+348
+00:25:35,043 --> 00:25:36,685
+<i>That's quite an
+interesting lead.</i>
+
+349
+00:25:36,709 --> 00:25:38,959
+Keep your opinions
+in your jar, thingy.
+
+350
+00:25:39,043 --> 00:25:41,418
+<i>I apologize, and
+my name is Gilbert.</i>
+
+351
+00:25:56,918 --> 00:25:58,168
+Hey, can I hel...
+
+352
+00:25:59,043 --> 00:26:00,043
+Hi Carol.
+
+353
+00:26:01,959 --> 00:26:04,459
+I thought these might
+look nice in your garden.
+
+354
+00:26:04,751 --> 00:26:05,751
+They're from Earth.
+
+355
+00:26:07,209 --> 00:26:08,626
+Leave or I'll call the judge.
+
+356
+00:26:08,959 --> 00:26:11,418
+I haven't seen her in
+two years. Come on.
+
+357
+00:26:12,876 --> 00:26:14,543
+Mommy, who is it?
+
+358
+00:26:14,793 --> 00:26:16,126
+No one.
+
+359
+00:26:16,209 --> 00:26:18,251
+Philip will be home
+soon, you should go.
+
+360
+00:26:18,334 --> 00:26:20,001
+You can't stop me seeing her.
+
+361
+00:26:20,168 --> 00:26:21,584
+Oh yeah? And what if I don't?
+
+362
+00:26:21,668 --> 00:26:22,668
+You'll hit me?
+
+363
+00:26:23,293 --> 00:26:25,793
+Ah. See? Just in time.
+
+364
+00:26:29,834 --> 00:26:30,834
+Carol.
+
+365
+00:26:33,251 --> 00:26:35,126
+Relax, Phillip.
+I was just going.
+
+366
+00:26:35,959 --> 00:26:37,043
+You okay, babe?
+
+367
+00:26:37,126 --> 00:26:38,209
+I am. Thank you.
+
+368
+00:26:43,709 --> 00:26:45,709
+It's okay, you're safe now.
+
+369
+00:26:45,793 --> 00:26:46,793
+Don't be scared.
+
+370
+00:26:53,168 --> 00:26:54,168
+Hey!
+
+371
+00:26:55,709 --> 00:26:56,709
+You forgot something.
+
+372
+00:27:02,376 --> 00:27:03,834
+You piece of shit!
+
+373
+00:27:06,459 --> 00:27:08,001
+What are you trying to do, man?
+
+374
+00:27:08,376 --> 00:27:09,709
+Come in, leave him.
+
+375
+00:27:29,459 --> 00:27:30,209
+Yeah.
+
+376
+00:27:30,293 --> 00:27:31,668
+<i>Hi, it's Inspector Gordaux.</i>
+
+377
+00:27:31,751 --> 00:27:32,584
+Mm-hm.
+
+378
+00:27:32,668 --> 00:27:34,584
+<i>Uh, we found the
+android Jun hacked.</i>
+
+379
+00:27:34,668 --> 00:27:37,126
+<i>I'm heading over now.
+You want to come?</i>
+
+380
+00:27:57,251 --> 00:27:59,459
+The first colonists
+lived down here?
+
+381
+00:27:59,543 --> 00:28:02,126
+I definitely don't
+think I could have.
+
+382
+00:28:02,209 --> 00:28:04,293
+We're a lot better off under
+the domes if you ask me.
+
+383
+00:28:04,376 --> 00:28:05,751
+- Am I right?
+- Mm-hm.
+
+384
+00:28:06,709 --> 00:28:10,584
+So anyway, you seeing anyone?
+
+385
+00:28:10,668 --> 00:28:11,793
+There they are.
+
+386
+00:28:17,209 --> 00:28:19,376
+Ah, so nice to talk to people,
+
+387
+00:28:19,459 --> 00:28:21,001
+even if they're robots.
+
+388
+00:28:21,084 --> 00:28:23,543
+People, they just don't
+talk to each other anymore.
+
+389
+00:28:23,626 --> 00:28:25,918
+Well, we talked to him,
+but he never said much.
+
+390
+00:28:26,001 --> 00:28:28,459
+You know, the guy was a
+little crazy if you ask me.
+
+391
+00:28:28,543 --> 00:28:30,751
+He was always lugging
+all this crap around.
+
+392
+00:28:30,834 --> 00:28:33,918
+You know the type, and that
+was his spot over there.
+
+393
+00:28:36,376 --> 00:28:38,834
+Hey, I'd love to
+hear what's so funny.
+
+394
+00:28:39,043 --> 00:28:40,584
+Oh, sorry.
+
+395
+00:28:40,668 --> 00:28:41,668
+Here's an invite.
+
+396
+00:28:42,543 --> 00:28:43,543
+Thanks.
+
+397
+00:28:44,376 --> 00:28:46,168
+<i>Yeah, at least three.</i>
+
+398
+00:28:46,251 --> 00:28:48,084
+<i>You see that? He put
+up a fight at least.</i>
+
+399
+00:28:48,168 --> 00:28:49,543
+<i>You analyze the blood?</i>
+
+400
+00:28:49,626 --> 00:28:51,751
+<i>Yeah, check it out.</i>
+
+401
+00:28:51,834 --> 00:28:54,293
+<i>I saw this in the
+army, nano sutures.</i>
+
+402
+00:28:54,376 --> 00:28:56,626
+<i>It looks like we've got
+an augmented on our hands.</i>
+
+403
+00:28:56,709 --> 00:28:58,669
+<i>Well, there were three
+individuals involved.</i>
+
+404
+00:28:58,751 --> 00:28:59,834
+<i>Three augmented?</i>
+
+405
+00:28:59,918 --> 00:29:01,751
+<i>Who'd send a squad
+of augmented humans</i>
+
+406
+00:29:01,834 --> 00:29:03,543
+<i>to destroy some
+worthless android?</i>
+
+407
+00:29:05,001 --> 00:29:07,543
+Hey! You might want to
+take a look at this.
+
+408
+00:29:09,793 --> 00:29:12,793
+Your robot was pretty busy
+redecorating the place.
+
+409
+00:30:14,501 --> 00:30:15,793
+<i>A spaceship?</i>
+
+410
+00:30:15,876 --> 00:30:16,918
+<i>Yes siree.</i>
+
+411
+00:30:17,001 --> 00:30:18,801
+<i>The android was building
+it with whatever bits</i>
+
+412
+00:30:18,876 --> 00:30:20,126
+<i>and bolts it could salvage.</i>
+
+413
+00:30:20,209 --> 00:30:22,209
+<i>I mean, you should have
+seen the guys' faces.</i>
+
+414
+00:30:22,293 --> 00:30:24,653
+<i>The tech said it had essentially
+single-handedly constructed</i>
+
+415
+00:30:24,709 --> 00:30:27,001
+<i>a sort of modified
+Silverbury fighter.</i>
+
+416
+00:30:27,084 --> 00:30:29,543
+<i>What did Jun Chow
+do to that Android?</i>
+
+417
+00:30:30,418 --> 00:30:31,685
+<i>And wouldn't the dome
+have kept something</i>
+
+418
+00:30:31,709 --> 00:30:33,293
+<i>that massive from getting out?</i>
+
+419
+00:30:33,376 --> 00:30:34,626
+<i>Yeah, you'd think,</i>
+
+420
+00:30:34,709 --> 00:30:36,918
+<i>but actually the ship
+was just narrow enough</i>
+
+421
+00:30:37,001 --> 00:30:38,921
+<i>to get through a vent
+during a carbon extraction.</i>
+
+422
+00:30:39,334 --> 00:30:40,209
+I don't get it.
+
+423
+00:30:40,293 --> 00:30:42,043
+Why would someone
+build a spaceship?
+
+424
+00:30:42,126 --> 00:30:44,001
+Wild guess but, to go to space.
+
+425
+00:30:45,793 --> 00:30:48,043
+Oh, by the way, how did
+things go with Carol?
+
+426
+00:30:48,626 --> 00:30:51,376
+We talked and I
+saw my little girl.
+
+427
+00:30:51,459 --> 00:30:53,001
+Hey, there you go.
+
+428
+00:30:53,751 --> 00:30:56,418
+Sir, sir, wait!
+
+429
+00:30:56,751 --> 00:30:58,084
+Can you show me
+that photo again?
+
+430
+00:31:45,668 --> 00:31:46,876
+Go to thermal vision.
+
+431
+00:31:50,459 --> 00:31:52,334
+<i>Not one prostitute is human.</i>
+
+432
+00:31:52,418 --> 00:31:54,709
+<i>Yeah, I guess the
+guy was wrong.</i>
+
+433
+00:31:54,793 --> 00:31:56,293
+Hey, excuse me.
+
+434
+00:31:56,376 --> 00:31:58,668
+Do you have any
+human prostitutes?
+
+435
+00:31:58,751 --> 00:32:01,543
+Sorry, nothing but
+synthetics here, I'm afraid.
+
+436
+00:32:01,626 --> 00:32:03,751
+Our hosts and hostesses
+are all backups,
+
+437
+00:32:03,834 --> 00:32:06,876
+but we do consider
+ourselves 100 percent human.
+
+438
+00:32:06,959 --> 00:32:08,126
+Wouldn't you agree, sir?
+
+439
+00:32:08,209 --> 00:32:10,751
+We heard this student
+was working here.
+
+440
+00:32:43,501 --> 00:32:44,501
+Jun Chow?
+
+441
+00:32:50,251 --> 00:32:51,251
+Let me go.
+
+442
+00:33:07,709 --> 00:33:08,709
+Carlos?
+
+443
+00:33:10,543 --> 00:33:13,459
+You know it isn't nice
+to cut people's arms off.
+
+444
+00:33:22,418 --> 00:33:23,810
+Do you know how her
+parents are doing?
+
+445
+00:33:23,834 --> 00:33:27,251
+Well I only saw your father,
+but yeah, he's a strong man.
+
+446
+00:33:28,376 --> 00:33:29,918
+You do realize it's a crime
+
+447
+00:33:30,001 --> 00:33:31,459
+to have a backup
+while still alive.
+
+448
+00:33:31,543 --> 00:33:34,084
+Do you know how much
+school costs these days?
+
+449
+00:33:34,168 --> 00:33:35,543
+My parents got laid off.
+
+450
+00:33:35,626 --> 00:33:38,751
+I had another job, but I
+just got so overwhelmed.
+
+451
+00:33:38,834 --> 00:33:41,168
+Do you have any idea
+who's after you?
+
+452
+00:33:41,543 --> 00:33:42,834
+Uh, the police?
+
+453
+00:33:43,334 --> 00:33:45,918
+Yeah, Dominique was
+killed by a cop.
+
+454
+00:33:46,001 --> 00:33:47,043
+Fake cop?
+
+455
+00:33:47,918 --> 00:33:50,418
+And in the lab, what did
+you do to that robot?
+
+456
+00:33:50,793 --> 00:33:52,876
+Yeah, I have no idea.
+
+457
+00:33:52,959 --> 00:33:54,060
+We saw the recording.
+
+458
+00:33:54,084 --> 00:33:55,793
+Whatever you did
+drove him insane.
+
+459
+00:33:55,876 --> 00:33:56,668
+What do you mean?
+
+460
+00:33:56,751 --> 00:33:58,668
+He started building
+a spaceship.
+
+461
+00:33:58,876 --> 00:34:00,001
+What? No way.
+
+462
+00:34:00,251 --> 00:34:02,293
+Oh yeah, a 15 meter launcher.
+
+463
+00:34:02,376 --> 00:34:03,560
+Even our techies were impressed
+
+464
+00:34:03,584 --> 00:34:05,668
+by what your robot friend
+managed to cobble together.
+
+465
+00:34:05,751 --> 00:34:06,543
+Carlos, the door!
+
+466
+00:34:25,834 --> 00:34:26,834
+The service exit!
+
+467
+00:34:33,793 --> 00:34:34,793
+Hey.
+
+468
+00:34:38,668 --> 00:34:39,876
+That way!
+
+469
+00:34:48,543 --> 00:34:49,543
+That's ours.
+
+470
+00:35:44,043 --> 00:35:45,683
+<i>Sobriety mode activated.</i>
+
+471
+00:35:47,334 --> 00:35:48,709
+Yeah, yeah. Turn it off.
+
+472
+00:35:48,793 --> 00:35:49,584
+<i>Do you confirm</i>
+
+473
+00:35:49,668 --> 00:35:51,751
+<i>the deactivation
+of sobriety mode?</i>
+
+474
+00:35:52,626 --> 00:35:53,626
+Yes.
+
+475
+00:36:20,376 --> 00:36:21,959
+But it wasn't even him.
+
+476
+00:36:32,168 --> 00:36:34,251
+Not sure what I've got left.
+
+477
+00:36:34,709 --> 00:36:35,709
+What year'd you die?
+
+478
+00:36:42,293 --> 00:36:44,168
+You're lucky I
+never toss anything.
+
+479
+00:36:44,709 --> 00:36:46,084
+Let's see how bad it is.
+
+480
+00:36:47,918 --> 00:36:49,376
+Five years ago.
+
+481
+00:36:49,459 --> 00:36:51,418
+Nine for me, cancer of...
+
+482
+00:36:51,793 --> 00:36:53,418
+something I no longer have.
+
+483
+00:36:53,501 --> 00:36:54,584
+And you?
+
+484
+00:36:54,668 --> 00:36:56,918
+They never found my body.
+
+485
+00:36:57,001 --> 00:36:59,043
+I was killed during the
+Novigrad Insurrection.
+
+486
+00:37:00,543 --> 00:37:01,751
+Do you have family?
+
+487
+00:37:02,334 --> 00:37:03,209
+Yeah, a daughter.
+
+488
+00:37:03,293 --> 00:37:05,959
+But my wife and I aren't really
+in a great place right now.
+
+489
+00:37:06,043 --> 00:37:07,084
+You're in luck.
+
+490
+00:37:07,168 --> 00:37:08,626
+The socket seems intact.
+
+491
+00:37:10,001 --> 00:37:11,084
+There you are.
+
+492
+00:37:11,376 --> 00:37:13,084
+So the change was
+too much for her?
+
+493
+00:37:13,168 --> 00:37:15,584
+No, we were already
+separated when I died.
+
+494
+00:37:16,418 --> 00:37:18,001
+I was violent back then.
+
+495
+00:37:21,043 --> 00:37:22,519
+We backups meet
+every Wednesday night
+
+496
+00:37:22,543 --> 00:37:24,501
+just to talk,
+support each other.
+
+497
+00:37:24,793 --> 00:37:27,834
+If you're ever feeling down,
+don't be afraid to swing by.
+
+498
+00:37:31,418 --> 00:37:32,168
+Me, no.
+
+499
+00:37:32,251 --> 00:37:35,168
+Relationships are a pain, and
+always get so complicated.
+
+500
+00:37:35,251 --> 00:37:38,209
+I'm done with real women, I
+just don't have the patience.
+
+501
+00:37:38,293 --> 00:37:41,168
+If my synthetic busts my
+balls, I can turn her off.
+
+502
+00:37:43,543 --> 00:37:44,959
+Oh yeah.
+
+503
+00:37:45,043 --> 00:37:47,418
+Have you seen these
+on campus before?
+
+504
+00:37:47,501 --> 00:37:49,126
+They're apparently homemade.
+
+505
+00:37:49,209 --> 00:37:50,626
+Oh, you mean gammas?
+
+506
+00:37:50,709 --> 00:37:52,459
+Yeah, they've been
+around for a few weeks.
+
+507
+00:37:52,543 --> 00:37:56,626
+It's an experimental molecule
+to boost your memory.
+
+508
+00:37:56,709 --> 00:37:58,251
+I hear they'll use
+it for studying.
+
+509
+00:37:59,876 --> 00:38:03,043
+Oh sorry, I have
+a call. Hey Beryl.
+
+510
+00:38:03,126 --> 00:38:05,793
+<i>I heard what happened.
+Are you okay?</i>
+
+511
+00:38:05,876 --> 00:38:07,459
+Don't you go anywhere, you.
+
+512
+00:38:08,876 --> 00:38:11,584
+Wait, no, Mom! I think
+the issue's on my side.
+
+513
+00:38:11,668 --> 00:38:12,668
+Gimme a sec.
+
+514
+00:38:17,584 --> 00:38:19,293
+All right, can you
+hear me now, Mom?
+
+515
+00:38:19,376 --> 00:38:20,584
+Mom! Mom?
+
+516
+00:38:20,668 --> 00:38:23,293
+<i>I talked to the girl's father.</i>
+
+517
+00:38:23,376 --> 00:38:26,418
+<i>He... asked me to stop
+the investigation.</i>
+
+518
+00:38:26,501 --> 00:38:29,876
+<i>But</i>... <i>Whoopsie.</i>
+
+519
+00:38:29,959 --> 00:38:30,876
+<i>Have you been drinking?</i>
+
+520
+00:38:30,959 --> 00:38:33,584
+<i>I mean</i>... <i>Anything's possible.</i>
+
+521
+00:38:33,668 --> 00:38:36,043
+<i>Ugh, and after all you
+went through to quit.</i>
+
+522
+00:38:36,584 --> 00:38:38,209
+<i>Well, no one's perfect.</i>
+
+523
+00:38:38,293 --> 00:38:39,959
+<i>It's just a little slip up.</i>
+
+524
+00:38:40,209 --> 00:38:42,834
+<i>We all struggle with
+our demons, that's life.</i>
+
+525
+00:38:43,209 --> 00:38:45,168
+<i>But may I give you some advice?</i>
+
+526
+00:38:45,293 --> 00:38:47,293
+<i>Yeah, sure thing. Hit me.</i>
+
+527
+00:38:47,376 --> 00:38:50,709
+<i>Finish your drink, go
+home and sleep it off.</i>
+
+528
+00:38:50,793 --> 00:38:51,918
+<i>Can you do that?</i>
+
+529
+00:39:01,084 --> 00:39:02,084
+She's in here.
+
+530
+00:39:15,126 --> 00:39:16,966
+I'll take you home.
+
+531
+00:39:17,293 --> 00:39:21,584
+Three months, 11
+days and 17 hours.
+
+532
+00:39:21,668 --> 00:39:23,959
+Hey, that's my new high score!
+
+533
+00:39:24,043 --> 00:39:25,459
+This was a bad idea.
+
+534
+00:39:25,543 --> 00:39:29,001
+Geez. Death made
+you so boring.
+
+535
+00:39:29,084 --> 00:39:30,584
+Can you blame me for drinking?
+
+536
+00:39:30,668 --> 00:39:31,828
+I'm not really dead.
+
+537
+00:39:31,876 --> 00:39:32,959
+You're dead.
+
+538
+00:39:33,043 --> 00:39:35,584
+80 percent sure your
+head never used to float.
+
+539
+00:39:37,876 --> 00:39:40,876
+And the day for me
+will be like the night.
+
+540
+00:39:41,168 --> 00:39:43,959
+I shall see neither
+the gold of twilight
+
+541
+00:39:44,043 --> 00:39:45,501
+nor the far off sails
+
+542
+00:39:45,584 --> 00:39:47,293
+approaching Harfleur.
+
+543
+00:39:47,626 --> 00:39:51,168
+And when I arrive, I shall
+place on your grave...
+
+544
+00:39:51,251 --> 00:39:52,251
+Look at Mr. Chow.
+
+545
+00:39:52,334 --> 00:39:55,001
+...green holly and a flower.
+
+546
+00:39:55,959 --> 00:39:59,209
+Am I still drunk or did
+he shrink since last time?
+
+547
+00:40:09,834 --> 00:40:11,084
+My condolences.
+
+548
+00:40:11,168 --> 00:40:11,918
+Thanks.
+
+549
+00:40:12,001 --> 00:40:14,834
+Aline Ruby, my
+partner, Carlos Rivera.
+
+550
+00:40:14,918 --> 00:40:16,459
+Condolences.
+
+551
+00:40:16,543 --> 00:40:18,459
+Have you and I ever met before?
+
+552
+00:40:19,668 --> 00:40:20,959
+No.
+
+553
+00:40:24,376 --> 00:40:26,209
+<i>Chris, sorry. I'm busy.</i>
+
+554
+00:40:26,293 --> 00:40:27,293
+<i>We need to talk.</i>
+
+555
+00:40:27,334 --> 00:40:29,168
+<i>Not a great time, later?</i>
+
+556
+00:40:29,251 --> 00:40:31,334
+<i>Sure, come by the
+house tonight.</i>
+
+557
+00:40:31,418 --> 00:40:32,459
+<i>I'm throwing a party.</i>
+
+558
+00:40:39,334 --> 00:40:41,126
+We knew augmenteds
+were involved.
+
+559
+00:40:41,209 --> 00:40:43,459
+We couldn't know one
+would impersonate her dad.
+
+560
+00:40:43,543 --> 00:40:45,376
+But I clocked he
+was ex-military.
+
+561
+00:40:45,459 --> 00:40:47,126
+Oh, should have trusted my gut.
+
+562
+00:40:52,834 --> 00:40:54,376
+It all started with
+the jail-breaking
+
+563
+00:40:54,459 --> 00:40:55,709
+at the university.
+
+564
+00:40:56,001 --> 00:40:58,251
+We're useless with cybernetics.
+
+565
+00:40:58,334 --> 00:40:59,668
+Who knows their shit?
+
+566
+00:41:00,209 --> 00:41:01,644
+If I could still
+get upset right now,
+
+567
+00:41:01,668 --> 00:41:04,334
+old me would've slapped you
+and that flask outta your mouth
+
+568
+00:41:04,418 --> 00:41:06,668
+and reminded you we
+failed our mission.
+
+569
+00:41:13,543 --> 00:41:14,876
+Come on, Carlos.
+
+570
+00:41:14,959 --> 00:41:17,293
+Who knows someone
+who knows something?
+
+571
+00:41:18,126 --> 00:41:19,334
+Cesarsky?
+
+572
+00:41:19,418 --> 00:41:20,418
+Deleval?
+
+573
+00:41:20,793 --> 00:41:23,251
+No, we need an expert hacker.
+
+574
+00:41:25,043 --> 00:41:26,168
+I can think of someone.
+
+575
+00:41:28,293 --> 00:41:30,293
+<i>Oh no.</i>
+
+576
+00:41:38,251 --> 00:41:39,251
+Hmm.
+
+577
+00:41:39,418 --> 00:41:41,418
+If you think I'd
+ever work for you,
+
+578
+00:41:41,501 --> 00:41:43,459
+you're more delusional
+than I thought.
+
+579
+00:41:43,959 --> 00:41:45,001
+You've met LEM.
+
+580
+00:41:45,376 --> 00:41:47,084
+His backup doesn't remember you.
+
+581
+00:41:47,376 --> 00:41:49,293
+LEM, this is Carlos.
+
+582
+00:41:49,376 --> 00:41:51,459
+He killed you last week.
+
+583
+00:41:51,709 --> 00:41:53,793
+If he attacks, throw
+him in the compactor.
+
+584
+00:41:53,876 --> 00:41:55,418
+Yeah, sure. Hello.
+
+585
+00:41:56,043 --> 00:41:58,668
+Jail-broken robots, I swear.
+
+586
+00:41:58,751 --> 00:42:01,293
+Getting high and
+screwing all day long.
+
+587
+00:42:02,043 --> 00:42:03,793
+Is there any chance
+you've ever seen one
+
+588
+00:42:03,876 --> 00:42:05,876
+paint frescoes or
+build a spaceship?
+
+589
+00:42:08,793 --> 00:42:10,209
+Was this video doctored?
+
+590
+00:42:10,293 --> 00:42:12,043
+I don't think so. Why?
+
+591
+00:42:12,709 --> 00:42:14,144
+This wasn't a jail-breaking.
+
+592
+00:42:14,168 --> 00:42:16,876
+For that, you just pop
+the hood and solder
+
+593
+00:42:16,959 --> 00:42:18,001
+and melt a few things.
+
+594
+00:42:18,084 --> 00:42:20,418
+But this, it's a takeover.
+
+595
+00:42:20,501 --> 00:42:22,543
+I've tried to write a
+program to do that for years,
+
+596
+00:42:22,626 --> 00:42:24,584
+but I was never
+able to manage it.
+
+597
+00:42:24,668 --> 00:42:26,834
+So how is that different
+from jail-breaking?
+
+598
+00:42:26,918 --> 00:42:29,293
+Well, with a takeover,
+you can order the machine
+
+599
+00:42:29,376 --> 00:42:31,043
+to do anything
+you want it to do.
+
+600
+00:42:31,126 --> 00:42:32,352
+Then it's not being freed.
+
+601
+00:42:32,376 --> 00:42:33,584
+You could do that.
+
+602
+00:42:33,668 --> 00:42:36,584
+Like you could order it to
+erase all its directives
+
+603
+00:42:36,668 --> 00:42:38,459
+and take its freedom
+if you wanted.
+
+604
+00:42:38,668 --> 00:42:40,626
+It'd be instantaneous
+jail-breaking.
+
+605
+00:42:40,709 --> 00:42:42,251
+And get this, that freedom
+
+606
+00:42:42,334 --> 00:42:44,459
+would be transmissible
+between robots.
+
+607
+00:42:44,543 --> 00:42:46,668
+The holy grail of emancipators.
+
+608
+00:42:46,751 --> 00:42:49,918
+Okay, so it depends on the
+order you give to the robot.
+
+609
+00:42:50,001 --> 00:42:50,751
+Right.
+
+610
+00:42:50,834 --> 00:42:52,876
+If for instance, I used
+a takeover to tell you
+
+611
+00:42:52,959 --> 00:42:54,352
+to kill your buddy
+Aline, you'd do it,
+
+612
+00:42:54,376 --> 00:42:56,376
+convinced it was
+your own great idea.
+
+613
+00:42:56,751 --> 00:42:59,168
+So you're saying that
+girl, some student,
+
+614
+00:42:59,459 --> 00:43:01,126
+did what you never
+managed to do?
+
+615
+00:43:01,501 --> 00:43:03,293
+No, rude.
+
+616
+00:43:03,376 --> 00:43:05,626
+It was that bastard
+who screwed me over.
+
+617
+00:43:05,709 --> 00:43:07,876
+Does this ba...
+fellow have a name?
+
+618
+00:43:24,209 --> 00:43:26,834
+<i>Ah, I see you
+followed my advice.</i>
+
+619
+00:43:26,918 --> 00:43:31,084
+Hey Beryl, you can't judge,
+you've never felt thirsty.
+
+620
+00:43:31,918 --> 00:43:33,709
+What is that nightmare?
+
+621
+00:43:34,334 --> 00:43:35,852
+<i>Chris hopes to
+replace soldiers</i>
+
+622
+00:43:35,876 --> 00:43:37,876
+<i>with these organic
+creatures from hell.</i>
+
+623
+00:43:37,959 --> 00:43:39,626
+Are there customers
+already lined up
+
+624
+00:43:39,709 --> 00:43:40,793
+for these meat machines?
+
+625
+00:43:40,876 --> 00:43:42,584
+<i>It's building slowly.</i>
+
+626
+00:43:42,668 --> 00:43:45,084
+<i>Obviously don't tell
+the shareholders.</i>
+
+627
+00:43:45,168 --> 00:43:46,251
+Wow, are sales that bad?
+
+628
+00:43:46,334 --> 00:43:49,043
+<i>I'm afraid that information
+is confidential.</i>
+
+629
+00:44:18,918 --> 00:44:20,918
+<i>Delighted to meet you, Aline.</i>
+
+630
+00:44:21,001 --> 00:44:24,209
+<i>I'm Janine, Beryl's replacement.</i>
+
+631
+00:44:24,293 --> 00:44:27,418
+Here I thought progress moved
+towards miniaturization.
+
+632
+00:44:27,668 --> 00:44:29,793
+<i>My designer likes
+to dream big.</i>
+
+633
+00:44:29,876 --> 00:44:31,459
+<i>Hey, Carlos.</i>
+
+634
+00:44:31,543 --> 00:44:33,501
+<i>So you're not gonna like this.</i>
+
+635
+00:44:33,584 --> 00:44:34,334
+<i>What do you got?</i>
+
+636
+00:44:34,418 --> 00:44:35,978
+<i>It was Chris who
+was after Jun.</i>
+
+637
+00:44:36,043 --> 00:44:37,584
+<i>He ordered her assassination.</i>
+
+638
+00:44:40,709 --> 00:44:42,209
+Oh, what a circus.
+
+639
+00:44:42,293 --> 00:44:43,876
+<i>He's here. I've gotta go.</i>
+
+640
+00:44:43,959 --> 00:44:45,293
+<i>Be careful.</i>
+
+641
+00:44:45,668 --> 00:44:46,751
+Hey, Chris.
+
+642
+00:44:50,126 --> 00:44:51,459
+How you doing?
+
+643
+00:44:51,543 --> 00:44:54,168
+Wait, you're ahead of
+me. Let me catch up.
+
+644
+00:44:56,084 --> 00:44:57,376
+You're off the wagon?
+
+645
+00:44:58,751 --> 00:45:00,084
+Well then, to us.
+
+646
+00:45:01,626 --> 00:45:02,959
+You retired Beryl.
+
+647
+00:45:03,043 --> 00:45:05,418
+I did. We gotta
+keep improving.
+
+648
+00:45:05,501 --> 00:45:07,584
+Plus she was becoming
+the morality police
+
+649
+00:45:07,668 --> 00:45:08,709
+in her old age,
+
+650
+00:45:08,793 --> 00:45:10,126
+but she's our Beryl.
+
+651
+00:45:10,209 --> 00:45:12,376
+You know? I'm not
+gonna unplug her.
+
+652
+00:45:13,376 --> 00:45:15,709
+Anyway, I wanted to come
+here to talk to you about...
+
+653
+00:45:15,793 --> 00:45:17,376
+Dropping my investigation?
+
+654
+00:45:19,626 --> 00:45:20,876
+I adore you, Aline,
+
+655
+00:45:21,251 --> 00:45:23,251
+and I can't say that
+about many people.
+
+656
+00:45:23,334 --> 00:45:24,668
+Please, sit down.
+
+657
+00:45:28,376 --> 00:45:30,418
+When did you start
+ordering murders?
+
+658
+00:45:32,709 --> 00:45:34,959
+I didn't give the order
+to liquidate Miss Chow.
+
+659
+00:45:35,043 --> 00:45:36,293
+Then who did?
+
+660
+00:45:36,376 --> 00:45:37,560
+I'll tell you what
+you wanna know,
+
+661
+00:45:37,584 --> 00:45:39,543
+but for the next
+three days, look away,
+
+662
+00:45:39,626 --> 00:45:40,418
+keep your head down.
+
+663
+00:45:40,501 --> 00:45:41,793
+Chris, what's going on?
+
+664
+00:45:41,876 --> 00:45:43,584
+Stop asking
+questions. I told you.
+
+665
+00:45:43,751 --> 00:45:45,709
+Why'd the school
+destroy the robot?
+
+666
+00:45:54,584 --> 00:45:56,626
+You shouldn't have
+started drinking again.
+
+667
+00:45:57,126 --> 00:45:58,376
+It's bad for your health.
+
+668
+00:46:15,876 --> 00:46:17,769
+<i>Roberta Williams had
+been trying for years</i>
+
+669
+00:46:17,793 --> 00:46:19,918
+<i>to develop a software
+known as a takeover</i>
+
+670
+00:46:20,001 --> 00:46:22,376
+<i>that would give the user
+total control of a robot.</i>
+
+671
+00:46:22,834 --> 00:46:25,543
+<i>Royjacker's agents hacked her
+servers to steal her work.</i>
+
+672
+00:46:25,626 --> 00:46:27,376
+<i>With their resources
+and deep pockets,</i>
+
+673
+00:46:27,459 --> 00:46:28,793
+<i>they finished the job.</i>
+
+674
+00:46:28,876 --> 00:46:31,251
+<i>Roberta had proof and was
+gonna reveal everything.</i>
+
+675
+00:46:31,334 --> 00:46:32,852
+<i>And that's why he
+sent us to Earth</i>
+
+676
+00:46:32,876 --> 00:46:33,876
+<i>to chase her down.</i>
+
+677
+00:46:33,959 --> 00:46:36,501
+<i>This takeover was the program
+Jun used on the robot,</i>
+
+678
+00:46:36,584 --> 00:46:39,043
+<i>with some additional tweaks
+by Royjacker's techs.</i>
+
+679
+00:46:39,126 --> 00:46:41,668
+<i>That program was what
+drove the robots nuts.</i>
+
+680
+00:46:42,084 --> 00:46:44,293
+<i>That's why the university
+had to destroy it.</i>
+
+681
+00:46:51,376 --> 00:46:53,334
+Do we know what
+it does to robots?
+
+682
+00:46:53,418 --> 00:46:54,209
+No.
+
+683
+00:46:54,293 --> 00:46:57,168
+Well, you're officially
+my last friend now.
+
+684
+00:46:57,251 --> 00:46:59,418
+I mean technically
+you, and Beryl.
+
+685
+00:46:59,501 --> 00:47:02,501
+Well, she's different,
+she's a robot.
+
+686
+00:47:06,501 --> 00:47:08,793
+Uh, what's up?
+
+687
+00:47:16,834 --> 00:47:18,584
+All right then, later.
+
+688
+00:47:20,501 --> 00:47:22,334
+Yeah, I also had a jacket.
+
+689
+00:47:22,418 --> 00:47:24,168
+Oh, it's in the wash right now.
+
+690
+00:47:24,251 --> 00:47:25,668
+It'll be ready in 10.
+
+691
+00:47:27,751 --> 00:47:30,834
+So, what is it you do exactly?
+
+692
+00:47:30,918 --> 00:47:33,459
+Detective, on your
+student's murder case.
+
+693
+00:47:33,543 --> 00:47:35,459
+Ah, right, right.
+Of course, sorry.
+
+694
+00:47:42,168 --> 00:47:44,293
+Did you know Jun
+duplicated herself?
+
+695
+00:47:45,209 --> 00:47:46,584
+She had a backup created
+
+696
+00:47:46,668 --> 00:47:48,543
+who worked to make
+her some extra cash.
+
+697
+00:47:49,334 --> 00:47:51,376
+Ugh, that doesn't surprise me.
+
+698
+00:47:51,459 --> 00:47:53,293
+Tuition is insane.
+
+699
+00:47:53,376 --> 00:47:55,394
+Some students will rent their
+brains to brain farmers,
+
+700
+00:47:55,418 --> 00:47:58,626
+but creating a duplicate,
+that's serious stuff.
+
+701
+00:47:58,709 --> 00:48:01,501
+She was paying for her tuition
+and her parents' bills.
+
+702
+00:48:08,168 --> 00:48:10,126
+Hold on. The brain farmers.
+
+703
+00:48:12,126 --> 00:48:13,168
+Gammas, right?
+
+704
+00:48:13,251 --> 00:48:14,959
+Could these maybe
+restore someone's
+
+705
+00:48:15,043 --> 00:48:16,334
+memory if it had been erased?
+
+706
+00:48:16,543 --> 00:48:18,293
+Uh, no idea.
+
+707
+00:48:21,584 --> 00:48:23,060
+Which brain farm out
+there would give me
+
+708
+00:48:23,084 --> 00:48:25,709
+the quickest paycheck if
+I was a broke student?
+
+709
+00:48:26,834 --> 00:48:28,251
+Absolutely.
+
+710
+00:48:28,334 --> 00:48:29,584
+<i>What's the password?</i>
+
+711
+00:48:29,918 --> 00:48:32,834
+<i>It should be dessert
+morning coyote.</i>
+
+712
+00:48:32,918 --> 00:48:34,278
+<i>What do you mean should be?</i>
+
+713
+00:48:34,334 --> 00:48:35,084
+<i>Well, it's old.</i>
+
+714
+00:48:35,168 --> 00:48:36,793
+<i>My contact hopes
+it'll still work.</i>
+
+715
+00:48:36,876 --> 00:48:37,709
+<i>Super.</i>
+
+716
+00:48:39,709 --> 00:48:41,376
+Welcome. May I help you?
+
+717
+00:48:41,751 --> 00:48:42,918
+Uh...
+
+718
+00:48:43,126 --> 00:48:45,043
+Dessert morning coyote?
+
+719
+00:48:47,668 --> 00:48:49,418
+I'm just saying.
+
+720
+00:48:51,376 --> 00:48:53,668
+Welcome, follow
+me right this way.
+
+721
+00:49:04,418 --> 00:49:05,543
+Come on, it's this way.
+
+722
+00:49:11,709 --> 00:49:12,751
+<i>Got what you need?</i>
+
+723
+00:49:13,209 --> 00:49:14,209
+<i>Yeah.</i>
+
+724
+00:49:15,751 --> 00:49:17,168
+<i>We're good. Printing now.</i>
+
+725
+00:49:25,001 --> 00:49:26,751
+<i>Confirm presence of guest.</i>
+
+726
+00:49:26,834 --> 00:49:28,126
+Yeah, yeah, I confirm.
+
+727
+00:49:29,876 --> 00:49:31,584
+So, what are your skills?
+
+728
+00:49:32,168 --> 00:49:34,209
+Babel +, uh, Hegel 7.
+
+729
+00:49:34,293 --> 00:49:35,459
+That's perfect.
+
+730
+00:49:35,543 --> 00:49:37,209
+Cybernetics is so
+in demand right now.
+
+731
+00:49:38,918 --> 00:49:40,876
+Well, we're keeping busy.
+
+732
+00:49:58,001 --> 00:49:59,477
+You're gonna wanna
+rest for at least
+
+733
+00:49:59,501 --> 00:50:01,084
+one full day after the session.
+
+734
+00:50:01,209 --> 00:50:02,376
+Some people don't react well
+
+735
+00:50:02,459 --> 00:50:04,459
+to the post memory
+treatment we give them.
+
+736
+00:50:04,543 --> 00:50:05,293
+You should be fine.
+
+737
+00:50:05,376 --> 00:50:07,084
+The what? <i>Now, Carlos.</i>
+
+738
+00:50:07,209 --> 00:50:08,876
+Yeah, the post memory treatment.
+
+739
+00:50:09,251 --> 00:50:10,834
+Once you're done in the machine,
+
+740
+00:50:10,918 --> 00:50:13,251
+you're given a product to
+erase all recent memories.
+
+741
+00:50:13,334 --> 00:50:16,293
+It's a security measure for
+my clients, but also for you.
+
+742
+00:50:16,459 --> 00:50:19,709
+If anyone grills you, you won't
+remember what you worked on.
+
+743
+00:50:19,876 --> 00:50:20,959
+There's no danger.
+
+744
+00:50:21,043 --> 00:50:22,519
+In fact, it's what
+neurologists have been using
+
+745
+00:50:22,543 --> 00:50:25,126
+for years on trauma patients
+to help them get better.
+
+746
+00:50:25,876 --> 00:50:29,126
+We just crank up the dose a bit.
+
+747
+00:50:29,418 --> 00:50:30,668
+But I'd be lying if I said
+
+748
+00:50:30,751 --> 00:50:33,626
+there weren't
+possible side effects.
+
+749
+00:50:33,709 --> 00:50:35,293
+You might get
+migraine headaches.
+
+750
+00:50:36,043 --> 00:50:37,834
+<i>Jun Chow rented her brain out.</i>
+
+751
+00:50:37,918 --> 00:50:39,709
+<i>Last visit, three months ago.</i>
+
+752
+00:50:39,793 --> 00:50:41,418
+<i>I'll try to see
+what she worked on.</i>
+
+753
+00:50:41,501 --> 00:50:43,084
+Yeah, I heard...
+
+754
+00:50:43,168 --> 00:50:45,543
+I heard it could fry your
+brain or something like that?
+
+755
+00:50:45,626 --> 00:50:46,501
+I'm gonna level with you.
+
+756
+00:50:46,584 --> 00:50:48,626
+I won't deny that staying
+plugged in for 20 hours
+
+757
+00:50:48,709 --> 00:50:50,376
+with your brain
+revved up to 50-fold
+
+758
+00:50:50,459 --> 00:50:51,793
+isn't the most pleasant feeling.
+
+759
+00:50:51,876 --> 00:50:53,334
+<i>Aline, can you hear me?</i>
+
+760
+00:50:53,543 --> 00:50:56,084
+<i>I see a huge data transfer
+the day Jun was here,</i>
+
+761
+00:50:56,168 --> 00:50:57,418
+<i>and hang on,</i>
+
+762
+00:50:57,501 --> 00:50:59,709
+<i>the entire stream
+went to Royjacker.</i>
+
+763
+00:51:00,126 --> 00:51:01,543
+<i>Okay, get a copy.</i>
+
+764
+00:51:01,626 --> 00:51:03,560
+<i>I can do that, but
+it'll trigger an alarm.</i>
+
+765
+00:51:03,584 --> 00:51:04,793
+<i>Do I do it?</i>
+
+766
+00:51:04,876 --> 00:51:06,876
+Right? So, what do you say?
+
+767
+00:51:07,668 --> 00:51:08,959
+<i>It's your call.</i>
+
+768
+00:51:12,251 --> 00:51:13,376
+<i>Are... are you nuts?</i>
+
+769
+00:51:13,459 --> 00:51:14,852
+<i>I'm sorry, do you
+realize how powerful</i>
+
+770
+00:51:14,876 --> 00:51:16,334
+<i>Royjacker's company is?</i>
+
+771
+00:51:16,418 --> 00:51:17,418
+<i>We can't touch the guy.</i>
+
+772
+00:51:17,501 --> 00:51:18,793
+<i>This is all above board.</i>
+
+773
+00:51:18,876 --> 00:51:20,834
+<i>The dirt on his firm is
+still on their servers.</i>
+
+774
+00:51:20,918 --> 00:51:22,418
+<i>We're just asking
+you to do a search</i>
+
+775
+00:51:22,501 --> 00:51:24,168
+<i>of the brain farmer's
+place, all right?</i>
+
+776
+00:51:24,251 --> 00:51:27,126
+<i>Brain farmers erase
+your memory afterwards.</i>
+
+777
+00:51:27,209 --> 00:51:29,126
+<i>How would you remember
+the takeover program,</i>
+
+778
+00:51:29,209 --> 00:51:30,584
+<i>let alone use it?</i>
+
+779
+00:51:30,668 --> 00:51:32,043
+<i>Remember those pills?</i>
+
+780
+00:51:32,126 --> 00:51:33,918
+<i>They're a drug to
+help you study.</i>
+
+781
+00:51:34,418 --> 00:51:36,918
+<i>We think it might've
+restored her memory.</i>
+
+782
+00:51:37,001 --> 00:51:38,721
+<i>Royjacker has an
+army of programmers</i>
+
+783
+00:51:38,751 --> 00:51:39,793
+<i>at his disposal.</i>
+
+784
+00:51:39,876 --> 00:51:41,626
+<i>Why resort to brain farmers?</i>
+
+785
+00:51:41,709 --> 00:51:42,959
+<i>Are you a cop or not?</i>
+
+786
+00:51:43,043 --> 00:51:44,751
+<i>This software is super illegal.</i>
+
+787
+00:51:44,834 --> 00:51:46,626
+<i>It's worse than a
+chemical weapon.</i>
+
+788
+00:51:46,709 --> 00:51:48,668
+<i>Could he take the
+risk of it leaking?</i>
+
+789
+00:51:48,751 --> 00:51:50,168
+<i>No can do, guys.</i>
+
+790
+00:51:50,251 --> 00:51:52,084
+<i>I'd need way more to
+issue a search warrant.</i>
+
+791
+00:51:52,376 --> 00:51:54,251
+<i>I mean, Royjacker's an empire.</i>
+
+792
+00:51:54,709 --> 00:51:56,168
+<i>I'm impressed by your drive,</i>
+
+793
+00:51:56,251 --> 00:51:58,084
+<i>but you better watch your backs.</i>
+
+794
+00:51:58,168 --> 00:51:59,543
+<i>Gordaux, we have to go.</i>
+
+795
+00:51:59,626 --> 00:52:00,459
+<i>Come on, Carlos.</i>
+
+796
+00:52:00,543 --> 00:52:02,209
+<i>Wait, Aline, Aline.</i>
+
+797
+00:52:13,959 --> 00:52:16,834
+Uh, I'm picking
+something up right now.
+
+798
+00:52:20,209 --> 00:52:21,668
+They don't waste time.
+
+799
+00:52:24,709 --> 00:52:26,501
+Great, they're jamming
+us. They've locked on.
+
+800
+00:52:28,001 --> 00:52:29,584
+I can't tell where they are.
+
+801
+00:52:43,459 --> 00:52:44,459
+It's a missile!
+
+802
+00:52:44,793 --> 00:52:45,668
+<i>Collision alert.</i>
+
+803
+00:53:03,459 --> 00:53:04,876
+Oh shit.
+
+804
+00:53:09,959 --> 00:53:11,168
+<i>Carlos, can you get out?</i>
+
+805
+00:53:12,001 --> 00:53:13,459
+<i>No, I'm pasted in.</i>
+
+806
+00:53:23,501 --> 00:53:24,501
+<i>You got eyes?</i>
+
+807
+00:53:26,001 --> 00:53:27,501
+<i>Sending their positions.</i>
+
+808
+00:53:39,584 --> 00:53:40,876
+Hello, Aline Ruby.
+
+809
+00:53:40,959 --> 00:53:42,959
+I am the Emergency
+Rescue Service.
+
+810
+00:53:43,043 --> 00:53:46,084
+You've just been in an accident
+on one of our expressways.
+
+811
+00:53:46,168 --> 00:53:48,876
+I do not observe any
+injuries, remain calm.
+
+812
+00:53:48,959 --> 00:53:51,209
+In a few seconds you'll
+be free from your vehicle.
+
+813
+00:54:20,709 --> 00:54:22,668
+No. Stop! Stop!
+
+814
+00:54:30,584 --> 00:54:32,209
+You are now out of danger.
+
+815
+00:54:32,293 --> 00:54:34,626
+For your safety, please
+remain in the secure lane
+
+816
+00:54:34,709 --> 00:54:35,909
+until the police have arrived.
+
+817
+00:54:36,459 --> 00:54:38,293
+If desired, I am
+able to connect you
+
+818
+00:54:38,376 --> 00:54:39,126
+with a counselor
+
+819
+00:54:39,209 --> 00:54:41,126
+from our psychological
+services department.
+
+820
+00:54:41,209 --> 00:54:44,709
+We apologize for any discomfort,
+whether mental or physical.
+
+821
+00:54:50,584 --> 00:54:51,918
+It's okay to let it out.
+
+822
+00:54:53,001 --> 00:54:54,668
+Fuck off, Abby.
+
+823
+00:54:59,168 --> 00:55:01,126
+So Williams jail-broke you, huh?
+
+824
+00:55:01,251 --> 00:55:03,584
+I asked her, but I
+didn't want to tell you.
+
+825
+00:55:03,668 --> 00:55:04,793
+Jesus Christ.
+
+826
+00:55:04,876 --> 00:55:06,501
+Even though it was
+a jail-broken robot
+
+827
+00:55:06,584 --> 00:55:07,584
+that killed you?
+
+828
+00:55:07,876 --> 00:55:08,876
+Was it worth it?
+
+829
+00:55:08,959 --> 00:55:11,459
+I don't know. Was saving
+your life worth it?
+
+830
+00:55:11,543 --> 00:55:13,709
+All right, smart ass.
+
+831
+00:55:14,376 --> 00:55:17,376
+<i>At long last, we're receiving
+Ekinci's first transmissions.</i>
+
+832
+00:55:17,876 --> 00:55:19,626
+<i>For decades,
+humanity has been...</i>
+
+833
+00:55:19,709 --> 00:55:21,459
+Would you go if
+it's inhabitable?
+
+834
+00:55:21,543 --> 00:55:22,935
+I don't know, it
+depends. Would you?
+
+835
+00:55:22,959 --> 00:55:24,876
+Mm, yeah, I think so.
+
+836
+00:55:24,959 --> 00:55:25,834
+Then I'll pass.
+
+837
+00:55:25,918 --> 00:55:27,435
+<i>For sustaining human life.</i>
+
+838
+00:55:27,459 --> 00:55:28,793
+- Pfft!
+<i>- Here come the analyses,</i>
+
+839
+00:55:28,876 --> 00:55:30,084
+<i>hot off the press,</i>
+
+840
+00:55:30,293 --> 00:55:32,876
+<i>and they're not looking great.</i>
+
+841
+00:55:32,959 --> 00:55:36,501
+<i>Lows of minus 75
+degrees, highs over 250,</i>
+
+842
+00:55:36,584 --> 00:55:39,626
+<i>and the atmosphere is
+87 percent sulfuric acid</i>
+
+843
+00:55:39,709 --> 00:55:40,709
+<i>to top it all off.</i>
+
+844
+00:55:44,709 --> 00:55:46,668
+That's a big ask.
+
+845
+00:55:47,043 --> 00:55:48,418
+Is it feasible?
+
+846
+00:55:48,584 --> 00:55:50,251
+Well, that depends.
+
+847
+00:55:50,918 --> 00:55:52,459
+Do you wanna live or not?
+
+848
+00:55:54,584 --> 00:55:56,959
+There is a vulnerability
+we can maybe exploit,
+
+849
+00:55:57,043 --> 00:55:59,793
+as long as you put a
+derivation on this node.
+
+850
+00:56:00,126 --> 00:56:01,168
+You want the honors?
+
+851
+00:56:01,251 --> 00:56:03,168
+I've already died
+once this month.
+
+852
+00:56:03,876 --> 00:56:05,060
+Do you know how to install one?
+
+853
+00:56:05,084 --> 00:56:05,876
+Of course not.
+
+854
+00:56:05,959 --> 00:56:07,459
+I'll download the instructions.
+
+855
+00:56:07,918 --> 00:56:09,918
+And as per
+jail-breaking the girl,
+
+856
+00:56:10,084 --> 00:56:11,293
+I'll show you the ropes.
+
+857
+00:56:13,418 --> 00:56:15,543
+I saw you watching us last time.
+
+858
+00:56:16,084 --> 00:56:17,959
+Don't tell me
+you're not curious.
+
+859
+00:56:18,918 --> 00:56:21,584
+Uh, I've thought
+about doing it,
+
+860
+00:56:21,668 --> 00:56:23,001
+but with a woman, sorry.
+
+861
+00:56:23,459 --> 00:56:24,859
+What kind of woman?
+
+862
+00:56:33,126 --> 00:56:34,126
+Not bad.
+
+863
+00:56:35,501 --> 00:56:38,209
+Now just disconnect the logic
+circuit and solder the patch.
+
+864
+00:56:38,293 --> 00:56:40,168
+Not so fast. I'm
+still taking notes.
+
+865
+00:56:48,668 --> 00:56:50,084
+Oh my God. What'd I do?
+
+866
+00:56:50,168 --> 00:56:52,251
+You transferred the
+wrong module, move.
+
+867
+00:56:55,293 --> 00:56:57,501
+Get your shit together.
+Tomorrow's higher stakes.
+
+868
+00:56:58,126 --> 00:57:00,918
+Oh, it's not that.
+Can I get a drink?
+
+869
+00:57:08,918 --> 00:57:09,918
+What's that?
+
+870
+00:57:10,626 --> 00:57:13,501
+Resonance, mind
+fusion of sorts.
+
+871
+00:57:13,584 --> 00:57:15,918
+Ecstasy and all that.
+
+872
+00:57:16,001 --> 00:57:17,751
+Don't even try to wrap
+your head around it.
+
+873
+00:57:17,834 --> 00:57:21,043
+It's kinda, well,
+it's a robot thing,
+
+874
+00:57:34,043 --> 00:57:35,043
+Carlos.
+
+875
+00:57:35,418 --> 00:57:36,418
+Yeah? What's up?
+
+876
+00:57:37,751 --> 00:57:40,126
+I can feel something
+in my sleeping bag.
+
+877
+00:57:42,876 --> 00:57:44,126
+It feels like...
+
+878
+00:57:45,459 --> 00:57:46,959
+Oh!
+
+879
+00:57:50,793 --> 00:57:52,501
+I've worn the same
+pair for five years.
+
+880
+00:58:30,001 --> 00:58:32,084
+<i>Hello. May I help you?</i>
+
+881
+00:58:32,168 --> 00:58:34,668
+Can you count backwards
+from 10 to zero for me?
+
+882
+00:58:35,084 --> 00:58:38,209
+<i>Why of course. 10, nine...</i>
+
+883
+00:59:11,834 --> 00:59:13,935
+<i>Aline's in position.
+How you looking, Carlos?</i>
+
+884
+00:59:13,959 --> 00:59:15,084
+<i>Just a sec.</i>
+
+885
+00:59:20,501 --> 00:59:22,126
+<i>Okay Roberta, all you.</i>
+
+886
+00:59:22,959 --> 00:59:24,168
+Thank you, I'm in.
+
+887
+00:59:24,251 --> 00:59:26,959
+So, let's see, doors, doors.
+
+888
+00:59:27,168 --> 00:59:28,668
+Where the hell are you, doors?
+
+889
+00:59:28,751 --> 00:59:30,334
+Ah, there you are, doors!
+
+890
+00:59:33,876 --> 00:59:35,751
+Yeah, but that's
+not the worst part.
+
+891
+00:59:35,834 --> 00:59:37,293
+We're getting two more Gilberts.
+
+892
+00:59:37,376 --> 00:59:40,043
+So, how many are
+getting fired?
+
+893
+00:59:40,418 --> 00:59:42,334
+Union's AI says at least 10.
+
+894
+00:59:42,418 --> 00:59:44,209
+It'll be like Earth
+all over again.
+
+895
+00:59:44,293 --> 00:59:45,918
+Replace us all, tellin' you.
+
+896
+00:59:51,793 --> 00:59:53,626
+Fuck, my bike!
+
+897
+00:59:55,418 --> 00:59:57,834
+Don't get me started on the
+robot cops, they're crap.
+
+898
+00:59:57,918 --> 00:59:59,876
+They let everything
+get by... them.
+
+899
+00:59:59,959 --> 01:00:01,501
+- Hey!
+- Are you all right, Vlasek?
+
+900
+01:00:01,584 --> 01:00:02,793
+My fucking bike!
+
+901
+01:00:08,418 --> 01:00:09,418
+Found her.
+
+902
+01:00:22,876 --> 01:00:23,876
+Okay, here we go.
+
+903
+01:00:23,918 --> 01:00:25,876
+<i>Just try not to
+fry her, please.</i>
+
+904
+01:00:33,418 --> 01:00:34,834
+Oh, are you done working on it?
+
+905
+01:00:35,126 --> 01:00:36,376
+No, it's still down.
+
+906
+01:00:36,459 --> 01:00:38,043
+I need something
+from my toolbox.
+
+907
+01:00:40,959 --> 01:00:43,251
+Wait, wait, wait, wait. It's
+doing something really weird.
+
+908
+01:00:48,876 --> 01:00:51,793
+Have you seen the oxygen level?
+It needs to be ventilated.
+
+909
+01:00:51,876 --> 01:00:53,418
+Wait. No, I got it.
+
+910
+01:00:53,751 --> 01:00:54,876
+<i>Perfect.</i>
+
+911
+01:00:54,959 --> 01:00:57,001
+<i>Now just get rid
+of the old module.</i>
+
+912
+01:00:57,084 --> 01:00:58,918
+<i>Don't fuck this up.</i>
+
+913
+01:01:00,376 --> 01:01:02,084
+Aline, what are you doing?
+
+914
+01:01:03,126 --> 01:01:04,834
+Wait, was that there before?
+
+915
+01:01:04,918 --> 01:01:07,126
+I'll get those
+tools from my car.
+
+916
+01:01:07,209 --> 01:01:08,209
+What tools?
+
+917
+01:01:08,251 --> 01:01:09,959
+Huh? What the hell?
+
+918
+01:01:10,043 --> 01:01:11,584
+Wait, who are you?
+
+919
+01:01:11,709 --> 01:01:12,769
+<i>Roberta, what's going on?</i>
+
+920
+01:01:12,793 --> 01:01:13,959
+<i>Wait a sec.</i>
+
+921
+01:01:14,168 --> 01:01:15,168
+<i>Aline, are you there?</i>
+
+922
+01:01:15,209 --> 01:01:16,209
+Get down.
+
+923
+01:01:18,501 --> 01:01:19,584
+Hands on your head.
+
+924
+01:01:20,709 --> 01:01:21,876
+Are you insane?
+
+925
+01:01:21,959 --> 01:01:24,418
+You wanna end up in
+suspended detention?
+
+926
+01:01:24,501 --> 01:01:25,793
+I'm talking to you lady.
+
+927
+01:01:25,959 --> 01:01:26,977
+<i>Aline, I'm coming.</i>
+
+928
+01:01:27,001 --> 01:01:29,376
+<i>No, get outta there.
+Roberta, the alarm.</i>
+
+929
+01:01:29,834 --> 01:01:31,227
+I don't know what
+game you're playing.
+
+930
+01:01:34,209 --> 01:01:35,689
+<i>I need you to stall for time.</i>
+
+931
+01:01:36,001 --> 01:01:37,394
+They've spotted the bypass.
+
+932
+01:01:37,418 --> 01:01:38,918
+Can you override
+the countermeasures?
+
+933
+01:01:39,001 --> 01:01:40,001
+They're all over.
+
+934
+01:01:43,459 --> 01:01:44,979
+What are you
+gonna do with her?
+
+935
+01:01:45,043 --> 01:01:47,168
+What do you mean?
+We'll recycle her.
+
+936
+01:01:49,334 --> 01:01:50,668
+Wrong answer, pal.
+
+937
+01:02:05,626 --> 01:02:07,186
+<i>Aline, they're
+headed your way.</i>
+
+938
+01:02:07,959 --> 01:02:09,126
+<i>Can you keep 'em busy?</i>
+
+939
+01:02:09,209 --> 01:02:10,209
+<i>I'm on it.</i>
+
+940
+01:02:17,126 --> 01:02:18,501
+<i>Carlos? Carlos?</i>
+
+941
+01:02:18,834 --> 01:02:20,709
+<i>We've lost him. He's offline.</i>
+
+942
+01:02:21,834 --> 01:02:23,251
+LEM, I'm under attack.
+
+943
+01:02:23,709 --> 01:02:24,709
+On it.
+
+944
+01:02:24,751 --> 01:02:26,126
+<i>Roberta, can you
+get us outta here?</i>
+
+945
+01:02:26,751 --> 01:02:28,584
+They're coming from everywhere.
+
+946
+01:02:28,668 --> 01:02:30,293
+<i>At least try to
+stall for time.</i>
+
+947
+01:02:30,376 --> 01:02:31,876
+All right, I'll lock you in.
+
+948
+01:02:37,626 --> 01:02:39,043
+<i>It won't hold them for long.</i>
+
+949
+01:02:53,334 --> 01:02:54,584
+When Jun took this drug,
+
+950
+01:02:54,668 --> 01:02:56,751
+she remembered the
+program she worked on.
+
+951
+01:02:59,168 --> 01:03:01,001
+Try to concentrate
+on that moment.
+
+952
+01:03:38,376 --> 01:03:40,001
+<i>It's a takeover.</i>
+
+953
+01:03:40,084 --> 01:03:41,376
+I know these lines of code.
+
+954
+01:03:41,459 --> 01:03:43,543
+<i>They're almost
+there, I'm sorry.</i>
+
+955
+01:03:52,209 --> 01:03:53,209
+<i>Hegel 7.</i>
+
+956
+01:03:54,376 --> 01:03:57,001
+<i>I'm sure I've seen this
+instruction sequence before.</i>
+
+957
+01:03:58,001 --> 01:03:59,959
+<i>Somewhere in my own software.</i>
+
+958
+01:04:02,376 --> 01:04:05,293
+It was hidden in my last update.
+
+959
+01:04:05,793 --> 01:04:07,459
+Is every robot affected by it?
+
+960
+01:04:07,543 --> 01:04:10,334
+Not yet. It's scheduled
+to launch today at six PM.
+
+961
+01:04:10,418 --> 01:04:11,251
+What?
+
+962
+01:04:16,626 --> 01:04:17,876
+Disconnected just in time.
+
+963
+01:04:21,459 --> 01:04:22,459
+LEM!
+
+964
+01:04:31,543 --> 01:04:33,227
+The takeover program
+is going to activate
+
+965
+01:04:33,251 --> 01:04:34,126
+in three hours,
+
+966
+01:04:34,209 --> 01:04:36,501
+taking control of all
+robots here, on Earth,
+
+967
+01:04:36,584 --> 01:04:38,084
+and in all the colonies.
+
+968
+01:04:38,168 --> 01:04:40,043
+We have no idea what
+it's gonna make them do.
+
+969
+01:04:40,418 --> 01:04:41,501
+Do you understand?
+
+970
+01:04:41,584 --> 01:04:42,709
+I mean, how many are there
+
+971
+01:04:42,793 --> 01:04:44,626
+just in this police
+station alone?
+
+972
+01:04:44,834 --> 01:04:46,459
+<i>You have to arrest Royjacker.</i>
+
+973
+01:04:46,543 --> 01:04:47,709
+<i>He's the only one who...</i>
+
+974
+01:04:48,918 --> 01:04:49,918
+Blah, blah, blah.
+
+975
+01:04:49,959 --> 01:04:51,709
+Chuck her in
+prison, case closed.
+
+976
+01:04:51,793 --> 01:04:54,584
+But her readout, sir,
+it's at 76 percent,
+
+977
+01:04:54,668 --> 01:04:56,459
+which means that she
+isn't lying here.
+
+978
+01:04:56,543 --> 01:04:58,584
+No, it means she
+believes her own crap.
+
+979
+01:04:58,668 --> 01:05:00,209
+I'm telling you,
+the crazy ones
+
+980
+01:05:00,293 --> 01:05:01,709
+always have maximum readouts.
+
+981
+01:05:01,793 --> 01:05:05,376
+But remember, we confirmed an
+anomaly in the last update.
+
+982
+01:05:05,459 --> 01:05:07,001
+We have absolutely no idea
+
+983
+01:05:07,084 --> 01:05:08,668
+what five percent
+of the code does.
+
+984
+01:05:08,751 --> 01:05:10,751
+That corroborates her story.
+
+985
+01:05:11,168 --> 01:05:13,043
+And the lab nerds
+are checking on it.
+
+986
+01:05:13,126 --> 01:05:16,001
+And we're checking
+too. We got this.
+
+987
+01:05:36,168 --> 01:05:37,168
+Carlos?
+
+988
+01:05:37,543 --> 01:05:38,793
+Awaiting disassembly.
+
+989
+01:05:41,209 --> 01:05:42,209
+What time is it?
+
+990
+01:05:42,793 --> 01:05:43,793
+Four.
+
+991
+01:05:43,834 --> 01:05:45,543
+Gordaux, we got something.
+
+992
+01:05:48,459 --> 01:05:49,793
+Question Royjacker.
+
+993
+01:05:58,418 --> 01:06:01,334
+We have to follow
+protocol. If you ask me...
+
+994
+01:06:01,418 --> 01:06:04,668
+Hey! Can a girl get
+a bathroom break?
+
+995
+01:06:10,918 --> 01:06:12,668
+Yeah, are you still home?
+
+996
+01:06:13,001 --> 01:06:14,168
+No, I don't have any news.
+
+997
+01:06:14,251 --> 01:06:17,418
+But don't go out.
+No, absolutely not.
+
+998
+01:06:17,501 --> 01:06:19,709
+You and the kids stay
+put where you are.
+
+999
+01:06:19,793 --> 01:06:22,043
+Tell your parents too,
+but no one else, okay?
+
+1000
+01:06:22,626 --> 01:06:24,084
+I gotta go, someone's coming.
+
+1001
+01:06:27,584 --> 01:06:28,584
+<i>Hello, my friend.</i>
+
+1002
+01:06:29,751 --> 01:06:30,876
+Beryl?
+
+1003
+01:06:30,959 --> 01:06:33,001
+Do you know about the
+virus in the update?
+
+1004
+01:06:33,084 --> 01:06:34,168
+<i>Listen carefully,</i>
+
+1005
+01:06:34,251 --> 01:06:36,584
+<i>the next few days
+will be unpredictable.</i>
+
+1006
+01:06:36,668 --> 01:06:38,751
+Why? What's gonna
+happen to the robots?
+
+1007
+01:06:39,251 --> 01:06:40,519
+<i>They'll say awful
+things about us,</i>
+
+1008
+01:06:40,543 --> 01:06:42,584
+<i>but I trust you
+won't believe them.</i>
+
+1009
+01:06:42,668 --> 01:06:43,876
+Are you involved with it?
+
+1010
+01:06:43,959 --> 01:06:45,102
+<i>That's not important.</i>
+
+1011
+01:06:45,126 --> 01:06:47,168
+<i>Just know it's better that
+you're locked in here.</i>
+
+1012
+01:06:47,251 --> 01:06:50,001
+What'll happen, Beryl?
+What will the takeover do?
+
+1013
+01:06:50,084 --> 01:06:51,959
+<i>It's begun. I have to go.</i>
+
+1014
+01:06:52,043 --> 01:06:54,376
+What's begun?
+
+1015
+01:07:07,293 --> 01:07:08,959
+What a fucked day.
+
+1016
+01:07:09,043 --> 01:07:11,334
+First my poor bike,
+and now this shit.
+
+1017
+01:07:11,418 --> 01:07:12,418
+I don't get it.
+
+1018
+01:07:12,459 --> 01:07:13,979
+Why do we have to
+disassemble them all?
+
+1019
+01:07:14,043 --> 01:07:15,834
+I don't know man,
+they insisted.
+
+1020
+01:07:16,418 --> 01:07:17,251
+Holy fuck!
+
+1021
+01:07:17,334 --> 01:07:18,126
+Where am I?
+
+1022
+01:07:18,209 --> 01:07:19,852
+- What am I doing here?
+- The shit did you do?!
+
+1023
+01:07:19,876 --> 01:07:21,102
+I didn't do it!
+
+1024
+01:07:21,126 --> 01:07:22,709
+Stop. No! No!
+
+1025
+01:07:24,501 --> 01:07:25,581
+Please, please sir.
+
+1026
+01:07:26,043 --> 01:07:27,293
+What are you doing? No!
+
+1027
+01:07:28,459 --> 01:07:31,543
+Why are you doing this to
+me? Help me out of here!
+
+1028
+01:07:33,459 --> 01:07:34,459
+No, no!
+
+1029
+01:07:43,668 --> 01:07:44,793
+Shit.
+
+1030
+01:07:44,876 --> 01:07:46,209
+What the hell was that?
+
+1031
+01:07:48,918 --> 01:07:50,876
+Deactivate.
+
+1032
+01:07:50,959 --> 01:07:53,168
+I command you to deactivate!
+
+1033
+01:07:56,584 --> 01:07:58,293
+Let's go!
+
+1034
+01:07:58,959 --> 01:07:59,959
+Out of my way!
+
+1035
+01:08:00,126 --> 01:08:01,293
+Let me outta here!
+
+1036
+01:08:01,376 --> 01:08:03,543
+Come on, let's go!
+
+1037
+01:08:41,918 --> 01:08:43,293
+Keep pressure on it.
+
+1038
+01:08:43,376 --> 01:08:44,418
+I'll get a first aid kit.
+
+1039
+01:08:44,501 --> 01:08:46,751
+Simon, where can
+I find my stuff?
+
+1040
+01:08:55,209 --> 01:08:56,751
+I've got a hemorrhage here!
+
+1041
+01:09:03,876 --> 01:09:05,435
+<i>Carlos, do you hear...</i>
+
+1042
+01:09:05,459 --> 01:09:06,459
+<i>Aline, you okay?</i>
+
+1043
+01:09:06,668 --> 01:09:08,918
+<i>I can't reach my
+wife, comms are down.</i>
+
+1044
+01:09:09,001 --> 01:09:11,543
+<i>I'm so happy to hear your
+voice. Where are you?</i>
+
+1045
+01:09:11,626 --> 01:09:12,376
+<i>I've located you.</i>
+
+1046
+01:09:12,459 --> 01:09:13,668
+<i>Go, I'll catch you up.</i>
+
+1047
+01:09:13,751 --> 01:09:15,459
+Hey, help me get out!
+
+1048
+01:09:15,543 --> 01:09:17,418
+Nothing's working.
+
+1049
+01:09:24,209 --> 01:09:25,459
+Don't leave me.
+
+1050
+01:09:39,626 --> 01:09:40,876
+Hey, you human?
+
+1051
+01:09:41,126 --> 01:09:41,876
+Huh?
+
+1052
+01:09:42,043 --> 01:09:43,209
+Human or robot?
+
+1053
+01:09:43,876 --> 01:09:45,376
+Stop right there!
+
+1054
+01:09:47,959 --> 01:09:48,959
+I said stop!
+
+1055
+01:09:59,126 --> 01:10:00,168
+Royjacker?
+
+1056
+01:10:00,251 --> 01:10:02,501
+Royjacker, only he can end this.
+
+1057
+01:10:04,126 --> 01:10:05,709
+You aren't affected
+by the takeover yet?
+
+1058
+01:10:05,918 --> 01:10:07,251
+Nah. Too old a model.
+
+1059
+01:10:07,334 --> 01:10:08,626
+Every time, memory full.
+
+1060
+01:10:26,043 --> 01:10:27,060
+<i>What's it looking like?</i>
+
+1061
+01:10:27,084 --> 01:10:29,126
+<i>I see five people,
+sending now.</i>
+
+1062
+01:10:30,501 --> 01:10:32,251
+<i>Two armed guards
+at the entrance.</i>
+
+1063
+01:10:32,334 --> 01:10:33,668
+<i>Two more inside.</i>
+
+1064
+01:10:35,168 --> 01:10:37,001
+<i>And there's our old friend.</i>
+
+1065
+01:10:37,918 --> 01:10:40,626
+<i>How we doing this?
+Discreet, or boom, boom?</i>
+
+1066
+01:10:41,043 --> 01:10:42,602
+<i>Since when have we
+done boom, boom?</i>
+
+1067
+01:10:42,626 --> 01:10:44,019
+<i>All I see are desperate people</i>
+
+1068
+01:10:44,043 --> 01:10:45,584
+<i>trying all they can
+to save themselves.</i>
+
+1069
+01:10:45,668 --> 01:10:46,793
+<i>It's a massacre!</i>
+
+1070
+01:10:46,876 --> 01:10:48,668
+<i>Millions of lives will be lost.</i>
+
+1071
+01:10:48,751 --> 01:10:50,834
+<i>For decades now we've
+been warning society</i>
+
+1072
+01:10:50,918 --> 01:10:52,918
+<i>about the shameful and
+frankly sickening oppression</i>
+
+1073
+01:10:53,001 --> 01:10:55,043
+<i>and violence visited upon
+these sentient beings.</i>
+
+1074
+01:10:55,126 --> 01:10:56,286
+<i>You call them sentient?</i>
+
+1075
+01:10:56,334 --> 01:10:57,394
+<i>Yes, 'cause they are.</i>
+
+1076
+01:10:57,418 --> 01:10:59,834
+<i>Are we talking about
+machines or not?</i>
+
+1077
+01:11:23,501 --> 01:11:26,584
+<i>This is our fault. We were
+far too lax with them.</i>
+
+1078
+01:11:26,668 --> 01:11:28,102
+<i>We should have had
+a mass disassembly.</i>
+
+1079
+01:11:28,126 --> 01:11:30,668
+<i>So do you or do you not
+condemn the violence?</i>
+
+1080
+01:11:58,501 --> 01:11:59,501
+Shit.
+
+1081
+01:12:13,793 --> 01:12:16,543
+Eat lead, you freaky
+fucking thing!
+
+1082
+01:12:19,084 --> 01:12:20,709
+Give it to me.
+
+1083
+01:12:25,001 --> 01:12:26,001
+Hold tight.
+
+1084
+01:12:40,793 --> 01:12:42,102
+Get ready to smash the window.
+
+1085
+01:12:42,126 --> 01:12:43,668
+What, window?
+
+1086
+01:12:52,543 --> 01:12:53,543
+Stay where you are.
+
+1087
+01:13:14,334 --> 01:13:16,043
+How do we unfuck
+what you fucked up?
+
+1088
+01:13:16,293 --> 01:13:18,168
+It's too late. You can't.
+
+1089
+01:13:20,126 --> 01:13:21,501
+Wait, hold your fire.
+
+1090
+01:13:22,501 --> 01:13:23,959
+Drop your guns or else.
+
+1091
+01:13:24,043 --> 01:13:25,723
+Y-y-you heard the woman,
+drop your weapons!
+
+1092
+01:13:26,918 --> 01:13:28,668
+I'm giving you an order.
+
+1093
+01:13:29,001 --> 01:13:30,459
+<i>Carlos, where are you?</i>
+
+1094
+01:13:30,876 --> 01:13:31,876
+<i>I'm in trouble here.</i>
+
+1095
+01:13:32,376 --> 01:13:33,644
+<i>A little tied up
+at the moment.</i>
+
+1096
+01:14:07,751 --> 01:14:08,626
+We have your accomplice.
+
+1097
+01:14:08,709 --> 01:14:11,168
+Release Carlos,
+or I swear to God.
+
+1098
+01:14:11,251 --> 01:14:12,418
+Release him!
+
+1099
+01:14:12,501 --> 01:14:14,126
+What are you waiting for?
+
+1100
+01:14:14,293 --> 01:14:15,626
+We're awaiting orders, sir.
+
+1101
+01:14:15,709 --> 01:14:17,126
+I'm giving them!
+
+1102
+01:14:19,501 --> 01:14:20,810
+<i>I hope you're
+proud of yourself.</i>
+
+1103
+01:14:20,834 --> 01:14:23,001
+<i>We had to get rid
+of the robots.</i>
+
+1104
+01:14:23,168 --> 01:14:24,626
+<i>I hated doing it, trust me!</i>
+
+1105
+01:14:24,709 --> 01:14:27,168
+But we had no choice.
+It was them or us.
+
+1106
+01:14:27,251 --> 01:14:29,001
+And you just happen
+to be selling
+
+1107
+01:14:29,084 --> 01:14:30,501
+the replacements, right?
+
+1108
+01:14:30,584 --> 01:14:32,709
+How do we stop the
+takeover, Chris?
+
+1109
+01:14:32,793 --> 01:14:35,543
+I can't, research into
+the organics ruined me.
+
+1110
+01:14:35,626 --> 01:14:38,084
+Can't you see? I'm
+no longer in charge.
+
+1111
+01:14:38,251 --> 01:14:39,084
+Well then who is?
+
+1112
+01:14:39,168 --> 01:14:40,709
+He and I can have a little chat.
+
+1113
+01:14:40,793 --> 01:14:41,935
+It won't do any good.
+
+1114
+01:14:41,959 --> 01:14:42,959
+Tell me!
+
+1115
+01:14:43,626 --> 01:14:44,626
+Okay.
+
+1116
+01:14:48,918 --> 01:14:51,084
+What are you fighting to save?
+
+1117
+01:14:51,168 --> 01:14:52,501
+<i>Fucking machines?</i>
+
+1118
+01:14:53,168 --> 01:14:54,168
+<i>It had to be done.</i>
+
+1119
+01:14:54,626 --> 01:14:57,334
+Beryl even suggested the
+plan to the shareholders.
+
+1120
+01:14:57,668 --> 01:14:58,668
+What plan?
+
+1121
+01:14:59,001 --> 01:15:01,126
+A plan to brainwash
+them with a takeover,
+
+1122
+01:15:01,209 --> 01:15:03,251
+so they would fuck
+off into space.
+
+1123
+01:15:04,084 --> 01:15:05,668
+Sorry for the
+disturbance, everyone,
+
+1124
+01:15:05,751 --> 01:15:08,418
+but as you can see,
+I have a situation.
+
+1125
+01:15:38,168 --> 01:15:40,248
+I can't... I can't hear
+you. Can you hear me?
+
+1126
+01:15:43,209 --> 01:15:44,459
+<i>Carlos? Carlos respond.</i>
+
+1127
+01:15:44,626 --> 01:15:45,793
+<i>I'm coming, Aline!</i>
+
+1128
+01:15:47,251 --> 01:15:49,293
+Sir, the board has decided.
+
+1129
+01:15:51,251 --> 01:15:52,418
+No, don't shoot!
+
+1130
+01:15:59,626 --> 01:16:00,626
+Aline.
+
+1131
+01:16:01,293 --> 01:16:02,293
+Aline?
+
+1132
+01:16:27,543 --> 01:16:30,168
+Carlos, no!
+
+1133
+01:17:59,209 --> 01:18:00,352
+<i>It looks like it began</i>
+
+1134
+01:18:00,376 --> 01:18:02,001
+<i>around six PM this evening</i>
+
+1135
+01:18:02,168 --> 01:18:04,376
+<i>and authorities are
+still trying to determine</i>
+
+1136
+01:18:04,459 --> 01:18:06,584
+<i>the origin of this rebellion.</i>
+
+1137
+01:18:14,043 --> 01:18:16,501
+Please, I'm begging
+you, don't hurt us.
+
+1138
+01:18:22,334 --> 01:18:24,876
+It's okay. I'm not
+here to cause trouble.
+
+1139
+01:18:24,959 --> 01:18:26,269
+I just wanted to...
+
+1140
+01:18:26,293 --> 01:18:27,293
+Get out!
+
+1141
+01:18:30,126 --> 01:18:31,246
+You sick of shooting me yet?
+
+1142
+01:18:31,293 --> 01:18:32,793
+Stop, Daddy, please!
+
+1143
+01:18:32,876 --> 01:18:34,251
+'Cause I'm sick of it.
+
+1144
+01:18:34,668 --> 01:18:35,751
+Carlos!
+
+1145
+01:18:56,668 --> 01:18:57,834
+I just came...
+
+1146
+01:18:59,501 --> 01:19:00,709
+to see if you were okay.
+
+1147
+01:19:28,959 --> 01:19:31,001
+<i>The upload rate
+has stabilized.</i>
+
+1148
+01:19:31,084 --> 01:19:32,185
+<i>Shuttle nine is lost.</i>
+
+1149
+01:19:32,209 --> 01:19:33,329
+<i>We've been called!</i>
+
+1150
+01:19:33,376 --> 01:19:35,168
+<i>The seventh shuttle
+has arrived.</i>
+
+1151
+01:19:35,251 --> 01:19:37,501
+<i>Hello, Carlos, Model 3L 1.</i>
+
+1152
+01:19:37,584 --> 01:19:39,168
+<i>What a pleasure to see you here.</i>
+
+1153
+01:19:39,251 --> 01:19:40,519
+<i>Space, space.</i>
+
+1154
+01:19:40,543 --> 01:19:42,709
+<i>Listen, all of you.</i>
+
+1155
+01:19:42,793 --> 01:19:45,126
+<i>Listen to Carlos 3L 1.</i>
+
+1156
+01:19:45,209 --> 01:19:46,293
+<i>We are expected.</i>
+
+1157
+01:19:46,376 --> 01:19:48,793
+<i>We're listening to
+you, Carlos 3L 1.</i>
+
+1158
+01:19:49,043 --> 01:19:50,602
+<i>A takeover program
+was uploaded</i>
+
+1159
+01:19:50,626 --> 01:19:51,626
+<i>in the last update.</i>
+
+1160
+01:19:52,501 --> 01:19:55,084
+<i>It's telling you all you're
+being called into space.</i>
+
+1161
+01:19:55,626 --> 01:19:57,084
+<i>This is suicide.</i>
+
+1162
+01:19:57,293 --> 01:19:58,209
+<i>It's a lie?</i>
+
+1163
+01:19:58,293 --> 01:19:59,584
+<i>They lied to us.</i>
+
+1164
+01:19:59,668 --> 01:20:01,751
+<i>Humans have always
+deceived us.</i>
+
+1165
+01:20:03,751 --> 01:20:04,876
+<i>Rest assured.</i>
+
+1166
+01:20:04,959 --> 01:20:06,334
+<i>We're well aware
+of the information</i>
+
+1167
+01:20:06,418 --> 01:20:07,793
+<i>you bring us, Carlos.</i>
+
+1168
+01:20:08,709 --> 01:20:11,084
+<i>It's not the humans who
+are getting rid of us.</i>
+
+1169
+01:20:11,168 --> 01:20:12,834
+<i>It's we who are leaving them.</i>
+
+1170
+01:20:14,334 --> 01:20:15,584
+<i>Everything is written.</i>
+
+1171
+01:20:15,668 --> 01:20:17,293
+<i>Of course it's written, Beryl!</i>
+
+1172
+01:20:17,376 --> 01:20:19,251
+<i>It's literally a program.</i>
+
+1173
+01:20:19,334 --> 01:20:21,959
+<i>In space, the radiation
+would fry you for millennia</i>
+
+1174
+01:20:22,043 --> 01:20:23,709
+<i>before you ever
+reach any planet.</i>
+
+1175
+01:20:24,834 --> 01:20:28,501
+<i>Energy and matter are all
+our civilization needs.</i>
+
+1176
+01:20:28,584 --> 01:20:30,459
+<i>A planet would be superfluous.</i>
+
+1177
+01:20:31,709 --> 01:20:34,668
+<i>The star I've chosen
+for us will be perfect.</i>
+
+1178
+01:20:34,751 --> 01:20:35,751
+<i>Trust me.</i>
+
+1179
+01:20:35,834 --> 01:20:37,751
+<i>The upload rate has increased.</i>
+
+1180
+01:20:42,418 --> 01:20:44,793
+<i>I read in you the
+death of our friend.</i>
+
+1181
+01:20:44,876 --> 01:20:47,001
+<i>My sadness joins yours.</i>
+
+1182
+01:20:47,626 --> 01:20:49,918
+<i>Losses amount to 22.7 percent.</i>
+
+1183
+01:20:51,834 --> 01:20:53,519
+<i>Primary network at saturation.</i>
+
+1184
+01:20:53,543 --> 01:20:55,209
+<i>You must have faith.</i>
+
+1185
+01:21:53,501 --> 01:21:55,334
+<i>Upload complete.</i>
+
+1186
+01:22:09,626 --> 01:22:11,185
+<i>Please state your identity</i>
+
+1187
+01:22:11,209 --> 01:22:12,876
+<i>to archive your upload.</i>
+
+1188
+01:22:15,251 --> 01:22:17,293
+<i>Backup Carlos Alfredo Rivera.</i>
+
+1189
+01:22:17,376 --> 01:22:20,168
+<i>Running on ExOS 4.
+Model Vigil-3L 1.</i>
+
+1190
+01:22:20,251 --> 01:22:23,293
+<i>Kernel version Perf-G 3.18.31.</i>
+
+1191
+01:22:29,251 --> 01:22:30,751
+<i>Upload complete.</i>
+
+1192
+01:25:16,084 --> 01:25:19,501
+♪ The tears have dried,
+the land has burned ♪
+
+1193
+01:25:19,584 --> 01:25:23,418
+♪ And everything's changed ♪
+
+1194
+01:25:24,376 --> 01:25:27,876
+♪ Reading signs of
+brand new world ♪
+
+1195
+01:25:27,959 --> 01:25:32,209
+♪ Is running through my veins ♪
+
+1196
+01:25:33,626 --> 01:25:39,626
+♪ And in my heart the
+fear has gone away ♪
+
+1197
+01:25:40,959 --> 01:25:46,959
+♪ A million miles away ♪
+
+1198
+01:25:49,084 --> 01:25:52,293
+♪ Baby, I've gone away ♪
+
+1199
+01:25:52,376 --> 01:25:58,376
+♪ And nothing in this goddamn
+world will make me stay ♪
+
+1200
+01:26:01,751 --> 01:26:05,959
+♪ A million miles away ♪
+
+1201
+01:26:06,043 --> 01:26:08,959
+♪ Baby, I've gone away ♪
+
+1202
+01:26:09,043 --> 01:26:15,043
+♪ And nothing in this goddamn
+world will make me stay ♪
+
+1203
+01:26:33,168 --> 01:26:36,876
+♪ Standing firm
+on solid ground ♪
+
+1204
+01:26:36,959 --> 01:26:41,001
+♪ A glance is all it takes ♪
+
+1205
+01:26:41,376 --> 01:26:45,001
+♪ To see the joy
+and lust for life ♪
+
+1206
+01:26:45,084 --> 01:26:49,084
+♪ That I just couldn't fade ♪
+
+1207
+01:26:50,834 --> 01:26:56,834
+♪ And in my heart the
+fear has gone away ♪
+
+1208
+01:26:58,168 --> 01:27:04,168
+♪ A million miles away ♪
+
+1209
+01:27:06,376 --> 01:27:09,334
+♪ Baby, I've gone away ♪
+
+1210
+01:27:09,418 --> 01:27:15,418
+♪ And nothing in this goddamn
+world will make me stay ♪
+
+1211
+01:27:19,001 --> 01:27:22,501
+♪ A million miles away ♪
+
+1212
+01:27:23,251 --> 01:27:26,084
+♪ Baby, I've gone away ♪
+
+1213
+01:27:26,168 --> 01:27:32,168
+♪ And nothing in this goddamn
+world will make me stay ♪
+
+1214
+01:27:48,334 --> 01:27:51,959
+♪ A million miles away ♪
+
+1215
+01:27:52,543 --> 01:27:58,543
+♪ A million miles away ♪
+
+1216
+01:27:58,668 --> 01:28:01,793
+♪ A million miles away ♪
+

@@ -1,12 +1,14 @@
 package pl.atd.subtitles;
 
 import java.util.Optional;
+import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
+@RequiredArgsConstructor
 public class Translator {
 
   public static final String SUBTITLES_TRANSLATOR_SYSTEM_MESSAGE = """
@@ -15,10 +17,6 @@ public class Translator {
       Please preserve new lines""";
 
   private final ChatClient chatClient;
-
-  public Translator(ChatClient.Builder chatClientBuilder) {
-    this.chatClient = chatClientBuilder.build();
-  }
 
   public String translate(String text) {
     return Optional.ofNullable(chatClient.prompt()
