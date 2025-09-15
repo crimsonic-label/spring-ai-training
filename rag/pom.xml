@@ -55,6 +55,13 @@
       <artifactId>spring-ai-tika-document-reader</artifactId>
     </dependency>
 
+    <!-- parsing jpg2000 in pdfs -->
+    <dependency>
+      <groupId>com.github.jai-imageio</groupId>
+      <artifactId>jai-imageio-jpeg2000</artifactId>
+      <version>1.3.0</version>
+    </dependency>
+
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
