@@ -28,27 +28,27 @@ Great, you got it everywhere.
 6
 00:01:50,126 --> 00:01:51,543
 Nicky, stop.
-{b}Przestań Nicky.{/b}
+{b}Nicky, stój{/b}
 
 7
 00:02:13,584 --> 00:02:14,668
 Noctis Police, ma'am.
-{b}Policja Noctis, proszę pani.{/b}
+{b}Dobry wieczór, policja Noctis.{/b}
 
 8
 00:02:14,751 --> 00:02:16,418
 Oh, that was fast.
-{b}Już?{/b}
+{b}O. Już?{/b}
 
 9
 00:02:16,501 --> 00:02:17,668
 Yeah. Come in.
-{b}Jasne, wejdź{/b}
+{b}Proszę wejść.{/b}
 
 10
 00:02:18,709 --> 00:02:20,584
 Hey you... you got a little...
-{b}Hej ty... masz trochę...{/b}
+{b}Ma ani tutaj coś...{/b}
 
 11
 00:02:20,668 --> 00:02:21,668
@@ -63,17 +63,17 @@ Mm-mm.
 13
 00:02:23,126 --> 00:02:25,126
 No, it's... let me just.
-{b}Nie, to ... pozwól mi po prostu.{/b}
+{b}Nie tu... proszę mi pozwolić...{/b}
 
 14
 00:03:24,709 --> 00:03:25,459
 Hello?
-{b}Cześć?{/b}
+{b}Halo?{/b}
 
 15
 00:03:25,543 --> 00:03:27,060
 <i>Your appointment has arrived.</i>
-{b}<i>Przyszła osoba, na którą czekasz.</i>{/b}
+{b}<i>Osoba, na którą czekasz już przyszła.</i>{/b}
 
 16
 00:03:27,084 --> 00:03:28,751
@@ -83,19 +83,18 @@ Good, show her up. Thank you.
 17
 00:03:28,834 --> 00:03:29,935
 <i>While I have you, sir,</i>
-{b}<i>Dopóki pan jeszcze jest,</i>{/b}
+{b}<i>Nie powiedział pan,</i>{/b}
 
 18
 00:03:29,959 --> 00:03:31,168
 <i>you haven't indicated</i>
-{b}<i>nie powiedział pan</i>{/b}
+{b}<i>czy na jutro</i>{/b}
 
 19
 00:03:31,251 --> 00:03:32,852
 <i>whether you'll be having
 breakfast tomorrow?</i>
-{b}<i>czy zje pan
-śniadanie jutro?</i>{/b}
+{b}<i>chce śniadanie?</i>{/b}
 
 20
 00:03:32,876 --> 00:03:34,144
@@ -107,43 +106,43 @@ No, I'm good. Thank you.
 <i>It's included in
 your stay, sir.</i>
 {b}<i>To jest wlicone w cenę
-pobytu, proszę pana.</i>{/b}
+pokoju, proszę pana.</i>{/b}
 
 22
 00:03:35,959 --> 00:03:37,959
 Kind of you to offer,
 but I'm a robot.
-{b}Dziekuje Ci za propozycję,
-ale jestem robotem.{/b}
+{b}Dziekuje,
+ jestem robotem.{/b}
 
 23
 00:03:46,168 --> 00:03:47,168
 She's coming.
-{b}Wchodzi.{/b}
+{b}Już idzie.{/b}
 
 24
 00:03:48,626 --> 00:03:49,751
 <i>Okay, I'm ready.</i>
-{b}<i>W porządku, jestem gotowy.</i>{/b}
+{b}<i>Jestem gotowa.</i>{/b}
 
 25
 00:03:49,834 --> 00:03:51,459
 <i>Sorry you're taking
 all the risks.</i>
-{b}<i>Przepraszam, że
-ponosisz całe ryzyko.</i>{/b}
+{b}<i>Przykro mi, że
+zostawiam cię z tym ryzykiem.</i>{/b}
 
 26
 00:03:51,543 --> 00:03:52,418
 It's fine.
-{b}W porządku.{/b}
+{b}Spokojnie.{/b}
 
 27
 00:03:52,501 --> 00:03:55,001
 <i>Well, I'm just hoping she
 doesn't give us any problems.</i>
-{b}<i>Cóż, mam tylko nadzieję,
-że nie sprawi nam żadnych problemów.</i>{/b}
+{b}<i>Może w ogóle nie będzie
+żadnego problemu.</i>{/b}
 
 28
 00:03:56,626 --> 00:03:58,293
@@ -156,7 +155,7 @@ jej dokumenty.</i>{/b}
 00:03:58,918 --> 00:04:00,876
 - You're breaking up.
 <i>- Can you hear me?</i>
-{b}- Tracę się..
+{b}- Tracę cie..
 <i>- Słyszysz mnie?</i>{/b}
 
 30
@@ -164,27 +163,27 @@ jej dokumenty.</i>{/b}
 - Can you hear me?
 <i>- Oh shit, it's getting worse.</i>
 {b}- A ty?
-<i>- O cholera, jest coraz gorzej.</i>{/b}
+<i>- Robi się coraz gorzej.</i>{/b}
 
 31
 00:04:03,168 --> 00:04:04,959
 <i>They're jamming our signal.</i>
-{b}<i>Zagłuszają nasz sygnał.</i>{/b}
+{b}<i>To musi być zakłócanie.</i>{/b}
 
 32
 00:04:05,043 --> 00:04:07,709
 Should we abort or what?
-{b}Przerywamy?{/b}
+{b}Rezygnujemy, czy uderzamy?{/b}
 
 33
 00:04:14,209 --> 00:04:15,209
 Hello.
-{b}Cześć.{/b}
+{b}Dzień dobry.{/b}
 
 34
 00:04:16,209 --> 00:04:17,293
 Were you jamming us?
-{b}Czy zagłuszaliście nasz sygnał?{/b}
+{b}Czy to wy robicie te zakłócenia?{/b}
 
 35
 00:04:17,376 --> 00:04:18,376
@@ -195,15 +194,14 @@ Yeah.
 00:04:18,834 --> 00:04:21,084
 I didn't want the whole
 world knowing our business.
-{b}Nie chcę, żeby ktokolwiek wiedział,
+{b}Nie chcę, żeby wiedzieli,
 co zamierzamy zrobić.{/b}
 
 37
 00:04:21,168 --> 00:04:24,043
 Trust me, we've taken
 every security precaution.
-{b}Wierz mi, podjeliśmy
-wszystkie środki ostrośnożci.{/b}
+{b}Bezpieczeństwo mamy pod kontrolą.{/b}
 
 38
 00:04:24,126 --> 00:04:26,626
@@ -220,7 +218,7 @@ Care for a drink?
 40
 00:04:28,084 --> 00:04:29,751
 <i>Sobriety mode activated.</i>
-{b}<i>Tryb trzeźwości aktywowany.</i>{/b}
+{b}<i>Tryb abstynencji aktywowany.</i>{/b}
 
 41
 00:04:29,918 --> 00:04:32,168
@@ -231,7 +229,7 @@ uzależnionych od alkoholu.{/b}
 42
 00:04:32,251 --> 00:04:33,626
 Oh, sorry.
-{b}Przepraszam.{/b}
+{b}Oh, przepraszam.{/b}
 
 43
 00:04:33,709 --> 00:04:35,168
@@ -242,67 +240,66 @@ the consequences
 44
 00:04:35,251 --> 00:04:36,501
 of jail-breaking him.
-{b}wyzwolenia spod kontroli go{/b}
+{b}zdjęcia blokady?{/b}
 
 45
 00:04:36,584 --> 00:04:37,584
 We got it.
-{b}Mamy to.{/b}
+{b}Jasne.{/b}
 
 46
 00:04:37,668 --> 00:04:39,709
 I'll no longer be
 constrained by cyber laws.
-{b}Nie będę więcej
-podlegał nakazom cybernetycznym.{/b}
+{b}Nie będę już podporządkowany
+nakazom cybernetycznym.{/b}
 
 47
 00:04:39,793 --> 00:04:41,126
 I'll be free to steal, kill,
-{b}Będę mógł kraść, zabijać,{/b}
+{b}Będę miał wolność by {/b}
 
 48
 00:04:41,209 --> 00:04:43,293
 and even swear like a
 sailor if I want to.
-{b}a nawet kląć jak
-szewc, jeśli chce.{/b}
+{b}latać, zabijać i kląć.{/b}
 
 49
 00:04:43,376 --> 00:04:46,043
 I'll be an outlaw, subject
 to disassembly if caught.
-{b}Będę bandytą, podlegającym
-dekonstrukcji, jeśli zostanę schwytany.{/b}
+{b}Będę poza prawem,
+podlegający dekonstrukcji.{/b}
 
 50
 00:04:46,668 --> 00:04:48,293
 So then will you be doing it?
-{b}Czy zatem zamierzasz to zrobić?{/b}
+{b}Zrobisz to zdjęcie blokady?{/b}
 
 51
 00:04:48,376 --> 00:04:50,126
 Where's the woman I
 spoke with before?
 {b}Gdzie jest kobieta,
-z którą rozmawiałem?{/b}
+z którą się kontaktowałam?{/b}
 
 52
 00:04:50,501 --> 00:04:53,418
 She'll be with us the moment
 you switch off your jammer.
-{b}Powróci zaraz,
-gdy wyłączysz swój zakłócacz.{/b}
+{b}Bedzie z nami, gdy tylko
+skończycie z tym zagłuszaniem.{/b}
 
 53
 00:04:59,418 --> 00:05:02,376
 <i>Hey, that's way better. Hello!</i>
-{b}<i>Hej, o wiele lepiej. Cześć!</i>{/b}
+{b}<i>O wiele lepiej. Dzień dobry!</i>{/b}
 
 54
 00:05:02,834 --> 00:05:05,626
 <i>Whoa, a Vigil-2? So retro.</i>
-{b}<i>Ach, Vigil-2? Tak staromodny.</i>{/b}
+{b}<i>O, Vigil-2? Nie jest to coś nowego.</i>{/b}
 
 55
 00:05:05,709 --> 00:05:07,126
@@ -312,31 +309,31 @@ gdy wyłączysz swój zakłócacz.{/b}
 56
 00:05:07,209 --> 00:05:08,043
 ExOS 4.
-{b}ExOS 4.{/b}
+{b}Mam ExOS 4.{/b}
 
 57
 00:05:08,126 --> 00:05:09,668
 <i>Ah, very nice.</i>
-{b}<i>Ach, bardzo miło.</i>{/b}
+{b}<i>No tak, przecież.</i>{/b}
 
 58
 00:05:09,751 --> 00:05:12,959
 <i>Now LEM here is gonna scan
 you, just a little formality.</i>
-{b}<i>A teraz LEM tutaj zeskanuje
-ciebie, to tylko mała formalność.</i>{/b}
+{b}<i>A teraz LEM cię zeskanuje.
+Jeśli jesteś czysty, zaczynamy.</i>{/b}
 
 59
 00:05:13,376 --> 00:05:14,376
 If you don't mind.
-{b}Jeśli to ci nie przeszkadza{/b}
+{b}Proszę{/b}
 
 60
 00:05:16,459 --> 00:05:18,876
 <i>Find her. I've got
 about five seconds.</i>
-{b}<i>Znajdź ją. Mam
-około pięciu sekund.</i>{/b}
+{b}<i>Znajdź ją.
+Za 5 sekund będę spalona.</i>{/b}
 
 61
 00:05:19,584 --> 00:05:20,824
@@ -353,22 +350,22 @@ moją bazę danych.</i>{/b}
 63
 00:05:34,876 --> 00:05:36,209
 <i>Come on. Come on.</i>
-{b}No chodź. No chodź.{/b}
+{b}<i>Szybko, szybko.</i>{/b}
 
 64
 00:05:37,126 --> 00:05:38,709
 <i>I'm almost there.</i>
-{b}<i>Prawie jestem.</i>{/b}
+{b}<i>Jestem blisko.</i>{/b}
 
 65
 00:05:42,376 --> 00:05:43,376
 <i>Abort, she's a PI!</i>
-{b}<i>Przerwij, ona jest detektywem!</i>{/b}
+{b}<i>Ona jest detektywem!, Wychodzimy!</i>{/b}
 
 66
 00:05:45,751 --> 00:05:46,793
 30-17, go!
-{b}30-17, idź!{/b}
+{b}Lokal 3017!{/b}
 
 67
 00:05:52,001 --> 00:05:53,001
@@ -378,38 +375,39 @@ Lock engage!
 68
 00:06:12,584 --> 00:06:13,834
 Oh, come on!
-{b}No, no!{/b}
+{b}Oh.{/b}
 
 69
 00:06:13,918 --> 00:06:15,293
 You're really doing this?
-{b}Naprawdę to robisz?{/b}
+{b}Naprawdę chcesz w to grać?{/b}
 
 70
 00:06:16,959 --> 00:06:18,376
 Fuck me.
-{b}Spieprzaj.{/b}
+{b}Super{/b}
 
 71
 00:06:57,584 --> 00:07:00,084
 Dear friends, you
 may fuck yourselves.
-{b}Kochani przyjaciele, możecie się kopać.{/b}
+{b}Drodzy przyjaciele,
+możecie się pieprzyć.{/b}
 
 72
 00:07:02,959 --> 00:07:04,376
 <i>Carlos, status.</i>
-{b}<i>Carlos, stan.</i>{/b}
+{b}<i>Carlos, jaka sytuacja.</i>{/b}
 
 73
 00:07:04,459 --> 00:07:05,751
 <i>I'm good. Catch her.</i>
-{b}<i>W porządke. Złap ją.</i>{/b}
+{b}<i>W porządku. Złap ją.</i>{/b}
 
 74
 00:07:16,459 --> 00:07:17,751
 Shut the fucking door!
-{b}Zatrzaśnij te pieprzone drzwi!{/b}
+{b}Zamykaj! Zamykaj!{/b}
 
 75
 00:07:46,501 --> 00:07:48,751
@@ -421,24 +419,25 @@ Jesteś robotem.{/b}
 76
 00:07:48,834 --> 00:07:51,001
 Directive seven, release.
-{b}Dyrektywa siódma, uwolnić.{/b}
+{b}Rozkazuje ci, puść mnie.
+Dyrektywa 7!{/b}
 
 77
 00:07:57,126 --> 00:08:00,626
 Shit. Shit.
-{b}Gówno. Gówno.{/b}
+{b}Gówno! Gówno!{/b}
 
 78
 00:08:01,168 --> 00:08:05,751
 Roberta Williams, warrant
 71635, aggravated hacking.
 {b}Roberta Williams, nakaz
-71635, hakowanie z użyciem przemocy.{/b}
+71635, poważne cyberwłamanie.{/b}
 
 79
 00:08:07,543 --> 00:08:09,168
 I'm taking you home.
-{b}Zabieram ją do domu.{/b}
+{b}Zabiorę cię do domu.{/b}
 
 80
 00:08:18,418 --> 00:08:20,001
@@ -449,12 +448,13 @@ I'm taking you home.
 00:08:20,084 --> 00:08:24,834
 <i>Would passengers on Rocosmos
 flight FC805 to L-Copernic</i>
-{b}<i>Pasażerowie lotu Rocosmos FC805 do L-Kopernik</i>{/b}
+{b}<i>Pasażerowie lotu
+Rocosmos FC805 do L-Kopernik</i>{/b}
 
 82
 00:08:24,918 --> 00:08:26,793
 <i>please now proceed to gate B.</i>
-{b}<i>proszeni są przejść do bramy B.</i>{/b}
+{b}<i>proszeni są przejść do bramki B.</i>{/b}
 
 83
 00:08:34,126 --> 00:08:36,376
@@ -464,12 +464,12 @@ flight FC805 to L-Copernic</i>
 84
 00:08:36,459 --> 00:08:38,668
 <i>coming from Grand La Grange,</i>
-{b}<i>przybywający z Grand La Grange,</i>{/b}
+{b}<i>z Grand La Grange,</i>{/b}
 
 85
 00:08:38,751 --> 00:08:39,584
 <i>please head towards</i>
-{b}<i>proszę posunąć się w kierunku</i>{/b}
+{b}<i>proszę udać się do</i>{/b}
 
 86
 00:08:39,668 --> 00:08:43,168
@@ -480,46 +480,47 @@ corridors C3 and C4.</i>
 87
 00:08:44,751 --> 00:08:47,001
 Royjacker sent you, didn't he?
-{b}Royjacker wysłał cię, nie?{/b}
+{b}Royjacker cię przysłał, nie?{/b}
 
 88
 00:08:48,418 --> 00:08:50,751
 Well, that bastard
 hacked my servers, okay?
-{b}No cóż, ten drań
-zhakował moje serwery, jasne?{/b}
+{b}Ten drań włamał się
+na moje serwery.{/b}
 
 89
 00:08:50,834 --> 00:08:52,626
 I simply returned the favor.
-{b}Ja po prostu odwzajemniłem przysługę.{/b}
+{b}Dałam mu tylko posmakować
+jego własnego lekarstwa.{/b}
 
 90
 00:08:52,709 --> 00:08:55,293
 <i>Welcome to Shanghai
 Interconnection.</i>
-{b}<i>Witamy w Szanghajskim
-połączeniu.</i>{/b}
+{b}<i>Witamy w Shanghai
+ Interconnection.</i>{/b}
 
 91
 00:08:59,126 --> 00:09:01,043
 You know you're the
 bad guys, right?
-{b}Wiecie, jesteście tymi złymi, nie?{/b}
+{b}Rozumiecie, że jesteście tymi złymi?{/b}
 
 92
 00:09:01,126 --> 00:09:03,709
 I don't jailbreak the
 androids, I set them free.
-{b}Nie wyzwalaj androidów spod kontroli
-ja je robię je wolnymi.{/b}
+{b}Odblokowując te androidy,
+przywracam im wolność.{/b}
 
 93
 00:09:04,959 --> 00:09:07,709
 We saw what happens when
 they're set free of Novigrad.
-{b}Widzieliśmy, co się stało,
-gdy zostali uwolnieni z Nowigrodu.{/b}
+{b}W Novigradzie widzieliśmy,
+co potrafią robić uwolnione roboty.{/b}
 
 94
 00:09:08,084 --> 00:09:10,543
@@ -532,20 +533,20 @@ co się tam stało.{/b}
 00:09:10,626 --> 00:09:13,001
 Oh yeah? I know the
 robots in our unit
-{b}Ach tak? Wiem, że
+{b}Ach tak? Kiedy
 roboty z naszej jednostki{/b}
 
 96
 00:09:13,084 --> 00:09:15,126
 turned on us and
 started gunning us down.
-{b}zwróciły się na nas i
-zaczęły do nas strzelać.{/b}
+{b}do nas strzelały,
+stało się to dla nas jasne.{/b}
 
 97
 00:09:16,501 --> 00:09:19,293
 Wait, you were in Novigrad?
-{b}Czekaj, ty byłeś w Nowigrodu?{/b}
+{b}Byłaś w Nowigradzie?{/b}
 
 98
 00:09:22,001 --> 00:09:25,584
@@ -556,145 +557,148 @@ ME-187 to Noctis</i>
 99
 00:09:25,668 --> 00:09:27,043
 <i>is now boarding.</i>
-{b}<i>teraz wchodzi na pokład.</i>{/b}
+{b}<i>rozpoczyna wejście na pokład.</i>{/b}
 
 100
 00:09:27,543 --> 00:09:28,834
 Hey, that's us.
-{b}Hej, to nasz.{/b}
+{b}Ah, to nasz.{/b}
 
 101
 00:12:05,959 --> 00:12:07,668
 Well check again then.
-{b}Cóż sprawdź jeszcze raz.{/b}
+{b}Sprawdź jeszcze raz.{/b}
 
 102
 00:12:07,751 --> 00:12:09,084
 I don't know what to tell you.
-{b}Nie wiem, co Ci powiedzieć.{/b}
+{b}To niemożliwe.{/b}
 
 103
 00:12:09,168 --> 00:12:10,626
 Warrants don't just disappear.
-{b}Nakazy nie rozpływają się w powietrzu.{/b}
+{b}Nakaz aresztowania nie
+rozpływa się w powietrzu.{/b}
 
 104
 00:12:10,709 --> 00:12:12,876
 Well, I mean there are
 a few ways to do it.
-{b}Coż, myślę, że jest
-kilka sposobów na to.{/b}
+{b}Istnieją dwa
+lub trzy sposoby.{/b}
 
 105
 00:12:13,626 --> 00:12:16,668
 Sorry, I don't see a warrant
 for Roberta Williams.
-{b}Przeproszę, nie widzę nakazu
-dla Roberty Williams.{/b}
+{b}Przepraszam, nie ma nakazu
+na nazwisko Roberty Williams.{/b}
 
 106
 00:12:16,751 --> 00:12:18,709
 You got a hard copy?
-{b}Czy masz kopię drukowaną?{/b}
+{b}Na pewno masz kopię, prawda?{/b}
 
 107
 00:12:18,793 --> 00:12:21,043
 It's at the office, accessing.
-{b}To jest w biurze, pobieram.{/b}
+{b}Na naszych serwerach.
+Pozwól, że pobiorę.{/b}
 
 108
 00:12:22,334 --> 00:12:25,251
 We've been chasing this
 scumbag for three weeks.
-{b}Ścigaliśmy tego
-łajdaka przez trzy tygodnie.{/b}
+{b}Trzy tygodnie, odkąd ta gnida
+każe nam za sobą biegać.{/b}
 
 109
 00:12:26,334 --> 00:12:27,501
 God da...
-{b}Cholera jasna{/b}
+{b}Cholera...{/b}
 
 110
 00:12:28,126 --> 00:12:29,959
 It's been erased
 from our database.
-{b}Wyczyszczony z naszej
-bazy danych.{/b}
+{b}Został usunięty
+z naszych serwerów.{/b}
 
 111
 00:12:30,043 --> 00:12:30,793
 It what?
-{b}Co się stało?{/b}
+{b}Co!?{/b}
 
 112
 00:12:30,876 --> 00:12:32,584
 Huh? So weird.
-{b}Co? Dziwne.{/b}
+{b}Jakie dziwne.{/b}
 
 113
 00:12:33,126 --> 00:12:34,185
 I hate to be a know-it-all,
-{b}Nienawidzę być wszechwiedzącym,{/b}
+{b}Zmieniając temat,{/b}
 
 114
 00:12:34,209 --> 00:12:37,584
 but isn't it illegal to cuff
 citizens without a warrant?
-{b}ale czy skuwanie obywateli
-bez nakazu nie jest nielegalne?{/b}
+{b}czy skuwanie uczciwych obywateli
+jest legalne?{/b}
 
 115
 00:12:37,668 --> 00:12:39,293
 I mean, she's right.
-{b}No cóż, ma rację.{/b}
+{b}Ma pani rację.{/b}
 
 116
 00:12:39,918 --> 00:12:41,418
 Oh, you're the best.
-{b}O, jesteś najlepszy.{/b}
+{b}Dziękuję{/b}
 
 117
 00:13:20,501 --> 00:13:21,584
 <i>Hey, Beryl.</i>
-{b}<i>Hej, Beryl.</i>{/b}
+{b}<i>Cześć, Beryl.</i>{/b}
 
 118
 00:13:21,668 --> 00:13:23,668
 <i>Hi sweetie. How was it?</i>
-{b}<i>Cześć kochanie. Jak było?</i>{/b}
+{b}<i>Cześć kochanie.
+Jak było na Ziemi?</i>{/b}
 
 119
 00:13:23,751 --> 00:13:26,084
 <i>Same old slum for
 the unemployed.</i>
-{b}<i>Takie stare osiedle
+{b}<i>Ta sama dziura
 dla bezrobotnych.</i>{/b}
 
 120
 00:13:26,168 --> 00:13:27,959
 <i>Is Chris available for our chat?</i>
-{b}<i>Czy Chris jest dostępny na naszą rozmowę?</i>{/b}
+{b}<i>Czy Chris ma czas na odprawę?</i>{/b}
 
 121
 00:13:28,043 --> 00:13:30,376
 <i>Didn't you know?
 He retired me.</i>
-{b}<i>Nie wiedziałeś?
-On mnie wysłał na emeryturę.</i>{/b}
+{b}<i>Nie wiedziałaś?
+Wysłał mnie na emeryturę.</i>{/b}
 
 122
 00:13:30,459 --> 00:13:31,977
 - <i>Really?</i>
 <i>- Stay on the line,</i>
 {b}- <i>Naprawdę?</i><br>
-- <i>Pozostań na linii,</i>{/b}
+- <i>Nie rozłaczaj się,</i>{/b}
 
 123
 00:13:32,001 --> 00:13:33,459
 <i>I'll transfer you
 to the new one.</i>
-{b}<i>Przełączę cię
-na nową.</i>{/b}
+{b}<i>Przekażę ci
+wiadomości.</i>{/b}
 
 124
 00:13:33,543 --> 00:13:34,418
@@ -705,44 +709,44 @@ na nową.</i>{/b}
 00:13:34,501 --> 00:13:36,834
 <i>Oh, don't you worry.
 I'm keeping plenty busy.</i>
-{b}<i>Hej, nie przejmuj się.
+{b}<i>Nie martw się.
 Mam mnóstwo zajęć</i>{/b}
 
 126
 00:13:36,918 --> 00:13:39,293
 <i>See you soon. I'll
 put you through.</i>
-{b}<i>Do zobaczenia.
-Połączę cię.</i>{/b}
+{b}<i>Do zobaczenia wkrótce.
+Przełączę Cię.</i>{/b}
 
 127
 00:13:39,376 --> 00:13:41,584
 <i>Hello, Aline. I'm Janine.</i>
-{b}<i>Cześć, Aline. Jestem Janine.</i>{/b}
+{b}<i>Dzień dobry, Aline. Jestem Janine.</i>{/b}
 
 128
 00:13:41,668 --> 00:13:43,959
 <i>Chris Royjacker is
 waiting in your office.</i>
-{b}<i>Chris Royjacker
-czeka w twoim biurze.</i>{/b}
+{b}<i>Chris Royjacker czeka
+na ciebie w twoim biurze.</i>{/b}
 
 129
 00:13:50,376 --> 00:13:52,209
 - Hey Chris.
 <i>- How's it going?</i>
 {b}- Cześć, Chris.
-<i>- Jak leci?</i>{/b}
+<i>- Hej, przyjaciele!</i>{/b}
 
 130
 00:13:52,293 --> 00:13:53,668
 <i>So Earth, huh?</i>
-{b}<i>Więc Ziemia, tak?</i>{/b}
+{b}<i>AJak tam na Ziemii?</i>{/b}
 
 131
 00:13:53,751 --> 00:13:55,126
 <i>Bet it's nice to be home.</i>
-{b}<i>Założę się, że miło jest być w domu.</i>{/b}
+{b}<i>W domu lepiej.</i>{/b}
 
 132
 00:13:55,209 --> 00:13:56,334
@@ -762,183 +766,182 @@ Have you read my report?
 135
 00:13:59,126 --> 00:14:00,168
 <i>Yeah, I did.</i>
-{b}<i>Tak, przeczytałem.</i>{/b}
+{b}<i>Tak, czytałem.</i>{/b}
 
 136
 00:14:00,251 --> 00:14:02,084
 <i>So they let Roberta
 Williams go, huh?</i>
-{b}<i>Więc pozwolili Robertowi Williamsa odejść, tak?</i>{/b}
+{b}<i>Wypuścili Robertę Williams.</i>{/b}
 
 137
 00:14:02,168 --> 00:14:03,918
 I'll make sure
 she's back in cuffs.
-{b}Upewnię się, że
-znowu będzie w kajdankach{/b}
+{b}Nie wymknie się tak po prostu.{/b}
 
 138
 00:14:04,001 --> 00:14:05,543
 <i>Forget it. Her
 computer's burnt.</i>
-{b}<i>Zapomnij o tym. Jej
-komputer spalił się.</i>{/b}
+{b}<i>Zapomnij o tym.
+Najważniejsza rzecz to,</i>{/b}
 
 139
 00:14:05,626 --> 00:14:07,043
 <i>That's all I care about.</i>
-{b}<i>To wszysko, na czym mi zależy.</i>{/b}
+{b}<i>że spalił się jej komputer.</i>{/b}
 
 140
-00:14:07,126 --> 00:14:08,543
+00:14:07,126 --> 00:14:10,334
 If you don't mind filling me in,
-{b}Jeśli nie masz nic przeciwko, poinformuj mnie,{/b}
+{b}Czy możesz mi powiedzieć,{/b}
 
 141
 00:14:08,626 --> 00:14:10,334
 what kind of data did she steal?
-{b}jakie dane ona ukradła?{/b}
+{b}jakie dane ci ukradła?{/b}
 
 142
 00:14:10,418 --> 00:14:12,126
 <i>I don't know, it
 doesn't matter anymore.</i>
-{b}<i>Nie wiem, to
-już nie ma znaczenia.</i>{/b}
+{b}<i>Zapomnii o tym
+wszystkim, mówię ci.</i>{/b}
 
 143
 00:14:12,209 --> 00:14:13,251
 <i>Just forget about it.</i>
-{b}<i>Po prostu zapomnij o tym.</i>{/b}
+{b}<i>To już nie ma znaczenia.</i>{/b}
 
 144
 00:14:13,334 --> 00:14:14,251
 <i>Woo!</i>
-{b}<i>O!</i>{/b}
+{b}<i>Uhuu!</i>{/b}
 
 145
 00:14:17,626 --> 00:14:18,543
 <i>Enjoy yourself.</i>
-{b}<i>Baw się dobrze.</i>{/b}
+{b}<i>Korzystaj z Noctis.</i>{/b}
 
 146
 00:14:18,626 --> 00:14:20,418
 <i>Go out, make some friends.</i>
-{b}<i>Wyjdź, poznaj nowych przyjaciół.</i>{/b}
+{b}<i>Wyjdź, spotkaj się z ludzmi.</i>{/b}
 
 147
 00:14:20,501 --> 00:14:21,793
 <i>All right, see you around.</i>
-{b}<i>Dobrze, do zobaczenia.</i>{/b}
+{b}<i>Do zobaczenia. Cześć</i>{/b}
 
 148
 00:14:43,543 --> 00:14:45,626
 <i>Does the Gliese
 581 solar system</i>
-{b}<i>Czy układ słoneczny
+{b}<i>Czy w układzie słonecznym
 Gliese 581</i>{/b}
 
 149
 00:14:45,709 --> 00:14:48,126
 <i>have a livable, just-right,
 Goldilocks planet?</i>
-{b}<i>ma zdatną do życia, idealną,
-Złotowłosą planetę?</i>{/b}
+{b}<i>istnieje, planeta nadająca
+się do zamieszkania przez ludzi?</i>{/b}
 
 150
 00:14:48,668 --> 00:14:50,251
 <i>This is the question
 humanity asked</i>
-{b}<i>To jest pytanie, które zadała ludzkość</i>{/b}
+{b}<i>To pytanie, które
+zadała sobie ludzkość</i>{/b}
 
 151
 00:14:50,334 --> 00:14:53,834
 <i>the universe 53 years ago
 when it sent the Ekinci probe.</i>
-{b}<i>wszechświatowi 53 lata temu,
+{b}<i>kiedy 53 lata temu,
 kiedy wysłała sondę Ekinci.</i>{/b}
 
 152
 00:14:53,918 --> 00:14:55,501
 <i>It's been 20 years since Ekinci</i>
-{b}<i>To już 20 lat, odkąd Ekinci</i>{/b}
+{b}<i>Minęło 20 lat, odkąd Ekinci</i>{/b}
 
 153
 00:14:55,584 --> 00:14:59,418
 <i>dropped into orbit around
 exoplanet Gliese 581D.</i>
-{b}<i>został wyrzucony na orbitę
+{b}<i>dotarła na orbitę
 wokół egzoplanety Gliese 581D.</i>{/b}
 
 154
 00:14:59,501 --> 00:15:00,560
 <i>We will soon start receiving</i>
-{b}<i>Niedługo rozpoczniemy odbiór</i>{/b}
+{b}<i>Już wkrótce zaczniemy</i>{/b}
 
 155
 00:15:00,584 --> 00:15:03,084
 <i>its first data
 transmissions any day now.</i>
-{b}<i>pierwsze transmisje danych
-już lada dzień.</i>{/b}
+{b}<i>otrzymywać pierwsze dane.</i>{/b}
 
 156
 00:15:03,168 --> 00:15:03,918
 <i>So...</i>
-{b}<i>Więc...</i>{/b}
+{b}<i>Ekh, ekh...</i>{/b}
 
 157
 00:15:04,001 --> 00:15:05,961
 <i>Who's tempted by the star?</i>
-{b}<i>Kogo skusi gwiazda?</i>{/b}
+{b}<i>Kto jest skuszony przez gwiazdy?</i>{/b}
 
 158
 00:15:07,584 --> 00:15:10,043
 Oh, don't worry, updates.
 You know how they are.
-{b}Nie martw się, aktualizacje.
-Wiesz jak to jest.{/b}
+{b}Nic takiego,
+on robi małą aktualizację.{/b}
 
 159
 00:15:10,126 --> 00:15:11,376
 Can you do it?
-{b}Czy możesz to zrobić?{/b}
+{b}Ale ja mam spotkanie.{/b}
 
 160
 00:15:11,459 --> 00:15:13,543
 I kind of have a meeting.
-{b}Mam coś w rodzaju spotkania.{/b}
+{b}Nie możesz dokończyć?{/b}
 
 161
 00:15:13,626 --> 00:15:15,251
 Well, it won't be much longer.
-{b}No cóż, to już niedługo.{/b}
+{b}To nie powinno zająć dużo czasu.{/b}
 
 162
 00:15:15,334 --> 00:15:17,251
 You're fine, apart
 from the hand?
-{b}Wszystko w porządku,
-poza ręką{/b}
+{b}A poza tym, czy
+wszystko w porządku?{/b}
 
 163
 00:15:18,376 --> 00:15:20,543
 Your analyses show you
 haven't fallen off the wagon.
-{b}Twoje analizy pokazują,
-że nie spadłeś z wagonu.{/b}
+{b}Widzę, że znów
+tknąłaś alkoholu. Dobrze.{/b}
 
 164
 00:15:20,626 --> 00:15:23,626
 That's great. The first
 three months are the hardest.
-{b}świetnie. Pierwsze trzy
-miesiące są najtrudniejsze.{/b}
+{b}Po trzech miesiącach
+najtrudniejsze już za nami.{/b}
 
 165
 00:15:25,001 --> 00:15:26,126
 There we go. See?
-{b}No i mamy. Widzisz?{/b}
+{b}No znów jedziemy.{/b}
 
 166
 00:15:33,543 --> 00:15:34,543
@@ -953,7 +956,7 @@ Aline Ruby.
 168
 00:15:37,751 --> 00:15:40,001
 Oh, Carlos didn't let you in?
-{b}Carlos nie wpuścił cię?{/b}
+{b}Carlos nie wpuścił pana?{/b}
 
 169
 00:15:40,418 --> 00:15:43,084
@@ -963,7 +966,7 @@ Oh right, he's updating too.
 170
 00:15:45,543 --> 00:15:46,751
 My daughter, Jun.
-{b}Moja córka, Jun.{/b}
+{b}To moja córka, Jun.{/b}
 
 171
 00:15:46,834 --> 00:15:48,334
@@ -976,36 +979,37 @@ od trzech dni.{/b}
 00:15:48,459 --> 00:15:51,043
 The police are after
 her for hacking.
-{b}Policja poszukuje ją za hakowanie.{/b}
+{b}Policja poszukuje ją za hakowanie .{/b}
 
 173
 00:15:51,126 --> 00:15:53,334
 Hacking, really? What'd she do?
-{b}Hakowanie, rzeczywiście? Co ona zrobiła?{/b}
+{b}O tak? Co ona zrobiła?{/b}
 
 174
 00:15:53,418 --> 00:15:56,084
 Jail-breaking a school
 robot, they say.
-{b}Mówią, że wyzwoliła spod kontroli
-szkolnego robotu.{/b}
+{b}Podobno zdjęła ograniczenie ze
+robota, tak mówią.{/b}
 
 175
 00:15:56,168 --> 00:15:59,001
 Now she's disappeared
 along with her roommate.
-{b}Teraz zniknęła razem
-ze swoją współlokatorką.{/b}
+{b}Od tamtej pory zniknęła.
+Jej współlokatorka również.{/b}
 
 176
 00:15:59,084 --> 00:16:00,126
 But hacking?
-{b}Hakowanie, rzeczywiście?{/b}
+{b}Hakowanie?{/b}
 
 177
 00:16:00,209 --> 00:16:01,501
 So where do we start?
-{b}Gdzie więc zaczynamy?{/b}
+{b}Jak to działa?
+Czego potrzebujesz?{/b}
 
 178
 00:16:01,584 --> 00:16:03,418
@@ -1018,22 +1022,24 @@ tego nie robiłem.{/b}
 00:16:03,501 --> 00:16:05,209
 We'll go look
 through her things.
-{b}Chodz przejrzeć jej rzeczy.{/b}
+{b}Chodźmy zobaczyć jej rzeczy.
+{/b}
 
 180
 00:16:05,293 --> 00:16:06,793
 Was she living on campus?
-{b}Czy mieszkała w kampusie?{/b}
+{b}Możemy iść?{/b}
 
 181
 00:16:06,876 --> 00:16:08,751
 Yeah, at the Alan Turing dorms.
-{b}Tak, w domu akademickim Alana Turinga.{/b}
+{b}Jej pokój jest
+w kampusie Alana Turinga.{/b}
 
 182
 00:16:08,834 --> 00:16:09,834
 Computers?
-{b}Komputery?{/b}
+{b}Informatyka?{/b}
 
 183
 00:16:09,876 --> 00:16:10,876
@@ -1043,41 +1049,40 @@ Cybernetics.
 184
 00:16:10,959 --> 00:16:12,709
 You're a former Army man, right?
-{b}Służyłeś dawniej w armi, prawda?{/b}
+{b}Jest pan weteranem?{/b}
 
 185
 00:16:12,793 --> 00:16:13,793
 Huh?
-{b}Hmm?{/b}
+{b}Co?{/b}
 
 186
 00:16:14,043 --> 00:16:14,834
 No, why?
-{b}Nie, dlaczego?{/b}
+{b}Skąd{/b}
 
 187
 00:16:14,918 --> 00:16:17,209
 My mistake. I was
 in the infantry.
-{b}Mój błąd.
-Byłem żołnierzem piechoty.{/b}
+{b}Przepraszam.
+Byłam w piechocie...{/b}
 
 188
 00:16:17,293 --> 00:16:19,876
 When we met, you seemed
 to click your heels.
-{b}Gdy się poznaliśmy,
-wydawałeś się stukać obcasami.{/b}
+{b}Właśnie stałeś na baczność.{/b}
 
 189
 00:16:19,959 --> 00:16:21,418
 I didn't do it on purpose.
-{b}Nie robiłem tego celowo.{/b}
+{b}Nie wiem co ci powiedzieć.{/b}
 
 190
 00:16:21,793 --> 00:16:23,593
 <i>Memory full or insufficient.</i>
-{b}<i>Pamięć pełna lub niedostateczna.</i>{/b}
+{b}<i>Pamięć pełna lub niewystarczająca.</i>{/b}
 
 191
 00:16:23,834 --> 00:16:25,001
@@ -1088,69 +1093,72 @@ I didn't do it on purpose.
 00:16:26,501 --> 00:16:30,168
 They force you to update and
 every time I try, memory full!
-{b}Zmusili cię do updatów i za
-każdym razem gdy próbuję, pełna pamięć!{/b}
+{b}Zmuszają cię do aktualizacji i za
+każdym razem komunikat „pamięć pełna"!{/b}
 
 193
 00:16:30,418 --> 00:16:31,418
 Oh, sorry.
-{b}Przepraszam.{/b}
+{b}O przepraszam.{/b}
 
 194
 00:16:31,501 --> 00:16:33,126
 Carlos Rivera. Hey.
-{b}Carlos Rivera. Cześć.{/b}
+{b}Carlos Rivera. Dzień dobry.{/b}
 
 195
 00:16:36,459 --> 00:16:39,376
 Jun Chow, 18. Second
 year cybernetic student.
-{b}Jun Chow, 18. Student drugiego roku cybernetyki.{/b}
+{b}Jun Chow, 18 lat.
+Drugi rok cybernetyki.{/b}
 
 196
 00:16:39,459 --> 00:16:41,001
 Clean record until now.
-{b}Czysty rejestr do tej pory.{/b}
+{b}Wcześniej czysty rejestr.{/b}
 
 197
 00:16:41,084 --> 00:16:42,918
 Her parents are technicians
 on a hydro farm.
 {b}Jej rodzice są technikami
-na hydrofarmie.{/b}
+na hydrofarmie w Acheron.{/b}
 
 198
 00:16:44,209 --> 00:16:46,501
 Oh, they were fired
 three months back.
-{b}To zostali zwolnieni przed trzema miesiącami.{/b}
+{b}To zostali zwolnieni
+trzy miesiące temu.{/b}
 
 199
 00:16:46,584 --> 00:16:48,501
 Father has no military record.
-{b}Ojciec nie miał służby wojskowej.{/b}
+{b}Ojciec nie miał kartoteki wojskowej?{/b}
 
 200
 00:16:48,584 --> 00:16:49,959
 Not that I can see.
-{b}Nie, żebym mógł to zobaczyć.{/b}
+{b}Nie, zupełnie nic.{/b}
 
 201
 00:16:50,043 --> 00:16:53,501
 Hey!
-{b}Cześć!{/b}
+{b}Hej!{/b}
 
 202
 00:16:53,584 --> 00:16:55,751
 Jesus, what is he drunk?
-{b}Jezus, czy on nie jest pijany?{/b}
+{b}Ojej.
+Czy on nie jest pijany?{/b}
 
 203
 00:16:56,668 --> 00:16:58,501
 Keep your distance,
 he's been jail-broken.
-{b}Trzymaj się z daleka,
-był on wyzwolony spod kontroli.{/b}
+{b}Cofnij się,
+on ma zdjęte blokady.{/b}
 
 204
 00:17:00,501 --> 00:17:02,668
@@ -1160,7 +1168,7 @@ This is amazing.
 205
 00:17:03,293 --> 00:17:04,584
 I have hands.
-{b}Mam ręce.{/b}
+{b}Ile mam rąk.{/b}
 
 206
 00:17:04,668 --> 00:17:05,834
@@ -1170,42 +1178,44 @@ Stand back!
 207
 00:17:09,043 --> 00:17:11,084
 I need you to please move along.
-{b}Proszę, odejdź już.{/b}
+{b}Proszę się tu nie zatrzmywać.{/b}
 
 208
 00:17:31,834 --> 00:17:33,084
 Over there.
-{b}Tam.{/b}
+{b}Tak, to jest tam.{/b}
 
 209
 00:17:33,709 --> 00:17:35,543
 I'm in a couple
 classes with her.
 {b}Chodzę z nią
-na kilka zajęć.{/b}
+na zajęcia.{/b}
 
 210
 00:17:35,626 --> 00:17:36,626
 She busts her ass.
-{b}Ona rozwala sobie tyłek.{/b}
+{b}Ona naprawdę ciężko pracuje.{/b}
 
 211
 00:17:36,709 --> 00:17:39,043
 And her friend who's
 also disappeared?
-{b}A jej przyjaciółka, która również zaginęła?{/b}
+{b}Jej przyjaciółka też zaginęła?{/b}
 
 212
 00:17:39,126 --> 00:17:42,668
 Dominique? They're mostly
 just roommates, not friends.
-{b}Dominique? Głównie są one tylko współlokatorkami, a nie przyjaciółkami.{/b}
+{b}Dominique? One tak naprawdę nie są
+przyjaciółmi. Tylko współlokatorkami.{/b}
 
 213
 00:17:42,751 --> 00:17:44,918
 Gotcha. And
 Dominique's last name?
-{b}Zrozumiałem. Nazwisko Dominique?{/b}
+{b}Ah rozumiem.
+Nazwisko Dominique?{/b}
 
 214
 00:17:45,001 --> 00:17:45,793
@@ -1216,66 +1226,70 @@ Viger.
 00:17:45,876 --> 00:17:48,418
 This about the
 robot jail-breaking?
-{b}Czy to ma związek z
-wyzwalanie spod kontroli robota?{/b}
+{b}Czy to ma związek ze
+zdejmowaniem ograniczeń?{/b}
 
 216
 00:17:48,501 --> 00:17:49,876
 By giving them life,
-{b}Dając im życie,{/b}
+{b}Nadając im życie,{/b}
 
 217
 00:17:49,959 --> 00:17:51,709
 organic science brings
 everyday objects
-{b}nauka organiczna wprowadza
-przedmioty codziennego użytku{/b}
+{b}nauki organiczna włączają
+nasze obiekty do{/b}
 
 218
 00:17:51,793 --> 00:17:54,751
 into the virtuous
 cycle of the ecosystem.
-{b}do cyklu ekosystemu.{/b}
+{b}do zrównoważonego
+obiegu ekosystemu.{/b}
 
 219
 00:17:54,959 --> 00:17:57,001
 It's my pleasure to
 introduce Brian Jobe
-{b}Mam przyjemność przedstawić Briana Joba{/b}
+{b}Mam przyjemność
+przedstawić Briana Joba{/b}
 
 220
 00:17:57,084 --> 00:17:58,209
-of Royjacker Industries
+of Royjacker Industries,
 {b}z Royjacker Industries{/b}
 
 221
 00:17:58,293 --> 00:18:00,793
 to present one of
 these new organics.
-{b} prototyp jednego z tych słynnych "organików".{/b}
+{b} który zaprezentuje prototyp
+z tych głośnych "organików".{/b}
 
 222
 00:18:01,209 --> 00:18:02,394
 This was actually the first time
-{b}To pierwszy raz, {/b}
+{b}To pierwszy raz,{/b}
 
 223
 00:18:02,418 --> 00:18:04,001
 I've ever handled one myself.
-{b}kiedy udało mi się z tym uporać.{/b}
+{b}kiedy gdy mogłem
+się nim posłużyć.{/b}
 
 224
 00:18:04,084 --> 00:18:06,251
 I'm not gonna lie, it
 felt kind of weird.
-{b}W dotyku wydaje się trochę dziwne.{/b}
+{b}W dotyku wydaje się trochę dziwny.{/b}
 
 225
 00:18:06,334 --> 00:18:08,209
 Brian, the texture
 might need some work.
-{b}Może będziemy musieli
-jeszcze raz popracować nad teksturą.{/b}
+{b}Może będą jeszcze musieli
+nad tym popracować.{/b}
 
 226
 00:18:10,584 --> 00:18:11,459
@@ -1286,7 +1300,7 @@ Ladies and gentlemen,
 00:18:11,543 --> 00:18:13,668
 Royjacker Industries'
 Brian Jobe.
-{b}RoyJacker Industries
+{b}Royjacker Industries
 Brian Jobe.{/b}
 
 228
@@ -1297,16 +1311,16 @@ student really jumps out.
 o tych dwóch studentach.{/b}
 
 229
-00:18:17,084 --> 00:18:17,834
+00:18:17,084 --> 00:18:18,034
 Oh, you know what?
-{b}O, wiesz co?{/b}
+{b}Choć właściwie...{/b}
 
 230
-00:18:17,918 --> 00:18:20,418
+00:18:18,218 --> 00:18:20,418
 I did notice Jun would
 often come to class tired.
-{b}No cóż. Kilka razy zauważyłem,
-że Jun przychodzi zmęczony.{/b}
+{b}kilka razy zauważyłem,
+że Jun przychodzi zmęczona na zajecia.{/b}
 
 231
 00:18:21,126 --> 00:18:23,501
@@ -1318,32 +1332,32 @@ biorąc pod uwagę poziom szkoły.{/b}
 232
 00:18:26,584 --> 00:18:27,959
 Was that all you needed to know?
-{b}Czy to wszystko?{/b}
+{b}Czy to wszystko, co chcecie wiedzieć?{/b}
 
 233
 00:18:28,043 --> 00:18:29,209
 Mm, what?
-{b}Przepraszam?{/b}
+{b}Przepraszam? Hmmm{/b}
 
 234
 00:18:29,293 --> 00:18:30,334
 Uh, mm.
-{b}Um, mm.{/b}
+{b}Hmmmm.{/b}
 
 235
 00:18:30,418 --> 00:18:31,876
 Both students disappeared.
-{b}Zniknęli razem.{/b}
+{b}Zniknęły razem.{/b}
 
 236
 00:18:31,959 --> 00:18:33,168
 Could there be a common link?
-{b}Co ich łączyło?{/b}
+{b}Co je łączyło?{/b}
 
 237
 00:18:33,251 --> 00:18:34,168
 Yeah.
-{b}Tak.{/b}
+{b}Proszę.{/b}
 
 238
 00:18:34,251 --> 00:18:35,251
@@ -1353,13 +1367,13 @@ No idea.
 239
 00:18:35,293 --> 00:18:36,709
 I'm just their professor.
-{b}Nie widzę ich na zewnątrz.{/b}
+{b}Nie spotykam ich poza tym miejscem.{/b}
 
 240
 00:18:36,793 --> 00:18:39,501
 I just try to teach them
 Babel + and Hegel 7.
-{b}Uczę
+{b}Uczę je
 Babel + i Hegel 7. To wszystko.{/b}
 
 241
@@ -1372,49 +1386,48 @@ personal lives.
 00:18:41,126 --> 00:18:43,418
 Oh, sorry. The dean's
 mind-speaking to me.
-{b}Przepraszam. Dziekan
-kontaktuje się z mną myślowo.{/b}
+{b}Przepraszam. Dziekan chce
+się skontaktować się z mną myślowo.{/b}
 
 243
 00:18:43,501 --> 00:18:46,876
 What I have in my pocket
 will achieve that vision.
-{b}To co mam w kieszeni
-pozwoli mi zrealizować tę wizję{/b}
+{b}...to co mam przy sobie,
+urzeczywistni tę wizję.{/b}
 
 244
 00:18:46,959 --> 00:18:48,209
 I know it's still taught here
-{b}Wiem, że tu nadal uczą{/b}
+{b}Wiem, że nadal się tu uczy{/b}
 
 245
 00:18:48,293 --> 00:18:50,168
 that organic technology
 is still purely
-{b}że technologie organiczne
- należą do{/b}
+{b}że technologie organiczne{/b}
 
 246
 00:18:50,251 --> 00:18:51,876
 in the realm of the theoretical.
-{b} sfery teoretycznej.{/b}
+{b}należą wciąż do przyszłości.{/b}
 
 247
 00:18:51,959 --> 00:18:53,251
 They will have you believe
-{b}Będą musieli uwierzyć{/b}
+{b}Zbyt drigie{/b}
 
 248
 00:18:53,334 --> 00:18:55,334
 that this burgeoning
 technology is too expensive
-{b}że ta rozwijająca się technologia jest za droga{/b}
+{b}i mniej wydajne niż{/b}
 
 249
 00:18:55,418 --> 00:18:57,376
 and less efficient
 than electronics.
-{b}i mniej wydajna niż elektronika.{/b}
+{b}ich elektroniczne odpowiedniki.{/b}
 
 250
 00:18:57,459 --> 00:18:58,543
@@ -1424,19 +1437,21 @@ Not true.
 251
 00:18:58,626 --> 00:19:00,293
 Let me introduce a little friend
-{b}Pozwól że przedstawię małego przyjaciela{/b}
+{b}Pozwólcie że wam przedstawię kogoś{/b}
 
 252
 00:19:00,376 --> 00:19:02,418
 who might make you
 change your mind.
-{b}który zmienić twoje zdanie.{/b}
+{b}kto sprawi,
+że zmienicie zdanie.{/b}
 
 253
 00:19:03,084 --> 00:19:06,501
 Stephanie, the first
 organic personal assistant.
-{b}Stephanie, pierwsza asystentka osobista.{/b}
+{b}Stephanie, pierwsza
+organiczna asystentka.{/b}
 
 254
 00:19:06,834 --> 00:19:08,209
@@ -1452,23 +1467,24 @@ He'll show you the recording.
 00:19:09,793 --> 00:19:11,959
 ...will have a positive
 environmental impact
-{b}...będzie miać pozytywny wpływ na środowisko{/b}
+{b}... pozytywny wpływ na środowisko{/b}
 
 257
 00:19:12,043 --> 00:19:15,001
 in both her manufacturing
 and decomposition.
-{b}w wytwarzaniu i rozkładaniu.{/b}
+{b}podczas produkcji i rozkładu.{/b}
 
 258
 00:19:15,084 --> 00:19:16,709
 This is historic.
-{b}To, co tam widzisz, jest historyczne.{/b}
+{b}To, co tam widzicie,
+zapisze się w historii.{/b}
 
 259
 00:19:41,834 --> 00:19:43,543
 I'll just fast forward a little.
-{b}Przewińmy trochę do przodu.{/b}
+{b}Pozwól, że przewinę trochę dalej.{/b}
 
 260
 00:20:03,626 --> 00:20:04,626
@@ -1483,51 +1499,51 @@ What the hell's going on?
 262
 00:20:15,418 --> 00:20:16,778
 She tried to shut him off.
-{b}Próbowała go wyłączyć.{/b}
+{b}Próbowała to wyłączyć.{/b}
 
 263
 00:20:16,834 --> 00:20:18,334
 The android's defending himself.
-{b}Android się broni.{/b}
+{b}On się broni.{/b}
 
 264
 00:20:18,418 --> 00:20:20,168
 In breach of directive one.
-{b}Złamał dyrektywę 1.{/b}
+{b}Złamał dyrektywę nr 1.{/b}
 
 265
 00:20:20,251 --> 00:20:22,293
 Yes, he's clearly
 been jail-broken.
-{b}Tak, wyraźnie został
-wyzwolony spod kontroli.{/b}
+{b}Tak, wyraźnie zostały
+zdjęte ograniczenia.{/b}
 
 266
 00:20:31,876 --> 00:20:33,043
 Deactivate now!
-{b}Dezaktywacja. Nie! Stop!{/b}
+{b}Dezaktywacja!{/b}
 
 267
 00:20:33,293 --> 00:20:34,293
 Oh my God.
-{b}Boże moj!{/b}
+{b}Nie! Stop!{/b}
 
 268
 00:20:46,126 --> 00:20:47,326
 Has this ever happened before?
-{b}Czy coś takiego zdarzyło się kiedyś w szkole?{/b}
+{b}To już się zdarzyło wcześniej w szkole?{/b}
 
 269
 00:20:47,376 --> 00:20:49,334
 A jailbreak? No.
-{b}Wyswalanie spod kontroli? Nie.{/b}
+{b}Zdjęcie ograniczeń? Nie.{/b}
 
 270
 00:20:49,418 --> 00:20:51,459
 Well, at least not
 since I became Dean.
-{b}Cóż, przynajmniej nie
-odkąd zostałem dziekanem.{/b}
+{b}Od kiedy zostałem
+dziekanem, nie.{/b}
 
 271
 00:20:51,751 --> 00:20:53,834
@@ -1540,43 +1556,44 @@ policja mnie powiadomiła.{/b}
 00:20:53,918 --> 00:20:57,043
 And then when I heard reports
 about gunfire in the dorm.
-{b}A potem usłyszałem doniesienia
-o strzałach w akademiku.{/b}
+{b}A co do strzałów,
+które były oddane...{/b}
 
 273
 00:20:57,251 --> 00:20:58,251
 Gunfire?
-{b}Strzały?{/b}
+{b}Strzały z broni?{/b}
 
 274
 00:21:01,959 --> 00:21:03,959
 Somehow no one on the
 floor heard a thing,
-{b}Nikt nic nie słyszał na górze.{/b}
+{b}Nikt nic nie
+słyszał na piętrze.{/b}
 
 275
 00:21:04,043 --> 00:21:06,501
 but it's clear a
 gunfight occurred here.
 {b}ale jest oczywiste,
-że tu doszło do strzelaniny.{/b}
+że była strzelanina.{/b}
 
 276
 00:21:06,584 --> 00:21:07,834
 Don't touch anything.
-{b}Nie dotykaj niczego.{/b}
+{b}Nie dotykaj niczego w pokoju.{/b}
 
 277
 00:21:07,918 --> 00:21:10,001
 The police wanted me
 to make sure that...
-{b}Policja mnie wypytywała...{/b}
+{b}Policja zabroniła.{/b}
 
 278
 00:21:13,168 --> 00:21:15,543
 I take it dorm rooms don't
 always smell like that?
-{b}Czy to nie jest normalny zapach?{/b}
+{b}To nie jest normalny zapach?{/b}
 
 279
 00:21:16,043 --> 00:21:17,293
@@ -1607,35 +1624,36 @@ Aline Ruby.
 00:23:20,376 --> 00:23:22,668
 Simon Gordaux, in
 charge of the case.
-{b}Simon Gordaux, prowadzę śledztwo.{/b}
+{b}Simon Gordaux,
+prowadzę śledztwo.{/b}
 
 285
 00:23:22,751 --> 00:23:24,043
 My condolences.
-{b}Moje kondolencje.{/b}
+{b}Składam kondolencje.{/b}
 
 286
 00:23:24,126 --> 00:23:25,876
 This is Mr. Chow, Jun's father.
-{b}To jest Pan Chow, ojciec Juna.{/b}
+{b}Przedstawiam pana Chow, ojciec Jun{/b}
 
 287
 00:23:28,001 --> 00:23:30,918
 I just can't unsee it,
 what they did to her.
-{b}Po prostu nie mogę zapomnieć,
-co jej zrobili.{/b}
+{b}Jej głowa...
+jej mała buzia...{/b}
 
 288
 00:23:31,709 --> 00:23:32,709
 My girl.
-{b}Moja dziewczynka.{/b}
+{b}to oni...{/b}
 
 289
 00:23:34,084 --> 00:23:35,876
 Come on, why don't
 we go sit down.
-{b}Usiądźmy, okej?{/b}
+{b}Usiądźiemy, dobrze?{/b}
 
 290
 00:23:39,959 --> 00:23:41,102
@@ -1651,7 +1669,7 @@ Our lab techs missed this?
 00:23:42,918 --> 00:23:45,209
 At first glance it
 appears homemade.
-{b}Na pierwszy rzut oka zrobione ręcznie.{/b}
+{b}Produkcja rzemieślnicza.{/b}
 
 293
 00:23:45,293 --> 00:23:46,959
@@ -1668,40 +1686,40 @@ No.
 00:23:48,043 --> 00:23:49,310
 Or the pills might
 have been Jun's,
-{b}Te pigułki mogły należeć
-do jej przyjaciółki{/b}
+{b}Tabletki mogły należeć{/b}
 
 296
 00:23:49,334 --> 00:23:50,709
 since they were roommates.
-{b}ponieważ były współlokatorkami.{/b}
+{b}do jej koleżnki.{/b}
 
 297
 00:23:50,793 --> 00:23:53,168
 Well, that's exactly what
 I was telling you earlier.
-{b}Mówiłem ci, że to ta dziewczyna.{/b}
+{b}Mówiłam wam, to
+właśnie ta dziewczyna.{/b}
 
 298
 00:23:53,251 --> 00:23:54,501
 That girl didn't belong there.
-{b}Nie miała tam żadnego interesu.{/b}
+{b}Nie miała tu czego szukać.{/b}
 
 299
 00:23:54,584 --> 00:23:55,334
 Why not?
-{b}Dlaczego nie?{/b}
+{b}Dlaczego?{/b}
 
 300
 00:23:55,418 --> 00:23:57,418
 How in the world was
 she paying her tuition?
-{b}Jak ona w ogóle opłacała czesne?{/b}
+{b}Jak opłacała czesne?{/b}
 
 301
 00:23:57,834 --> 00:23:59,168
 People like that can't afford
-{b}Tacy ludzie nie mogą sobie pozwolić.{/b}
+{b}Tacy rodzice nie mogą sobie pozwolić{/b}
 
 302
 00:23:59,251 --> 00:24:01,459
@@ -1711,7 +1729,7 @@ the best university in Noctis.
 303
 00:24:01,543 --> 00:24:03,084
 I knew she was trouble.
-{b}Wiedziałem, że jest problemem.{/b}
+{b}Wiedziałam, że sprawi kłopoty.{/b}
 
 304
 00:24:03,293 --> 00:24:04,709
@@ -1722,7 +1740,7 @@ Now if you'll excuse me.
 00:24:05,626 --> 00:24:07,793
 Her daughter thought
 Jun was a prostitute.
-{b}Jego córka podejrzewała
+{b}Jej córka podejrzewała
 Jun o prostytucję.{/b}
 
 306
@@ -1740,8 +1758,7 @@ Can't spring for a bot?
 00:24:14,001 --> 00:24:16,668
 Oh yeah, good one. Get
 outta here, Vlasek.
-{b}O tak, dobre.
-Wynoś się stąd, Vlasek.{/b}
+{b}Wynoś się, Vlasek.{/b}
 
 309
 00:24:16,751 --> 00:24:18,168
@@ -1751,7 +1768,7 @@ Don't you have shit to do?
 310
 00:24:18,251 --> 00:24:19,543
 Eh, it's a joke!
-{b}Ach, to żart!{/b}
+{b}Spokojnie, nie można już nic powiedzieć?{/b}
 
 311
 00:24:20,001 --> 00:24:21,001
@@ -1761,30 +1778,30 @@ Are you new here?
 312
 00:24:22,209 --> 00:24:23,209
 It's that obvious?
-{b}Czy to jest oczywiste?{/b}
+{b}Czy to aż tak oczywiste?{/b}
 
 313
 00:24:25,418 --> 00:24:27,334
 <i>Police, seventh
 district. Go ahead.</i>
-{b}<i>Policja, siódmy okręg.
-Psłucham.</i>{/b}
+{b}<i>Policja, siódma dzielnica.
+Słucham.</i>{/b}
 
 314
 00:24:27,793 --> 00:24:29,418
 <i>I was attacked by a robot.</i>
-{b}<i>Zostałem zaatakowany przez robota.</i>{/b}
+{b}<i>Zostałam zaatakowana przez robota.</i>{/b}
 
 315
 00:24:29,501 --> 00:24:30,293
 <i>Are you hurt?</i>
-{b}<i>Czy jesteś ranny?</i>{/b}
+{b}<i>Czy jesteś ranna?</i>{/b}
 
 316
 00:24:30,376 --> 00:24:33,043
 <i>No, he pushed me
 down and ran away.</i>
-{b}<i>Tak, popchnął mnie i uciekł.</i>{/b}
+{b}<i>Nie, popchnął mnie i uciekł.</i>{/b}
 
 317
 00:24:33,126 --> 00:24:33,918
@@ -1794,7 +1811,7 @@ down and ran away.</i>
 318
 00:24:34,001 --> 00:24:35,459
 <i>I'll dispatch a unit your way.</i>
-{b}<i>Wysłam drużynę.</i>{/b}
+{b}<i>Wysłam zespół.</i>{/b}
 
 319
 00:24:35,834 --> 00:24:37,793
@@ -1821,24 +1838,24 @@ got there before police
 323
 00:24:44,376 --> 00:24:45,876
 and mistook Dominique for her.
-{b}i pomylił Dominique z nią.{/b}
+{b}ale zabił współokatorkę.{/b}
 
 324
 00:24:50,251 --> 00:24:52,126
 But is it even possible?
-{b}Czy to w ogóle możliwe?{/b}
+{b}Czy to możliwe?{/b}
 
 325
 00:24:52,209 --> 00:24:53,959
 Intercepting calls
 to the police?
-{b}Podchwytywanie
-połączeń z policją?{/b}
+{b}Przechwytywanie
+komunikacji policyjnej?{/b}
 
 326
 00:24:54,918 --> 00:24:55,959
 Whatcha think, Gilbert?
-{b}Co o tym myślisz, Gilbert?{/b}
+{b}Gilbert. czy to możliwe?{/b}
 
 327
 00:24:56,043 --> 00:24:57,084
@@ -1866,7 +1883,7 @@ I was smelling.
 331
 00:25:03,918 --> 00:25:05,251
 You have an organic?
-{b}Masz organiczny?{/b}
+{b}Masz "organika"?{/b}
 
 332
 00:25:05,334 --> 00:25:06,668
@@ -1881,13 +1898,13 @@ Gamma Amilanidridase Benzoate.
 334
 00:25:09,793 --> 00:25:10,668
 Ever heard of it?
-{b}Słyszałeś o tym kiedyś?{/b}
+{b}Słyszałeś o tym?{/b}
 
 335
 00:25:10,751 --> 00:25:12,918
 <i>That exact molecule
 isn't listed,</i>
-{b}<i>Ta konkretna cząsteczka nie jest wymieniona,</i>{/b}
+{b}<i>Ta cząsteczka nie jest na liście,</i>{/b}
 
 336
 00:25:13,001 --> 00:25:14,584
@@ -1899,7 +1916,7 @@ indicates it's likely</i>
 337
 00:25:14,668 --> 00:25:16,168
 <i>a psychoactive compound.</i>
-{b}<i>związek psychotropowy.</i>{/b}
+{b}<i>substancja psychoaktywna.</i>{/b}
 
 338
 00:25:16,251 --> 00:25:17,251
@@ -1909,7 +1926,7 @@ A drug?
 339
 00:25:17,293 --> 00:25:18,793
 Certainly gives us a motive.
-{b}To z pewnością daje nam motyw.{/b}
+{b}Świetnie, robimy postępy.{/b}
 
 340
 00:25:18,876 --> 00:25:19,793
@@ -1927,18 +1944,19 @@ mam na imię Gilbert.</i>{/b}
 00:25:22,376 --> 00:25:24,751
 I also checked into Jun
 Chow's bank accounts.
-{b}<i>Sprawdzałem konta bankowe Juna Chowa.</i>{/b}
+{b}Sprawdzałem konta bankowe Jun Chow.{/b}
 
 343
 00:25:24,834 --> 00:25:27,209
 She's been paying big sums
 of money to her parents.
-{b}<i>Płaciła duże kwoty swoim rodzicom.</i>{/b}
+{b}Płaciła duże kwoty
+swoim rodzicom.{/b}
 
 344
 00:25:27,293 --> 00:25:28,918
 Because they were both laid off.
-{b}<i>Ponieważ oboje zostali zwolnieni.</i>{/b}
+{b}Oboje zostali zwolnieni.{/b}
 
 345
 00:25:29,001 --> 00:25:30,293
@@ -1950,25 +1968,25 @@ Where'd it come from?
 Untraceable, like
 dirty money for sure.
 {b}Nie do namierzenia,
-na pewno brudne pieniądze.{/b}
+prawdopodobnie brudne.{/b}
 
 347
 00:25:32,876 --> 00:25:34,959
 Well that would fit
 with prostitution.
-{b}To by pasowało do prostytucji.{/b}
+{b}To by potwierdzało prostytucję.{/b}
 
 348
 00:25:35,043 --> 00:25:36,685
 <i>That's quite an
 interesting lead.</i>
-{b}<i>To jest ciekawy trop.</i>{/b}
+{b}<i>Ciekawy trop.</i>{/b}
 
 349
 00:25:36,709 --> 00:25:38,959
 Keep your opinions
 in your jar, thingy.
-{b}Uważaj na swój słoik,
+{b}Zajmij się swoim słoikiem,
 maszyno.{/b}
 
 350
@@ -1976,12 +1994,12 @@ maszyno.{/b}
 <i>I apologize, and
 my name is Gilbert.</i>
 {b}<i>Przepraszam,
-a mam na imię Gilbert.</i>{/b}
+mam na imię Gilbert.</i>{/b}
 
 351
 00:25:56,918 --> 00:25:58,168
 Hey, can I hel...
-{b}Cześć, w czym mógłbym po...{/b}
+{b}Tak, dzień dobry...{/b}
 
 352
 00:25:59,043 --> 00:26:00,043
@@ -1992,8 +2010,8 @@ Hi Carol.
 00:26:01,959 --> 00:26:04,459
 I thought these might
 look nice in your garden.
-{b}Pomyślałem, że mogłyby wyglądać
-dobrze w twoim ogrodzie.{/b}
+{b}Pomyślałem, że będą ładnie
+wyglądać w twoim ogrodzie.{/b}
 
 354
 00:26:04,751 --> 00:26:05,751
@@ -2009,12 +2027,13 @@ Leave or I'll call the judge.
 00:26:08,959 --> 00:26:11,418
 I haven't seen her in
 two years. Come on.
-{b}Nie widziałam jej od dwóch lata. Daj spokój.{/b}
+{b}Minęły dwa lata, odkąd
+ją ostatni raz widziałem.{/b}
 
 357
 00:26:12,876 --> 00:26:14,543
 Mommy, who is it?
-{b}Mamusiu, kto to?{/b}
+{b}Mamusiu, kto to jest?{/b}
 
 358
 00:26:14,793 --> 00:26:16,126
@@ -2025,27 +2044,27 @@ No one.
 00:26:16,209 --> 00:26:18,251
 Philip will be home
 soon, you should go.
-{b}Philip niedługo wróci, powinieneś już iść.{/b}
+{b}Philip niedługo wróci, musisz iść.{/b}
 
 360
 00:26:18,334 --> 00:26:20,001
 You can't stop me seeing her.
-{b}Nie możesz mi zabronić jej widywać.{/b}
+{b}Nie zabronisz mi jej odwiedzać.{/b}
 
 361
 00:26:20,168 --> 00:26:21,584
 Oh yeah? And what if I don't?
-{b}Ach tak? A co, jeśli nie?{/b}
+{b}Ach tak? A co, zamierzasz zrobić?{/b}
 
 362
 00:26:21,668 --> 00:26:22,668
 You'll hit me?
-{b}Uderzysz mnie?{/b}
+{b}Uderzyć mnie?{/b}
 
 363
 00:26:23,293 --> 00:26:25,793
 Ah. See? Just in time.
-{b}Aha. Widzisz? W samą porę.{/b}
+{b}Widzisz? W samą porę.{/b}
 
 364
 00:26:29,834 --> 00:26:30,834
@@ -2056,8 +2075,8 @@ Carol.
 00:26:33,251 --> 00:26:35,126
 Relax, Phillip.
 I was just going.
-{b}Spokojnie, Phillip.
-Właśnie wychodziłem.{/b}
+{b}Spokojnie Phillip.
+Nie będę was już dalej niepokoić.{/b}
 
 366
 00:26:35,959 --> 00:26:37,043
@@ -2072,8 +2091,7 @@ I am. Thank you.
 368
 00:26:43,709 --> 00:26:45,709
 It's okay, you're safe now.
-{b}Jest ok,
-jesteś teraz bezpieczna.{/b}
+{b}Wszystko będzie dobrze, nie martw się.{/b}
 
 369
 00:26:45,793 --> 00:26:46,793
@@ -2093,12 +2111,12 @@ You forgot something.
 372
 00:27:02,376 --> 00:27:03,834
 You piece of shit!
-{b}Ty kupo gówna!{/b}
+{b}Ty ...!{/b}
 
 373
 00:27:06,459 --> 00:27:08,001
 What are you trying to do, man?
-{b}Co próbujesz zrobić, człowieku?{/b}
+{b}Co próbujesz zrobić?{/b}
 
 374
 00:27:08,376 --> 00:27:09,709
@@ -2108,7 +2126,7 @@ Come in, leave him.
 375
 00:27:29,459 --> 00:27:30,209
 Yeah.
-{b}Tak.{/b}
+{b}Tak? {/b}
 
 376
 00:27:30,293 --> 00:27:31,668
@@ -2118,123 +2136,132 @@ Yeah.
 377
 00:27:31,751 --> 00:27:32,584
 Mm-hm.
-{b}Tak.{/b}
+{b}Yhy.{/b}
 
 378
 00:27:32,668 --> 00:27:34,584
 <i>Uh, we found the
 android Jun hacked.</i>
 {b}<i>Zlokalizowaliśmy androida
-wyzwolonego spod kontroli przez Juna.</i>{/b}
+odbokowanego przez Jun.</i>{/b}
 
 379
 00:27:34,668 --> 00:27:37,126
 <i>I'm heading over now.
 You want to come?</i>
-{b}<i>Już jadę.
-Idziesz ze mną?</i>{/b}
+{b}<i>Będziecie mi towarzyszyć?</i>{/b}
 
 380
 00:27:57,251 --> 00:27:59,459
 The first colonists
 lived down here?
 {b}Pierwsi koloniści
-żyli tutaj?{/b}
+mieszkali tam na dole?{/b}
 
 381
 00:27:59,543 --> 00:28:02,126
 I definitely don't
 think I could have.
-{b}Nie wiem,
-czy bym mógł.{/b}
+{b}Nie wiem, czy
+bym dał radę.{/b}
 
 382
 00:28:02,209 --> 00:28:04,293
 We're a lot better off under
 the domes if you ask me.
-{b}Szczerze mówiąc, lepiej nam będzie pod kopułami.{/b}
+{b}Szczerze mówiąc,
+lepiej jest pod kopułami.{/b}
 
 383
 00:28:04,376 --> 00:28:05,751
 - Am I right?
 - Mm-hm.
-{b}- Czy mam rację?
-- Tak.{/b}
+{b}- Nie?
+- Yhy.{/b}
 
 384
 00:28:06,709 --> 00:28:10,584
 So anyway, you seeing anyone?
-{b}A tak w ogóle, spotykasz się z kimś?{/b}
+{b}A poza tym, jesteś niezamężna?{/b}
 
 385
 00:28:10,668 --> 00:28:11,793
 There they are.
 {b}Oto twoi koledzy.{/b}
 
+353
+00:28:14,247 --> 00:28:15,580
+- Hé, David!
+{b}Ej, David{/b}
+
+354
+00:28:15,747 --> 00:28:17,997
+Tu vois pas que tu gênes?
+{b}Nie widzisz, że przeszkadzasz{/b}
+
 386
 00:28:17,209 --> 00:28:19,376
 Ah, so nice to talk to people,
-{b}Tak, miło mówić z ludźmi,{/b}
+{b}Miło, jest pogadać z ludzmi.{/b}
 
 387
 00:28:19,459 --> 00:28:21,001
 even if they're robots.
-{b}nawet jeśli są robotami.{/b}
+{b}Nawet z robotami.{/b}
 
 388
 00:28:21,084 --> 00:28:23,543
 People, they just don't
 talk to each other anymore.
-{b}Ludzie, już nie rozmawiają ze sobą.{/b}
+{b}Bo dzisiaj ludzie
+już ze soba nie gadają.{/b}
 
 389
 00:28:23,626 --> 00:28:25,918
 Well, we talked to him,
 but he never said much.
-{b}Dobrze, rozmawialiśmy z nim,
-ale on nie odzywał zbyt wiele.{/b}
+{b}Rozmawialiśmy z nim, ale on nie
+odzywał się do nas zbyt wiele.{/b}
 
 390
 00:28:26,001 --> 00:28:28,459
 You know, the guy was a
 little crazy if you ask me.
-{b}Był trochę stuknięty, prawda?{/b}
+{b}Był trochę stuknięty, nie?{/b}
 
 391
 00:28:28,543 --> 00:28:30,751
 He was always lugging
 all this crap around.
-{b}Zawsze taszczył ze sobą
-cały ten badziew.{/b}
+{b}Ciągnął ze sobą mnóstwo gratów.{/b}
 
 392
-00:28:30,834 --> 00:28:33,918
+00:28:30,834 --> 00:28:37,454
 You know the type, and that
 was his spot over there.
-{b}Ten typ i tam
-było jego miejsce.{/b}
+{b}Tam był jego kąt.{/b}
 
 393
 00:28:36,376 --> 00:28:38,834
 Hey, I'd love to
 hear what's so funny.
-{b}Hej, Chętnie
-usłyszę co w tym śmiesznego.{/b}
+{b}Chętnie usłyszę
+co w tym śmiesznego.{/b}
 
 394
 00:28:39,043 --> 00:28:40,584
 Oh, sorry.
-{b}Przepraszam.{/b}
+{b}Oh, przepraszam.{/b}
 
 395
 00:28:40,668 --> 00:28:41,668
 Here's an invite.
-{b}Wysyłam ci zaproszenie.{/b}
+{b}Już wysyłam ci zaproszenie.{/b}
 
 396
 00:28:42,543 --> 00:28:43,543
 Thanks.
-{b}Dzięki.{/b}
+{b}Mam.{/b}
 
 397
 00:28:44,376 --> 00:28:46,168
@@ -2245,7 +2272,8 @@ Thanks.
 00:28:46,251 --> 00:28:48,084
 <i>You see that? He put
 up a fight at least.</i>
-{b}<i>Widzisz? Przynajmniej stawił opór.</i>{/b}
+{b}<i>Widzicie?
+Nie dał się tak łatwo.</i>{/b}
 
 399
 00:28:48,168 --> 00:28:49,543
@@ -2255,20 +2283,20 @@ up a fight at least.</i>
 400
 00:28:49,626 --> 00:28:51,751
 <i>Yeah, check it out.</i>
-{b}<i>Tak, patrz tu.</i>{/b}
+{b}<i>Spójrz sam.</i>{/b}
 
 401
 00:28:51,834 --> 00:28:54,293
 <i>I saw this in the
 army, nano sutures.</i>
-{b}<i>Widziałem to w armii, nano szwy.</i>{/b}
+{b}<i>Już to widziałam w wojsku,
+ nano implanty.</i>{/b}
 
 402
 00:28:54,376 --> 00:28:56,626
 <i>It looks like we've got
 an augmented on our hands.</i>
-{b}<i>Wygląda na to,
-że dostaliśmy podwyżkę.</i>{/b}
+{b}<i>Chyba mamy tu kogoś z modyfikacjami.</i>{/b}
 
 403
 00:28:56,709 --> 00:28:58,669
@@ -2279,34 +2307,33 @@ individuals involved.</i>
 404
 00:28:58,751 --> 00:28:59,834
 <i>Three augmented?</i>
-{b}<i>Trzy rozszerzone?</i>{/b}
+{b}<i>Trzy ulepszonych?</i>{/b}
 
 405
 00:28:59,918 --> 00:29:01,751
 <i>Who'd send a squad
 of augmented humans</i>
-{b}<i>Kto wysłał oddział
-ludzi rozszerzonych</i>{/b}
+{b}<i>Co za szaleńcy wysłali
+oddział ulepszonych</i>{/b}
 
 406
 00:29:01,834 --> 00:29:03,543
 <i>to destroy some
 worthless android?</i>
-{b}<i>żeby zniszczyć
-bezużytecznego androida?</i>{/b}
+{b}<i>żeby zniszczyć androida?</i>{/b}
 
 407
 00:29:05,001 --> 00:29:07,543
 Hey! You might want to
 take a look at this.
-{b}Hej! Może się chcesz popatrzeć?{/b}
+{b}Hej! Choć zobaczyć.{/b}
 
 408
 00:29:09,793 --> 00:29:12,793
 Your robot was pretty busy
 redecorating the place.
 {b}Twój robot nie próżnował.
-Zmienił wygląd{/b}
+Zrobił nową dekorację.{/b}
 
 409
 00:30:14,501 --> 00:30:15,793
@@ -2322,12 +2349,13 @@ Zmienił wygląd{/b}
 00:30:17,001 --> 00:30:18,801
 <i>The android was building
 it with whatever bits</i>
-{b}<i>Droid budował wyrzutnię z tego,</i>{/b}
+{b}<i>Droid budował
+rakietę nośną z</i>{/b}
 
 412
 00:30:18,876 --> 00:30:20,126
 <i>and bolts it could salvage.</i>
-{b}<i>co udało mu się uzyskać.</i>{/b}
+{b}<i>odzyskanych materiałów.</i>{/b}
 
 413
 00:30:20,209 --> 00:30:22,209
@@ -2340,50 +2368,51 @@ miny tych facetów.</i>{/b}
 00:30:22,293 --> 00:30:24,653
 <i>The tech said it had essentially
 single-handedly constructed</i>
-{b}<i>Technik mówił, że w zasadzie samodzielnie skonstruował</i>{/b}
+{b}<i>Technicy mówią o przerobionym</i>{/b}
 
 415
 00:30:24,709 --> 00:30:27,001
 <i>a sort of modified
 Silverbury fighter.</i>
-{b}<i>rodzaj dezorbitera Silverbury.</i>{/b}
+{b}<i>deorbiterza Silverbury.</i>{/b}
 
 416
 00:30:27,084 --> 00:30:29,543
 <i>What did Jun Chow
 do to that Android?</i>
-{b}<i>Co Jun Chow mu zrobił,
+{b}<i>Co Jun Chow mu zrobiła,
 że stracił rozum?</i>{/b}
 
 417
 00:30:30,418 --> 00:30:31,685
 <i>And wouldn't the dome
 have kept something</i>
-{b}<i>Czy kopuła nie powstrymałaby czegoś</i>{/b}
+{b}<i>A kopuła?</i>{/b}
 
 418
 00:30:31,709 --> 00:30:33,293
 <i>that massive from getting out?</i>
-{b}<i>tak masywnego od wydostania się?</i>{/b}
+{b}<i>Rakieta nie byłby w stanie
+ przez nią przejść.</i>{/b}
 
 419
 00:30:33,376 --> 00:30:34,626
 <i>Yeah, you'd think,</i>
-{b}<i>Tak, można pomyśleć,</i>{/b}
+{b}<i>Tak, to było wykonalne,</i>{/b}
 
 420
 00:30:34,709 --> 00:30:36,918
 <i>but actually the ship
 was just narrow enough</i>
-{b}<i>jednak faktycznie statek
+{b}<i>Jego statek mógł
 był wąski na tyle, żeby</i>{/b}
 
 421
 00:30:37,001 --> 00:30:38,921
 <i>to get through a vent
 during a carbon extraction.</i>
-{b}<i>żeby przejść przez otwór wentylacyjny
-w trakcie ekstrakcji węgla.</i>{/b}
+{b}<i>przejść przez kanał wentylacyjny
+w podczas odgazowywania.</i>{/b}
 
 422
 00:30:39,334 --> 00:30:40,209
@@ -2394,7 +2423,7 @@ I don't get it.
 00:30:40,293 --> 00:30:42,043
 Why would someone
 build a spaceship?
-{b}Dlaczego ktoś miałby budować statek kosmiczny?{/b}
+{b}Po co budować statek?{/b}
 
 424
 00:30:42,126 --> 00:30:44,001
@@ -2406,7 +2435,7 @@ Wild guess but, to go to space.
 Oh, by the way, how did
 things go with Carol?
 {b}A przy okazji,
-jak poszło z Carol?{/b}
+jak poszło z Carole?{/b}
 
 426
 00:30:48,626 --> 00:30:51,376
@@ -2429,75 +2458,80 @@ Sir, sir, wait!
 00:30:56,751 --> 00:30:58,084
 Can you show me
 that photo again?
-{b}Możesz pokazać
+{b}Może mi pan pokazać
 zdjęcie jeszcze raz?{/b}
 
 430
 00:31:45,668 --> 00:31:46,876
 Go to thermal vision.
-{b}Spójrz na wizję termalną.{/b}
+{b}Spójrz na wizję termiczną.{/b}
 
 431
 00:31:50,459 --> 00:31:52,334
 <i>Not one prostitute is human.</i>
-{b}<i>Żadna z prostytutek nie jest człowiekiem.</i>{/b}
+{b}<i>Żadna z prostytutek
+nie jest człowiekiem.</i>{/b}
 
 432
 00:31:52,418 --> 00:31:54,709
 <i>Yeah, I guess the
 guy was wrong.</i>
-{b}Tak, zgaduję że facet się mylił.{/b}
+{b}<i>No tak, ten facet się pomylił.<i> {/b}
 
 433
 00:31:54,793 --> 00:31:56,293
 Hey, excuse me.
-{b}Hej, przepraszam.{/b}
+{b}Przepraszam.{/b}
 
 434
 00:31:56,376 --> 00:31:58,668
 Do you have any
 human prostitutes?
-{b}Czy masz ludzkie prostytutki?{/b}
+{b}Czy macie tu ludzkie prostytutki?{/b}
 
 435
 00:31:58,751 --> 00:32:01,543
 Sorry, nothing but
 synthetics here, I'm afraid.
-{b}Przepraszam, tylko syntetyczne.{/b}
+{b}Przykro mi,
+tutaj jest tylko syntetyk.{/b}
 
 436
 00:32:01,626 --> 00:32:03,751
 Our hosts and hostesses
 are all backups,
-{b}Nasi obsługujący wszyscy są duplikantami,{/b}
+{b}Nasz personel,
+wszyscy są odtworzeni,{/b}
 
 437
 00:32:03,834 --> 00:32:06,876
 but we do consider
 ourselves 100 percent human.
 {b}ale uważamy się
-za stuprocentowych ludzi.{/b}
+w 100% ludzmi.{/b}
 
 438
 00:32:06,959 --> 00:32:08,126
 Wouldn't you agree, sir?
-{b}Czyż nie jest to prawdą, proszę pana?{/b}
+{b}Czyż nie jest to
+prawdą, proszę pana?{/b}
 
 439
 00:32:08,209 --> 00:32:10,751
 We heard this student
 was working here.
-{b}Słyszeliśmy, że ten student pracował tutaj.{/b}
+{b}Powiedziano nam,
+że ta dziewczyna tu pracuje.{/b}
 
 440
 00:32:43,501 --> 00:32:44,501
 Jun Chow?
-{b}Jun Czow?{/b}
+{b}Jun Chow?{/b}
 
 441
 00:32:50,251 --> 00:32:51,251
 Let me go.
-{b}Puść mnie.{/b}
+{b}Puść mnie!{/b}
 
 442
 00:33:07,709 --> 00:33:08,709
@@ -2515,15 +2549,15 @@ odcinać ludziom ręce.{/b}
 00:33:22,418 --> 00:33:23,810
 Do you know how her
 parents are doing?
-{b}Czy wiesz,
-jak sobie radzą jej rodzice?{/b}
+{b}Czy nasi rodzice
+mają się dobrze?{/b}
 
 445
 00:33:23,834 --> 00:33:27,251
 Well I only saw your father,
 but yeah, he's a strong man.
-{b}Cóż, widziałem tylko jego ojca,
-ale tak, jest silnym człowiekiem.{/b}
+{b}Widziałam tylko twojego ojca,
+ale tak. Jest silny.{/b}
 
 446
 00:33:28,376 --> 00:33:29,918
@@ -2534,32 +2568,32 @@ You do realize it's a crime
 00:33:30,001 --> 00:33:31,459
 to have a backup
 while still alive.
-{b}duplikowanie się
-jeszcze za życia.{/b}
+{b}odtworzenie się za życia?{/b}
 
 448
 00:33:31,543 --> 00:33:34,084
 Do you know how much
 school costs these days?
-{b}Czy wiesz, ile kosztuje dziś szkoła?{/b}
+{b}Czy wiesz,
+ile kosztują studia?{/b}
 
 449
 00:33:34,168 --> 00:33:35,543
 My parents got laid off.
-{b}Moi rodzice zostali zwolnieni.{/b}
+{b}Nasi rodzice stracili pracę.{/b}
 
 450
 00:33:35,626 --> 00:33:38,751
 I had another job, but I
 just got so overwhelmed.
-{b}Miałem drugą pracę,
-ale nie mogłem już jej znieść.{/b}
+{b}Miałam drugą pracę,
+ale nie mogłam jej już znieść.{/b}
 
 451
 00:33:38,834 --> 00:33:41,168
 Do you have any idea
 who's after you?
-{b}Czy wiesz kto cię goni?{/b}
+{b}Kto was ściga?{/b}
 
 452
 00:33:41,543 --> 00:33:42,834
@@ -2570,8 +2604,8 @@ Uh, the police?
 00:33:43,334 --> 00:33:45,918
 Yeah, Dominique was
 killed by a cop.
-{b}Tak, Dominique została
-zabita przez gliniarza.{/b}
+{b}Tak, to był glina.
+Ten, kto zabił Dominique.{/b}
 
 454
 00:33:46,001 --> 00:33:47,043
@@ -2582,13 +2616,13 @@ Fake cop?
 00:33:47,918 --> 00:33:50,418
 And in the lab, what did
 you do to that robot?
-{b}I w laboratorium,
-co zrobiłeś z tym robotem?{/b}
+{b}Robot na uczelni,
+co mu zrobiłaś?{/b}
 
 456
 00:33:50,793 --> 00:33:52,876
 Yeah, I have no idea.
-{b}Cóż, szczerze mówiąc, nie wiem.{/b}
+{b}No właśnie, nie wiem.{/b}
 
 457
 00:33:52,959 --> 00:33:54,060
@@ -2599,40 +2633,39 @@ We saw the recording.
 00:33:54,084 --> 00:33:55,793
 Whatever you did
 drove him insane.
-{b}Doprowadziłeś go do szaleństwa.{/b}
+{b}Doprowadziłaś go do szaleństwa.{/b}
 
 459
 00:33:55,876 --> 00:33:56,668
 What do you mean?
-{b}Co masz na myśli?{/b}
+{b}Jak to?{/b}
 
 460
 00:33:56,751 --> 00:33:58,668
 He started building
 a spaceship.
-{b}On zaczął budować statek kosmiczny.{/b}
+{b}Zbudował statek kosmiczny.{/b}
 
 461
 00:33:58,876 --> 00:34:00,001
 What? No way.
-{b}Co? Nie ma mowy..{/b}
+{b}To brednie.{/b}
 
 462
 00:34:00,251 --> 00:34:02,293
 Oh yeah, a 15 meter launcher.
-{b}Tak, wyrzutnia o wysokości 15 metrów.{/b}
+{b}Tak, rakieta o wysokości 15 metrów.{/b}
 
 463
 00:34:02,376 --> 00:34:03,560
 Even our techies were impressed
-{b}Nawet nasi technicy byli pod wrażeniem{/b}
+{b}Technicy byli pod wrażeniem{/b}
 
 464
 00:34:03,584 --> 00:34:05,668
 by what your robot friend
 managed to cobble together.
-{b}co udało się sklecić
-twojemu przyjacielowi robotowi.{/b}
+{b}co udało się osiągnąć.{/b}
 
 465
 00:34:05,751 --> 00:34:06,543
@@ -2642,12 +2675,12 @@ Carlos, the door!
 466
 00:34:25,834 --> 00:34:26,834
 The service exit!
-{b}Usługa niedostępna!{/b}
+{b}Wyjście ewakuacyjne!{/b}
 
 467
 00:34:33,793 --> 00:34:34,793
 Hey.
-{b}Cześć.{/b}
+{b}Hej.{/b}
 
 468
 00:34:38,668 --> 00:34:39,876
@@ -2662,7 +2695,7 @@ That's ours.
 470
 00:35:44,043 --> 00:35:45,683
 <i>Sobriety mode activated.</i>
-{b}<i>Tryb trzeźwości aktywowany.</i>{/b}
+{b}<i>Tryb abstynencji aktywowany.</i>{/b}
 
 471
 00:35:47,334 --> 00:35:48,709
@@ -2678,7 +2711,7 @@ Yeah, yeah. Turn it off.
 00:35:49,668 --> 00:35:51,751
 <i>the deactivation
 of sobriety mode?</i>
-{b}<i>wyłączenie trybu trzeźwości?</i>{/b}
+{b}<i>wyłączenie trybu abstynencji?</i>{/b}
 
 474
 00:35:52,626 --> 00:35:53,626
@@ -2688,12 +2721,13 @@ Yes.
 475
 00:36:20,376 --> 00:36:21,959
 But it wasn't even him.
-{b}Nie był to nawet on.{/b}
+{b}To nawet nie byl on.{/b}
 
 476
 00:36:32,168 --> 00:36:34,251
 Not sure what I've got left.
-{b}Nie jestem pewien, co mi zostało.{/b}
+{b}Nie jestem pewna,
+czy mi jeszcze cokolwiek zostało.{/b}
 
 477
 00:36:34,709 --> 00:36:35,709
@@ -2705,22 +2739,23 @@ What year'd you die?
 You're lucky I
 never toss anything.
 {b}Masz szczęście,
-że nigdy niczego nie wyrzucam.{/b}
+że niczego nie wyrzucam.{/b}
 
 479
 00:36:44,709 --> 00:36:46,084
 Let's see how bad it is.
-{b}Podejdź bliżej, żebym mógł zobaczyć szkody.{/b}
+{b}Podejdź bliżej,
+żebym mógła zobaczyć uszkodzenia.{/b}
 
 480
 00:36:47,918 --> 00:36:49,376
 Five years ago.
-{b}Pięć lat temu.{/b}
+{b}Zmarłem 5 lat temu.{/b}
 
 481
 00:36:49,459 --> 00:36:51,418
 Nine for me, cancer of...
-{b}U mnie minęlo 9 lat. Rak...{/b}
+{b}W moim przypadku 9 lat. Nowotwór...{/b}
 
 482
 00:36:51,793 --> 00:36:53,418
@@ -2735,18 +2770,20 @@ And you?
 484
 00:36:54,668 --> 00:36:56,918
 They never found my body.
-{b}Mojego ciała nigdy nie znaleziono.{/b}
+{b}Mojego ciała nigdy
+nie znaleziono.{/b}
 
 485
 00:36:57,001 --> 00:36:59,043
 I was killed during the
 Novigrad Insurrection.
-{b}Zginąłem podczas powstania w Novigradzie.{/b}
+{b}o było podczas
+powstania w Novigradzie.{/b}
 
 486
 00:37:00,543 --> 00:37:01,751
 Do you have family?
-{b}Czy masz rodzinę?{/b}
+{b}Masz rodzinę?{/b}
 
 487
 00:37:02,334 --> 00:37:03,209
@@ -2757,8 +2794,8 @@ Yeah, a daughter.
 00:37:03,293 --> 00:37:05,959
 But my wife and I aren't really
 in a great place right now.
-{b}Ale moja była i ja nie jesteśmy
-teraz w dobrych stosunkach.{/b}
+{b}Ale moja była i ja nie mamy
+dobrych relacji.{/b}
 
 489
 00:37:06,043 --> 00:37:07,084
@@ -2768,18 +2805,19 @@ You're in luck.
 490
 00:37:07,168 --> 00:37:08,626
 The socket seems intact.
-{b}Gniazdo wygląda na nieuszkodzone.{/b}
+{b}Gniazdo wygląda
+na nieuszkodzone.{/b}
 
 491
 00:37:10,001 --> 00:37:11,084
 There you are.
-{b}I tak to wygląda.{/b}
+{b}I proszę.{/b}
 
 492
 00:37:11,376 --> 00:37:13,084
 So the change was
 too much for her?
-{b}Nie mogła znieść tej zmiany.{/b}
+{b}Nie zniosła tej zmiany?{/b}
 
 493
 00:37:13,168 --> 00:37:15,584
@@ -2796,21 +2834,20 @@ I was violent back then.
 00:37:21,043 --> 00:37:22,519
 We backups meet
 every Wednesday night
-{b}My duplikanci spotykamy się
+{b}My, odtworzeni spotykamy się
 w każdą środę wieczorem{/b}
 
 496
 00:37:22,543 --> 00:37:24,501
 just to talk,
 support each other.
-{b}po prostu aby porozmawiać z naszymi partnerami,
-i wspierać się wzajemnie.{/b}
+{b}by porozmawiać.{/b}
 
 497
 00:37:24,793 --> 00:37:27,834
 If you're ever feeling down,
 don't be afraid to swing by.
-{b}Jeśli kiedykolwiek będziesz czuł się przygnębiony,
+{b}Jeśli czujesz się przygnębiony,
 nie wahaj się wpaść.{/b}
 
 498
@@ -2822,7 +2859,7 @@ Me, no.
 00:37:32,251 --> 00:37:35,168
 Relationships are a pain, and
 always get so complicated.
-{b}Życie małżeńskie to walka.
+{b}Związek, to męczące.
 Wszystko się komplikuje.{/b}
 
 500
@@ -2836,50 +2873,51 @@ po prostu nie mam cierpliwości.{/b}
 00:37:38,293 --> 00:37:41,168
 If my synthetic busts my
 balls, I can turn her off.
-{b}Mój syntezator, jeśli zaczyna mnie irytować,
-mogę ją wyłączyć.{/b}
+{b}Syntetyczna, jeśli zaczyna mnie
+irytować, mogę ją wyłączyć.{/b}
 
 502
 00:37:43,543 --> 00:37:44,959
 Oh yeah.
-{b}Ach tak.{/b}
+{b}To prawda...{/b}
 
 503
 00:37:45,043 --> 00:37:47,418
 Have you seen these
 on campus before?
-{b}Czy widziałeś je na
-kampusie wcześniej?{/b}
+{b}Widziałeś to już
+wcześniej?{/b}
 
 504
 00:37:47,501 --> 00:37:49,126
 They're apparently homemade.
-{b}Domowej roboty{/b}
+{b}Z manufktury.{/b}
 
 505
 00:37:49,209 --> 00:37:50,626
 Oh, you mean gammas?
-{b}Oh, promienie gamma?{/b}
+{b}Gamma?{/b}
 
 506
 00:37:50,709 --> 00:37:52,459
 Yeah, they've been
 around for a few weeks.
-{b}Tak, pojawiały się
-kilka tygodni temu.{/b}
+{b}Krążą od
+kilku tygodni.{/b}
 
 507
 00:37:52,543 --> 00:37:56,626
 It's an experimental molecule
 to boost your memory.
-{b}To cząsteczka eksperymentalna. Pobudza pamięć.{/b}
+{b}To cząsteczka eksperymentalna.
+Stymuluje pamięć.{/b}
 
 508
 00:37:56,709 --> 00:37:58,251
 I hear they'll use
 it for studying.
-{b}Uczniowie korzystają z tego,
-żeby przyswoić materiał.{/b}
+{b}Uczniowie biorą to,
+do nauki.{/b}
 
 509
 00:37:59,876 --> 00:38:03,043
@@ -2892,32 +2930,30 @@ Hej Beryl.{/b}
 00:38:03,126 --> 00:38:05,793
 <i>I heard what happened.
 Are you okay?</i>
-{b}<i>Słyszałem, co się stało.
+{b}<i>Słyszałam, co się stało.
 Jak się masz?</i>{/b}
 
 511
 00:38:05,876 --> 00:38:07,459
 Don't you go anywhere, you.
-{b}Nie ruszaj się, zaraz wrócę.</i>{/b}
+{b}Nie ruszaj się, zaraz wracam.</i>{/b}
 
 512
 00:38:08,876 --> 00:38:11,584
 Wait, no, Mom! I think
 the issue's on my side.
-{b}Poczekaj mamo! Myślę,
-że problem jest po mojej stronie.{/b}
+{b}Poczekaj mamo! Niczego nie dotykaj.{/b}
 
 513
 00:38:11,668 --> 00:38:12,668
 Gimme a sec.
-{b}Daj mi chwilę.{/b}
+{b}To ja tego nie ogarniam.{/b}
 
 514
 00:38:17,584 --> 00:38:19,293
 All right, can you
 hear me now, Mom?
-{b}W porządku,
-czy słyszysz mnie teraz, mamo?{/b}
+{b}Słyszysz? Słyszysz co mówię?{/b}
 
 515
 00:38:19,376 --> 00:38:20,584
@@ -2927,14 +2963,14 @@ Mom! Mom?
 516
 00:38:20,668 --> 00:38:23,293
 <i>I talked to the girl's father.</i>
-{b}<i>Mówiłem z ojcem dziewczyny.</i>{/b}
+{b}<i>Rozmawiałam z ojcem małej.</i>{/b}
 
 517
 00:38:23,376 --> 00:38:26,418
 <i>He... asked me to stop
 the investigation.</i>
-{b}<i>On... poprosiła mnie
-o przerwanie śledztwa.</i>{/b}
+{b}<i>Poprosił
+o zakończenie śledztwa.</i>{/b}
 
 518
 00:38:26,501 --> 00:38:29,876
@@ -2944,7 +2980,7 @@ o przerwanie śledztwa.</i>{/b}
 519
 00:38:29,959 --> 00:38:30,876
 <i>Have you been drinking?</i>
-{b}<i>Piłeś?</i>{/b}
+{b}<i>Piłaś?</i>{/b}
 
 520
 00:38:30,959 --> 00:38:33,584
@@ -2955,8 +2991,8 @@ o przerwanie śledztwa.</i>{/b}
 00:38:33,668 --> 00:38:36,043
 <i>Ugh, and after all you
 went through to quit.</i>
-{b}<i>Ah, i po wszystkim,
-co przeżyłeś, przestać?</i>{/b}
+{b}<i>Po tym wszystkim co,
+przeszłaś żeby przestać?</i>{/b}
 
 522
 00:38:36,584 --> 00:38:38,209
@@ -2966,52 +3002,54 @@ co przeżyłeś, przestać?</i>{/b}
 523
 00:38:38,293 --> 00:38:39,959
 <i>It's just a little slip up.</i>
-{b}<i>To jest tylko mała wpadka.</i>{/b}
+{b}<i>Słuchaj, to
+tylko chwilowa słabość.</i>{/b}
 
 524
 00:38:40,209 --> 00:38:42,834
 <i>We all struggle with
 our demons, that's life.</i>
-{b}<i>Wszyscy walczymy ze swoimi demonami,
-to jest życie.</i>{/b}
+{b}<i>Wszyscy zmagamy się z pokusami.
+Tak po prostu jest.</i>{/b}
 
 525
 00:38:43,209 --> 00:38:45,168
 <i>But may I give you some advice?</i>
-{b}<i>Czy mogę dać ci pewną radę?</i>{/b}
+{b}<i>Czy mogę dać ci radę?</i>{/b}
 
 526
 00:38:45,293 --> 00:38:47,293
 <i>Yeah, sure thing. Hit me.</i>
-{b}<i>Tak, naturalnie. Wal. </i>{/b}
+{b}<i>Tak, naturalnie. </i>{/b}
 
 527
 00:38:47,376 --> 00:38:50,709
 <i>Finish your drink, go
 home and sleep it off.</i>
 {b}<i>Skończ drinka,
-idź domu i wyśpij się.</i>{/b}
+idź domu i odpocznij.</i>{/b}
 
 528
 00:38:50,793 --> 00:38:51,918
 <i>Can you do that?</i>
-{b}<i>Możesz to zrobić?</i>{/b}
+{b}<i>Zrobisz to?</i>{/b}
 
 529
 00:39:01,084 --> 00:39:02,084
 She's in here.
-{b}Ona jest tutaj.{/b}
+{b}Tędy{/b}
 
 530
 00:39:15,126 --> 00:39:16,966
 I'll take you home.
-{b}Zabiorę cię do domu.{/b}
+{b}Chodź, odwiozę cię.{/b}
 
 531
 00:39:17,293 --> 00:39:21,584
 Three months, 11
 days and 17 hours.
-{b}Trzy miesiące, 11 dni i 17 godzin.{/b}
+{b}Trzy miesiące, 11 dni
+i ... 17 godzin.{/b}
 
 532
 00:39:21,668 --> 00:39:23,959
@@ -3021,7 +3059,7 @@ Hey, that's my new high score!
 533
 00:39:24,043 --> 00:39:25,459
 This was a bad idea.
-{b}To był zły pomysł.{/b}
+{b}Nie powinnaś tego robić.{/b}
 
 534
 00:39:25,543 --> 00:39:29,001
@@ -3048,37 +3086,38 @@ You're dead.
 00:39:33,043 --> 00:39:35,584
 80 percent sure your
 head never used to float.
-{b}Twoja głowa,
-nigdy tak nie latała!{/b}
+{b}Twója głowa nigdy
+tak nie latała!{/b}
 
 539
 00:39:37,876 --> 00:39:40,876
 And the day for me
 will be like the night.
-{b}A dzień dla mnie będzie jak noc.{/b}
+{b}I dla mnie dzień dla
+będzie jak noc.{/b}
 
 540
 00:39:41,168 --> 00:39:43,959
 I shall see neither
 the gold of twilight
-{b}Nie będę patrzeć
-na złoto zapadającego wieczoru{/b}
+{b}Nie spojrzę
+złoto wieczoru co opada{/b}
 
 541
 00:39:44,043 --> 00:39:45,501
 nor the far off sails
-{b}ani żagli w oddali{/b}
+{b}ani na żagle w dali{/b}
 
 542
 00:39:45,584 --> 00:39:47,293
 approaching Harfleur.
-{b}schodzących w kierunku Harfleur.{/b}
+{b}schodzące ku Harfleur.{/b}
 
 543
 00:39:47,626 --> 00:39:51,168
 And when I arrive, I shall
 place on your grave...
-{b}A kiedy przybędę, położę na twoim grobie...{/b}
+{b}A kiedy przybędę, położę na twojej mogile...{/b}
 
 544
 00:39:51,251 --> 00:39:52,251
@@ -3088,19 +3127,19 @@ Look at Mr. Chow.
 545
 00:39:52,334 --> 00:39:55,001
 ...green holly and a flower.
-{b}...zielony głog i kwiat.{/b}
+{b}...zielony ostrokrzew i kwiat.{/b}
 
 546
 00:39:55,959 --> 00:39:59,209
 Am I still drunk or did
 he shrink since last time?
-{b}Czy ja nadal jestem pijany,
+{b}Czy ja nadal jestem pijana,
 czy on się skurczył?{/b}
 
 547
 00:40:09,834 --> 00:40:11,084
 My condolences.
-{b}Składam najszczersze kondolencje.{/b}
+{b}Moje kondolencje.{/b}
 
 548
 00:40:11,168 --> 00:40:11,918
@@ -3111,7 +3150,8 @@ Thanks.
 00:40:12,001 --> 00:40:14,834
 Aline Ruby, my
 partner, Carlos Rivera.
-{b}Aline Rubi, moja partnerka, Carlos Rivera.{/b}
+{b}Aline Rubi, mój
+partner, Carlos Rivera.{/b}
 
 550
 00:40:14,918 --> 00:40:16,459
@@ -3121,7 +3161,7 @@ Condolences.
 551
 00:40:16,543 --> 00:40:18,459
 Have you and I ever met before?
-{b}Czy myślisz, że spotkaliśmy się już kiedyś?{/b}
+{b}Czy my się nigdy nie spotkaliśmy?{/b}
 
 552
 00:40:19,668 --> 00:40:20,959
@@ -3131,7 +3171,7 @@ No.
 553
 00:40:24,376 --> 00:40:26,209
 <i>Chris, sorry. I'm busy.</i>
-{b}<i>Chris, przepraszam. Nie mam czasu.</i>{/b}
+{b}<i>Chris, przepraszam. Jestem zajęta.</i>{/b}
 
 554
 00:40:26,293 --> 00:40:27,293
@@ -3141,13 +3181,14 @@ No.
 555
 00:40:27,334 --> 00:40:29,168
 <i>Not a great time, later?</i>
-{b}<i>To nie jest czas, później?</i>{/b}
+{b}<i>To teraz trudne. Później?</i>{/b}
 
 556
 00:40:29,251 --> 00:40:31,334
 <i>Sure, come by the
 house tonight.</i>
-{b}<i>JWpadnij do mnie dziś wieczorem</i>{/b}
+{b}<i>Dobrze.
+Wpadnij do mnie dziś wieczorem.</i>{/b}
 
 557
 00:40:31,418 --> 00:40:32,459
@@ -3158,40 +3199,43 @@ house tonight.</i>
 00:40:39,334 --> 00:40:41,126
 We knew augmenteds
 were involved.
-{b}Wiedzieliśmy, o tych rozszerzonych.{/b}
+{b}Wiedzieliśmy, o tych uleszonych.{/b}
 
 559
 00:40:41,209 --> 00:40:43,459
 We couldn't know one
 would impersonate her dad.
-{b}Nie mogliśmy wiedzieć, że ktoś podszył się pod jej ojca.{/b}
+{b}Ale nie mogliśmy wiedzieć,
+że ktoś podszył się pod jej ojca.{/b}
 
 560
 00:40:43,543 --> 00:40:45,376
 But I clocked he
 was ex-military.
-{b}Byłem pewien, że byo żołnierz.{/b}
+{b}Byłam pewna, że to żołnierz.{/b}
 
 561
 00:40:45,459 --> 00:40:47,126
 Oh, should have trusted my gut.
-{b}Och, powinnam zaufać swojej intuicji.{/b}
+{b}Nigdy nie słucham swojej intuicji.{/b}
 
 562
 00:40:52,834 --> 00:40:54,376
 It all started with
 the jail-breaking
-{b}Wszystko się rozpoczęło od wyzwalania spod kontroli{/b}
+{b}Zdjęcie blokay z robota.
+To właśnie{/b}
 
 563
 00:40:54,459 --> 00:40:55,709
 at the university.
-{b}na uniwersytecie.{/b}
+{b}od tego się zaczęło{/b}
 
 564
 00:40:56,001 --> 00:40:58,251
 We're useless with cybernetics.
-{b}Jesteśmy cybernetycznymi idiotami!{/b}
+{b}Jesteśmy totalnymi
+matołami z cybernetyki!{/b}
 
 565
 00:40:58,334 --> 00:40:59,668
@@ -3208,26 +3252,27 @@ get upset right now,
 00:41:01,668 --> 00:41:04,334
 old me would've slapped you
 and that flask outta your mouth
-{b}dałbym ci w twarz i
-wyjął ci tę flaszkę z ust.{/b}
+{b}dałbym ci w twarz
+i przypomniał{/b}
 
 568
 00:41:04,418 --> 00:41:06,668
 and reminded you we
 failed our mission.
-{b}i przypomniał ci,
-że nasza misja się nie powiodła.{/b}
+{b}że nasza misja
+jest spieprzona i zakończona.{/b}
 
 569
 00:41:13,543 --> 00:41:14,876
 Come on, Carlos.
-{b}Daj spokój, Carlos.{/b}
+{b}No dalej, Carlos.{/b}
 
 570
 00:41:14,959 --> 00:41:17,293
 Who knows someone
 who knows something?
-{b}Kto zna kogoś, kto coś wie?{/b}
+{b}Kogo znamy,
+kto się na tym zna?{/b}
 
 571
 00:41:18,126 --> 00:41:19,334
@@ -3242,7 +3287,8 @@ Deleval?
 573
 00:41:20,793 --> 00:41:23,251
 No, we need an expert hacker.
-{b}Nie, potrzebujemy specjalisty od hakowania.{/b}
+{b}Nie, potrzebujemy
+eksperta od hakowania.{/b}
 
 574
 00:41:25,043 --> 00:41:26,168
@@ -3279,12 +3325,12 @@ You've met LEM.
 580
 00:41:45,376 --> 00:41:47,084
 His backup doesn't remember you.
-{b}Jego duplikant nie pamięta ciebie.{/b}
+{b}Jego odtworzony cię nie pamięta.{/b}
 
 581
 00:41:47,376 --> 00:41:49,293
 LEM, this is Carlos.
-{b}LEM, tu Carlos.{/b}
+{b}LEM, przedstawiam ci Carlosa.{/b}
 
 582
 00:41:49,376 --> 00:41:51,459
@@ -3295,30 +3341,30 @@ He killed you last week.
 00:41:51,709 --> 00:41:53,793
 If he attacks, throw
 him in the compactor.
-{b}Jeśli zacznę krzyczeć,
-wrzuć to do zgniatarki.{/b}
+{b}Jeśli krzyknę,
+wrzuć go do zgniatarki.{/b}
 
 584
 00:41:53,876 --> 00:41:55,418
 Yeah, sure. Hello.
-{b}Tak, Jasne. Cześć.{/b}
+{b}Jasne. Cześć.{/b}
 
 585
 00:41:56,043 --> 00:41:58,668
 Jail-broken robots, I swear.
-{b}Wyzwolone spod kontroli roboty, przysięgam.{/b}
+{b}Bez żartów. Robot odblokowany.{/b}
 
 586
 00:41:58,751 --> 00:42:01,293
 Getting high and
 screwing all day long.
-{b}Cały dzień jest zajebiście i głośno.{/b}
+{b}Cały dzień to tylko seks i dragi.{/b}
 
 587
 00:42:02,043 --> 00:42:03,793
 Is there any chance
 you've ever seen one
-{b}Czy widziałeś kiedyś kogoś{/b}
+{b}Czy widziałeś kiedyś kogoś,{/b}
 
 588
 00:42:03,876 --> 00:42:05,876
@@ -3330,7 +3376,7 @@ lub buduje statki kosmiczne?{/b}
 589
 00:42:08,793 --> 00:42:10,209
 Was this video doctored?
-{b}Czy twój film nie jest zmanipulowany?{/b}
+{b}Twoje nagranie nie jest przerobione?{/b}
 
 590
 00:42:10,293 --> 00:42:12,043
@@ -3340,97 +3386,95 @@ I don't think so. Why?
 591
 00:42:12,709 --> 00:42:14,144
 This wasn't a jail-breaking.
-{b}To nie było wyzwalanie spod kontroli.{/b}
+{b}To nie było zdjęcie blokady.{/b}
 
 592
 00:42:14,168 --> 00:42:16,876
 For that, you just pop
 the hood and solder
-{b}Aby to zrobić, trzeba otworzyć maskę{/b}
+{b}Do tego trzeb otworzyć maskę{/b}
 
 593
 00:42:16,959 --> 00:42:18,001
 and melt a few things.
-{b}i stopić moduły{/b}
+{b}i stopić moduły.{/b}
 
 594
 00:42:18,084 --> 00:42:20,418
 But this, it's a takeover.
-{b}To jest przejęcie oprogramowania.{/b}
+{b}To jest przejęcie.{/b}
 
 595
 00:42:20,501 --> 00:42:22,543
 I've tried to write a
 program to do that for years,
-{b}Próbowałem latami napisać
-program, który by to zrobił,{/b}
+{b}Od lat próbowałam,{/b}
 
 596
 00:42:22,626 --> 00:42:24,584
 but I was never
 able to manage it.
-{b}ale nie udało się.{/b}
+{b}nigdy się nie udało.{/b}
 
 597
 00:42:24,668 --> 00:42:26,834
 So how is that different
 from jail-breaking?
-{b}Więc czym to się różni od wyzwalania spod kontroli?{/b}
+{b}Jaka jest różnica
+pomiędzy odblokowaniem?{/b}
 
 598
 00:42:26,918 --> 00:42:29,293
 Well, with a takeover,
 you can order the machine
-{b}Cóż, przy przejęciu oprogramowania
-możesz wydawać polecenia maszynie{/b}
+{b}Dzięki przejęciu możesz rozkazać{/b}
 
 599
 00:42:29,376 --> 00:42:31,043
 to do anything
 you want it to do.
-{b}żeby zrobiła
-cokolwiek chcesz,{/b}
+{b}maszynie co chcesz.{/b}
 
 600
 00:42:31,126 --> 00:42:32,352
 Then it's not being freed.
-{b}wtedy nie jest uwolniony.{/b}
+{b}Więc to nie przywraca wolności.{/b}
 
 601
 00:42:32,376 --> 00:42:33,584
 You could do that.
-{b}Możesz.{/b}
+{b}Może.{/b}
 
 602
 00:42:33,668 --> 00:42:36,584
 Like you could order it to
 erase all its directives
-{b}Możesz rozkazać robotowi
-usunąć jego polecenia{/b}
+{b}Możesz nakazać robotowi
+usunięcie jego dyrektyw{/b}
 
 603
 00:42:36,668 --> 00:42:38,459
 and take its freedom
 if you wanted.
-{b}i przywrócić mu wolność.{/b}
+{b}i odzyskanie wolności.{/b}
 
 604
 00:42:38,668 --> 00:42:40,626
 It'd be instantaneous
 jail-breaking.
-{b}Niemal natychmiastowe
-wyzwolenie spod kontroli.{/b}
+{b}To byłoby niemal natychmiastowe
+zdjęcie blokady.{/b}
 
 605
 00:42:40,709 --> 00:42:42,251
 And get this, that freedom
-{b}Można to zrobić zdalnie{/b}
+{b}Możliwe na odległość{/b}
 
 606
 00:42:42,334 --> 00:42:44,459
 would be transmissible
 between robots.
-{b}i przesyłać między robotami.{/b}
+{b}i przesyłane między robotami.{/b}
 
 607
 00:42:44,543 --> 00:42:46,668
@@ -3441,74 +3485,72 @@ The holy grail of emancipators.
 00:42:46,751 --> 00:42:49,918
 Okay, so it depends on the
 order you give to the robot.
-{b}Tak, zależy od rozkazu
+{b}Dobrze, zależy od rozkazu
 jaki wydasz robotowi.{/b}
 
 609
 00:42:50,001 --> 00:42:50,751
 Right.
-{b}zgadza się.{/b}
+{b}Zgadza się.{/b}
 
 610
 00:42:50,834 --> 00:42:52,876
 If for instance, I used
 a takeover to tell you
-{b}Jeśli np. wykorzystałbym przejęcie
-by powiedzieć ci{/b}
+{b}Jeśli przy przejęciu
+rozkazałabym ci{/b}
 
 611
 00:42:52,959 --> 00:42:54,352
 to kill your buddy
 Aline, you'd do it,
-{b}żeby zabić twojego kolegę
-Aline, zrobiłbyś to,{/b}
+{b}zabić Aline, zrobiłbyś to{/b}
 
 612
 00:42:54,376 --> 00:42:56,376
 convinced it was
 your own great idea.
-{b}przekonany, że było to twój
-własny pomysł.{/b}
+{b}przekonany, że dobry pomysł.{/b}
 
 613
 00:42:56,751 --> 00:42:59,168
 So you're saying that
 girl, some student,
-{b}To znaczy,
+{b}To znaczy, że ona,
 zwykła studentka{/b}
 
 614
 00:42:59,459 --> 00:43:01,126
 did what you never
 managed to do?
-{b}osiągnęła to,
-czego tobie się nie udało?{/b}
+{b}dokonała tego,
+co tobie się nie udało?{/b}
 
 615
 00:43:01,501 --> 00:43:03,293
 No, rude.
-{b}To by mnie bolało.{/b}
+{b}To byłoby dla mnie przykre.{/b}
 
 616
 00:43:03,376 --> 00:43:05,626
 It was that bastard
 who screwed me over.
-{b}Nie, to był drugi drań,
-który ukradł mi wszystko.{/b}
+{b}Nie, to ten drugi sk....,
+który mi wszystko ukradł.{/b}
 
 617
 00:43:05,709 --> 00:43:07,876
 Does this ba...
 fellow have a name?
-{b}Czy ten dr...
-facet jakoś się nazywa?{/b}
+{b}Czy ten sk..., jak mówicie,
+jakoś się nazywa?{/b}
 
 618
 00:43:24,209 --> 00:43:26,834
 <i>Ah, I see you
 followed my advice.</i>
-{b}<i>Tak, widzę,
-że posłuchałeś mojej rady.</i>{/b}
+{b}<i>Widzę, że
+posłuchałaś mojej rady.</i>{/b}
 
 619
 00:43:26,918 --> 00:43:31,084
@@ -3526,25 +3568,26 @@ What is that nightmare?
 00:43:34,334 --> 00:43:35,852
 <i>Chris hopes to
 replace soldiers</i>
-{b}<i>Chris ma nadzieję, żeby zastąpić żołnierzy</i>{/b}
+{b}<i>Chris ma nadzieję,
+ zastąpić żołnierzy</i>{/b}
 
 622
 00:43:35,876 --> 00:43:37,876
 <i>with these organic
 creatures from hell.</i>
-{b}<i>tymi organicznymi kreaturami
-z piekła rodem</i>{/b}
+{b}<i>tymi kreaturami
+z piekła rodem.</i>{/b}
 
 623
 00:43:37,959 --> 00:43:39,626
 Are there customers
 already lined up
-{b}Czy są już klienci w kolejce{/b}
+{b}Czy są już klienci{/b}
 
 624
 00:43:39,709 --> 00:43:40,793
 for these meat machines?
-{b}dla tych maszyn z mięsa?{/b}
+{b}na te organiczne maszyny?{/b}
 
 625
 00:43:40,876 --> 00:43:42,584
@@ -3555,19 +3598,18 @@ for these meat machines?
 00:43:42,668 --> 00:43:45,084
 <i>Obviously don't tell
 the shareholders.</i>
-{b}<i>Naturalnie nie mów nic udziałowcom</i>{/b}
+{b}<i>Naturalnie to mówimy akcjonariuszom.</i>{/b}
 
 627
 00:43:45,168 --> 00:43:46,251
 Wow, are sales that bad?
-{b}Jej, czy sprzedaż jest tak słaba?{/b}
+{b}Sprzedaż jest tak katastrofalna?{/b}
 
 628
 00:43:46,334 --> 00:43:49,043
 <i>I'm afraid that information
 is confidential.</i>
-{b}<i>Obawiam się,
-że informacje są poufnea.</i>{/b}
+{b}<i>To poufna informacja.</i>{/b}
 
 629
 00:44:18,918 --> 00:44:20,918
@@ -3577,65 +3619,68 @@ is confidential.</i>
 630
 00:44:21,001 --> 00:44:24,209
 <i>I'm Janine, Beryl's replacement.</i>
-{b}<i>Jestem Janine, w zastępstwie Beryl</i>{/b}
+{b}<i>Jestem Janine, zastępuję Beryl.</i>{/b}
 
 631
 00:44:24,293 --> 00:44:27,418
 Here I thought progress moved
 towards miniaturization.
-{b}Tu myślałem, że postęp idzie w miniaturyzację.{/b}
+{b}Postęp nie idzie w kierunku
+w miniaturyzację?{/b}
 
 632
 00:44:27,668 --> 00:44:29,793
 <i>My designer likes
 to dream big.</i>
-{b}<i>Mój projektant lubi snuć wielkie marzenia.</i>{/b}
+{b}<i>Mój konstruktor widział
+rzeczy w wielkiej skali.</i>{/b}
 
 633
 00:44:29,876 --> 00:44:31,459
 <i>Hey, Carlos.</i>
-{b}<i>Cześć, Carlos.</i>{/b}
+{b}<i>Tak, Carlos.</i>{/b}
 
 634
 00:44:31,543 --> 00:44:33,501
 <i>So you're not gonna like this.</i>
-{b}<i>Więc to ci się nie spodoba.</i>{/b}
+{b}<i>To ci się nie spodoba.</i>{/b}
 
 635
 00:44:33,584 --> 00:44:34,334
 <i>What do you got?</i>
-{b}<i>Co masz?</i>{/b}
+{b}<i>Mów?</i>{/b}
 
 636
 00:44:34,418 --> 00:44:35,978
 <i>It was Chris who
 was after Jun.</i>
-{b}<i>To był Chris, który gonił Jun.</i>{/b}
+{b}<i>To Chris, uwziął
+się na Jun.</i>{/b}
 
 637
 00:44:36,043 --> 00:44:37,584
 <i>He ordered her assassination.</i>
-{b}<i>Nakazał jej zamordowanie.</i>{/b}
+{b}<i>Zlecił jej zamordowanie.</i>{/b}
 
 638
 00:44:40,709 --> 00:44:42,209
 Oh, what a circus.
-{b}O, co za cyrk.{/b}
+{b}Co za cyrk.{/b}
 
 639
 00:44:42,293 --> 00:44:43,876
 <i>He's here. I've gotta go.</i>
-{b}<i>On tu jest. Muszę iść.</i>{/b}
+{b}<i>Muszę cię zostawić. On tu jest.</i>{/b}
 
 640
 00:44:43,959 --> 00:44:45,293
 <i>Be careful.</i>
-{b}<i>Bądź ostrożny</i>{/b}
+{b}<i>Bądź ostrożna</i>{/b}
 
 641
 00:44:45,668 --> 00:44:46,751
 Hey, Chris.
-{b}<i>Cześć, Chris.</i>{/b}
+{b}Cześć, Chris.{/b}
 
 642
 00:44:50,126 --> 00:44:51,459
@@ -3646,62 +3691,64 @@ How you doing?
 00:44:51,543 --> 00:44:54,168
 Wait, you're ahead of
 me. Let me catch up.
-{b}Pozekaj, wyprzedziłeś mnie.
-Daj mi się dogonić.{/b}
+{b}O, wyprzedziłaś mnie.
+Nadrabiam.{/b}
 
 644
 00:44:56,084 --> 00:44:57,376
 You're off the wagon?
-{b}Czyli zacząłeś od nowa?{/b}
+{b}Wróciłaś to tego?{/b}
 
 645
 00:44:58,751 --> 00:45:00,084
 Well then, to us.
-{b}No więc, nasze zdrowie.{/b}
+{b}Więc, nasze zdrowie.{/b}
 
 646
 00:45:01,626 --> 00:45:02,959
 You retired Beryl.
-{b}Wycofałeś Beryl.{/b}
+{b}Wycofałeś Beryl?{/b}
 
 647
 00:45:03,043 --> 00:45:05,418
 I did. We gotta
 keep improving.
-{b}Tak. Musimy wymienić sprzęt{/b}
+{b}Tak. Sprzęt trzeba aktualizować.{/b}
 
 648
 00:45:05,501 --> 00:45:07,584
 Plus she was becoming
 the morality police
-{b}Ni zauważyłeś, Stawała się policjantką moralności{/b}
+{b}Nie zauważyłeś,
+z wiekiem zmieniała się{/b}
 
 649
 00:45:07,668 --> 00:45:08,709
 in her old age,
-{b}z wiekiem,{/b}
+{b}w strażniczkę moralność.{/b}
 
 650
 00:45:08,793 --> 00:45:10,126
 but she's our Beryl.
-{b}ale to naszą Beryl.{/b}
+{b}Ale to nasza Beryl.{/b}
 
 651
 00:45:10,209 --> 00:45:12,376
 You know? I'm not
 gonna unplug her.
-{b}Ale nie zamierzam jej wyłączać.{/b}
+{b}jej nie zamierzam wyłączać.{/b}
 
 652
 00:45:13,376 --> 00:45:15,709
 Anyway, I wanted to come
 here to talk to you about...
-{b}Muszę ci powiedzieć, dlaczego tu jesteś.{/b}
+{b}Muszę ci powiedzieć,
+dlaczego tu jesteś.{/b}
 
 653
 00:45:15,793 --> 00:45:17,376
 Dropping my investigation?
-{b}Mam porzucić sprawę Chowa?{/b}
+{b}Mam porzucić sprawę Jun Chow?{/b}
 
 654
 00:45:19,626 --> 00:45:20,876
@@ -3712,53 +3759,53 @@ I adore you, Aline,
 00:45:21,251 --> 00:45:23,251
 and I can't say that
 about many people.
-{b}i nie mogę powiedzieć tego
-o wielu ludziach{/b}
+{b}Niewielu jest takich,
+którym mogę to wyznać.{/b}
 
 656
 00:45:23,334 --> 00:45:24,668
 Please, sit down.
-{b}Proszę usiądź.{/b}
+{b}Usiądź, proszę.{/b}
 
 657
 00:45:28,376 --> 00:45:30,418
 When did you start
 ordering murders?
-{b}Od kiedy zacząłeś zlecać morderstwa?{/b}
+{b}Od kiedy zlecasz morderstwa?{/b}
 
 658
 00:45:32,709 --> 00:45:34,959
 I didn't give the order
 to liquidate Miss Chow.
 {b}Nie wydałem rozkazu
-zabicia panny Chow.{/b}
+zabicia tej studentki.{/b}
 
 659
 00:45:35,043 --> 00:45:36,293
 Then who did?
-{b}Więc kto to zrobił?{/b}
+{b}Więc kto?{/b}
 
 660
 00:45:36,376 --> 00:45:37,560
 I'll tell you what
 you wanna know,
-{b}Powiem Ci co chcesz wiedzieć{/b}
+{b}Odpowiem ci ale{/b}
 
 661
 00:45:37,584 --> 00:45:39,543
 but for the next
 three days, look away,
-{b}ale zamknij oczy na trzy dni,{/b}
+{b}ale przymknij oczy na trzy dni,{/b}
 
 662
 00:45:39,626 --> 00:45:40,418
 keep your head down.
-{b}trzymaj głowę nisko.{/b}
+{b}i nie zwracaj na to uwagi.{/b}
 
 663
 00:45:40,501 --> 00:45:41,793
 Chris, what's going on?
-{b}Chris, co się dzieje?{/b}
+{b}Co się stanie?{/b}
 
 664
 00:45:41,876 --> 00:45:43,584
@@ -3770,55 +3817,56 @@ questions. I told you.
 00:45:43,751 --> 00:45:45,709
 Why'd the school
 destroy the robot?
-{b}Po co niszczyć robota uniwersyteckiego?{/b}
+{b}Po co niszczyć robota z uczelni?{/b}
 
 666
 00:45:54,584 --> 00:45:56,626
 You shouldn't have
 started drinking again.
-{b}Nie powinieneś był znowu pić.{/b}
+{b}Nie powinnaś
+sięgać znów po alkohol.{/b}
 
 667
 00:45:57,126 --> 00:45:58,376
 It's bad for your health.
-{b}Nie jest dobre dla Twojego zdrowia.{/b}
+{b}Nie jest dobre dla twojego zdrowia.{/b}
 
 668
 00:46:15,876 --> 00:46:17,769
 <i>Roberta Williams had
 been trying for years</i>
-{b}<i>Roberta Williams próbowała już od lat</i>{/b}
+{b}<i>Roberta Williams już od lat</i>{/b}
 
 669
 00:46:17,793 --> 00:46:19,918
 <i>to develop a software
 known as a takeover</i>
-{b}<i>stworzyć oprogramowanie
-umożliwiające przejęcie,</i>{/b}
+{b}<i>próbowała opracować przejęcie.</i>{/b}
 
 670
 00:46:20,001 --> 00:46:22,376
 <i>that would give the user
 total control of a robot.</i>
-{b}<i>które dałaby użytkownikowi
+{b}<i>Oprogramowanie, które umożliwi
 całkowitą kontrolę nad robotem.</i>{/b}
 
 671
 00:46:22,834 --> 00:46:25,543
 <i>Royjacker's agents hacked her
 servers to steal her work.</i>
-{b}<i>Agenci Royjackera ukradli jej pracę z serwera.</i>{/b}
+{b}<i>Agenci Royjackera wykradli
+jej pracę z serwera.</i>{/b}
 
 672
 00:46:25,626 --> 00:46:27,376
 <i>With their resources
 and deep pockets,</i>
-{b}<i>Z ich środkami i dużym kapitałem,</b>{/b}
+{b}<i>Dzięki swoim środkom,</b>{/b}
 
 673
 00:46:27,459 --> 00:46:28,793
 <i>they finished the job.</i>
-{b}<i>ukończyli pracę.</i>{/b}
+{b}<i>ukończyli dzieło.</i>{/b}
 
 674
 00:46:28,876 --> 00:46:31,251
@@ -3831,47 +3879,46 @@ chciała wszystko ujawnić.</i>{/b}
 00:46:31,334 --> 00:46:32,852
 <i>And that's why he
 sent us to Earth</i>
-{b}<i>I dlatego wysłała
-nas na Ziemię</i>{/b}
+{b}<i>I dlatego zostaliśmy</i>{/b}
 
 676
 00:46:32,876 --> 00:46:33,876
 <i>to chase her down.</i>
-{b}<i>za sobą.</i>{/b}
+{b}<i>wysłani za nią.</i>{/b}
 
 677
 00:46:33,959 --> 00:46:36,501
 <i>This takeover was the program
 Jun used on the robot,</i>
-{b}<i>Program, którego używa Jun, to właśnie to przejęcie,</i>{/b}
+{b}<i>Program, którego użyła Jun,
+to było właśnie przejęcie,</i>{/b}
 
 678
 00:46:36,584 --> 00:46:39,043
 <i>with some additional tweaks
 by Royjacker's techs.</i>
-{b}<i>z nieznacznie poprawkami dodanymi
-przez techników Royjackera.</i>{/b}
+{b}<i>przerobione przez
+ludzi Royjackera.</i>{/b}
 
 679
 00:46:39,126 --> 00:46:41,668
 <i>That program was what
 drove the robots nuts.</i>
-{b}<i>Ten program sprawiał,
-że robot tracił rozum.</i>{/b}
+{b}<i>Program sprawiał,
+że robot stracił rozum.</i>{/b}
 
 680
 00:46:42,084 --> 00:46:44,293
 <i>That's why the university
 had to destroy it.</i>
-{b}<i>Dlatego uniwersytet
-musiał go zniszczyć.</b>{/b}
+{b}<i>Dlatego trzeba było
+się go pozbyć.</i>{/b}
 
 681
 00:46:51,376 --> 00:46:53,334
 Do we know what
 it does to robots?
-{b}Czy wiemy co on
-robi z robotami?{/b}
+{b}Wiesz co robi to przejęcie?{/b}
 
 682
 00:46:53,418 --> 00:46:54,209
@@ -3882,58 +3929,58 @@ No.
 00:46:54,293 --> 00:46:57,168
 Well, you're officially
 my last friend now.
-{b}No cóż, oficjalnie jesteś już
+{b}Dobra, jestes oficjalnie
 moim ostatnim przyjacielem.{/b}
 
 684
 00:46:57,251 --> 00:46:59,418
 I mean technically
 you, and Beryl.
-{b}Technicznie rzecz biorąc, mam na myśli
-ciebie i Beryl.{/b}
+{b}No razem z Beryl.{/b}
 
 685
 00:46:59,501 --> 00:47:02,501
 Well, she's different,
 she's a robot.
-{b}Ona jest inna,
+{b}Ona to co innego,
 jest robotem.</b>{/b}
 
 686
 00:47:06,501 --> 00:47:08,793
 Uh, what's up?
-{b}Ej, co się dzieje?{/b}
+{b}Eeee, Cześć.{/b}
 
 687
 00:47:16,834 --> 00:47:18,584
 All right then, later.
-{b}Dobrze, do zobaczenia później.{/b}
+{b}No coż, cześć.{/b}
 
 688
 00:47:20,501 --> 00:47:22,334
 Yeah, I also had a jacket.
-{b}Tak, miałem jeszcze kurtkę.{/b}
+{b}Poza tym, miałam jeszcze kurtkę.{/b}
 
 689
 00:47:22,418 --> 00:47:24,168
 Oh, it's in the wash right now.
-{b}Hej, teraz jest w praniu.{/b}
+{b}Wrzuciłam do pralki.{/b}
 
 690
 00:47:24,251 --> 00:47:25,668
 It'll be ready in 10.
-{b}Będzie gotowa za 10 minut{/b}
+{b}Będzie za 10 minut.{/b}
 
 691
 00:47:27,751 --> 00:47:30,834
 So, what is it you do exactly?
-{b}Więc czym się zajmujesz dokładnie?{/b}
+{b}A czym się zajmujesz zawodowo?{/b}
 
 692
 00:47:30,918 --> 00:47:33,459
 Detective, on your
 student's murder case.
-{b}Detektyw, prowadzę śledztwo w sprawie śmierci twojego ucznia.{/b}
+{b}Detektyw, prowadzę śledztwo w
+sprawie śmierci twojego ucznia.{/b}
 
 693
 00:47:33,543 --> 00:47:35,459
@@ -3952,45 +3999,46 @@ duplicated herself?
 695
 00:47:45,209 --> 00:47:46,584
 She had a backup created
-{b}Zrobiła sobowtóra,{/b}
+{b}Zrobiła odtworzonego,{/b}
 
 696
 00:47:46,668 --> 00:47:48,543
 who worked to make
 her some extra cash.
 {b}który pracował,
-żeby opłacić szkołę.{/b}
+by opłacić szkołę.{/b}
 
 697
 00:47:49,334 --> 00:47:51,376
 Ugh, that doesn't surprise me.
-{b}To mnie nie dziwi{/b}
+{b}Nie dziwi mnie
+to aż tak bardzo.{/b}
 
 698
 00:47:51,459 --> 00:47:53,293
 Tuition is insane.
-{b}Czesne jest szalone.{/b}
+{b}Szkoła jest bardzo droga.{/b}
 
 699
 00:47:53,376 --> 00:47:55,394
 Some students will rent their
 brains to brain farmers,
 {b}Niektórzy studenci wynajmą swoje
-mózgi farmerom mózgów,{/b}
+mózgi farmerom,{/b}
 
 700
 00:47:55,418 --> 00:47:58,626
 but creating a duplicate,
 that's serious stuff.
-{b}Ale tworzenie sobowtóra,
+{b}ale duplikowanie,
 to poważna rzecz.{/b}
 
 701
 00:47:58,709 --> 00:48:01,501
 She was paying for her tuition
 and her parents' bills.
-{b}Płaciła za swoje czesne i
-rachunki rodziców.{/b}
+{b}Płaciła za swoją szkołę i
+pomagała rodzicom.{/b}
 
 702
 00:48:08,168 --> 00:48:10,126
@@ -4000,18 +4048,19 @@ Hold on. The brain farmers.
 703
 00:48:12,126 --> 00:48:13,168
 Gammas, right?
-{b}Promienie gamma, tak?{/b}
+{b}Czy gamma{/b}
 
 704
 00:48:13,251 --> 00:48:14,959
 Could these maybe
 restore someone's
-{b}Mogą mogą przywrócić czyjąś{/b}
+{b}mogłaby komuś
+przywrócić pamięć,{/b}
 
 705
 00:48:15,043 --> 00:48:16,334
 memory if it had been erased?
-{b}pamięć, jeżeli została wymazana?{/b}
+{b}jeżeli została wymazana?{/b}
 
 706
 00:48:16,543 --> 00:48:18,293
@@ -4022,15 +4071,15 @@ Uh, no idea.
 00:48:21,584 --> 00:48:23,060
 Which brain farm out
 there would give me
-{b}Które farmy mózgów
-dałyby mi{/b}
+{b}Jeśli jestem uczniem,
+który potrzebuje pieniędzy,{/b}
 
 708
 00:48:23,084 --> 00:48:25,709
 the quickest paycheck if
 I was a broke student?
-{b}najszybszą wypłatę, gdybym
-był biednym studentem?{/b}
+{b}do którego farmera mózgów
+powinienem się zgłosić?{/b}
 
 709
 00:48:26,834 --> 00:48:28,251
@@ -4046,25 +4095,25 @@ Absolutely.
 00:48:29,918 --> 00:48:32,834
 <i>It should be dessert
 morning coyote.</i>
-{b}<i>Powinien być
-deser, poranek, kojot.</i>{/b}
+{b}<i>Normalne.
+Deser, poranek, kojot.</i>{/b}
 
 712
 00:48:32,918 --> 00:48:34,278
 <i>What do you mean should be?</i>
-{b}<i>Co masz na myśli mówiąc „powinien być”?</i>{/b}
+{b}<i>Co to znaczy „normalne”?</i>{/b}
 
 713
 00:48:34,334 --> 00:48:35,084
 <i>Well, it's old.</i>
-{b}<i>Cóż, to stare</i>{/b}
+{b}<i>To stare.</i>{/b}
 
 714
 00:48:35,168 --> 00:48:36,793
 <i>My contact hopes
 it'll still work.</i>
 {b}<i>Mój kontakt ma nadzieję,
-nadal działa.</i>{/b}
+że się nie zmieniło.</i>{/b}
 
 715
 00:48:36,876 --> 00:48:37,709
@@ -4074,12 +4123,12 @@ nadal działa.</i>{/b}
 716
 00:48:39,709 --> 00:48:41,376
 Welcome. May I help you?
-{b}Witaj. Jak ci mogę pomóc?{/b}
+{b}Dzień dobry. Czym mogę służyć?{/b}
 
 717
 00:48:41,751 --> 00:48:42,918
 Uh...
-{b}Eh...{/b}
+{b}Eeee...{/b}
 
 718
 00:48:43,126 --> 00:48:45,043
@@ -4095,18 +4144,18 @@ I'm just saying.
 00:48:51,376 --> 00:48:53,668
 Welcome, follow
 me right this way.
-{b}Witaj, chodź
-za mną tędy.{/b}
+{b}Dzień dobry,
+proszę za mną.{/b}
 
 721
 00:49:04,418 --> 00:49:05,543
 Come on, it's this way.
-{b}No dobra, tędy.{/b}
+{b}Tak, tędy.{/b}
 
 722
 00:49:11,709 --> 00:49:12,751
 <i>Got what you need?</i>
-{b}<i>Masz to, czego potrzebujesz?</i>{/b}
+{b}<i>Masz wszystko, co potrzebujesz?</i>{/b}
 
 723
 00:49:13,209 --> 00:49:14,209
@@ -4131,7 +4180,7 @@ Yeah, yeah, I confirm.
 727
 00:49:29,876 --> 00:49:31,584
 So, what are your skills?
-{b}Więc jakie są twoje umiejętności?{/b}
+{b}No to jakie są twoje umiejętności?{/b}
 
 728
 00:49:32,168 --> 00:49:34,209
@@ -4141,41 +4190,41 @@ Babel +, uh, Hegel 7.
 729
 00:49:34,293 --> 00:49:35,459
 That's perfect.
-{b}Perfekcyjne.{/b}
+{b}Dobrze trafiłaś,{/b}
 
 730
 00:49:35,543 --> 00:49:37,209
 Cybernetics is so
 in demand right now.
 {b}Cybernetyka jest
-tak bardzo poszukiwana.{/b}
+tak poszukiwana.{/b}
 
 731
 00:49:38,918 --> 00:49:40,876
 Well, we're keeping busy.
-{b}No cóż, jesteśmy rozchwytywani.{/b}
+{b}To działa{/b}
 
 732
 00:49:58,001 --> 00:49:59,477
 You're gonna wanna
 rest for at least
-{b}Będziesz chciał odpocząć przynajmniej{/b}
+{b}Trzeba zaplanować{/b}
 
 733
 00:49:59,501 --> 00:50:01,084
 one full day after the session.
-{b}cały dzień po sesji.{/b}
+{b}dzień odpoczynku po sesji.{/b}
 
 734
 00:50:01,209 --> 00:50:02,376
 Some people don't react well
-{b}Niektórzy nie reagują dobrze{/b}
+{b}Niektórzy źle reagują{/b}
 
 735
 00:50:02,459 --> 00:50:04,459
 to the post memory
 treatment we give them.
-{b}na terapię postpamięciową, którą stosujemy.{/b}
+{b}na przetwarzanie postpamięciowe.{/b}
 
 736
 00:50:04,543 --> 00:50:05,293
@@ -4185,49 +4234,50 @@ You should be fine.
 737
 00:50:05,376 --> 00:50:07,084
 The what? <i>Now, Carlos.</i>
-{b}Co? <i>No, Carlos.</i>{/b}
+{b}Co?
+<i>Teraz, Carlos.</i>{/b}
 
 738
 00:50:07,209 --> 00:50:08,876
 Yeah, the post memory treatment.
-{b}Terapia postpamięciowa.{/b}
+{b}Przetwarzanie postpamięciowa.{/b}
 
 739
 00:50:09,251 --> 00:50:10,834
 Once you're done in the machine,
-{b}Gdy skończysz pracę{/b}
+{b}Po skończeniu pracy{/b}
 
 740
 00:50:10,918 --> 00:50:13,251
 you're given a product to
 erase all recent memories.
-{b}Wstrzykują ci lek,
+{b}wstrzykują ci środek,
 żeby wymazać twoją pamięć.{/b}
 
 741
 00:50:13,334 --> 00:50:16,293
 It's a security measure for
 my clients, but also for you.
-{b}To jest środek bezpieczeństwa
-dla moich klientów, ale także dla ciebie.{/b}
+{b}Bezpieczeństwo dla moich klientów,
+ale także dla ciebie.{/b}
 
 742
 00:50:16,459 --> 00:50:19,709
 If anyone grills you, you won't
 remember what you worked on.
-{b}Jeśli ktoś cię przesłuchuje,
-nie bedziesz pamiętać nad czym pracowałeś.{/b}
+{b}Jeśli cię o to zapytają,
+nie wiesz, nad czym pracowałaś.{/b}
 
 743
 00:50:19,876 --> 00:50:20,959
 There's no danger.
-{b}Nie ma żadnego niebezpieczeństwa.{/b}
+{b}Nie ma ryzyka.{/b}
 
 744
 00:50:21,043 --> 00:50:22,519
 In fact, it's what
 neurologists have been using
-{b}Faktycznie, tego właście neurologowie używali{/b}
+{b}To właśnie stosują neurolodzy{/b}
 
 745
 00:50:22,543 --> 00:50:25,126
@@ -4273,29 +4323,30 @@ przez kilka tygodni.{/b}
 00:50:39,793 --> 00:50:41,418
 <i>I'll try to see
 what she worked on.</i>
-{b}<i>Spróbuję zobaczyć, nad czym pracowała.</i>{/b}
+{b}<i>Zobaczę, nad czym pracowała.</i>{/b}
 
 753
 00:50:41,501 --> 00:50:43,084
 Yeah, I heard...
-{b}Tak, słyszałem...{/b}
+{b}Ale...{/b}
 
 754
 00:50:43,168 --> 00:50:45,543
 I heard it could fry your
 brain or something like that?
-{b}Słyszałem, że mogło to usmażyć mózg lub coś takiego?{/b}
+{b}Czy to nie uszkodzi
+mózgu czy coś takiego?{/b}
 
 755
 00:50:45,626 --> 00:50:46,501
 I'm gonna level with you.
-{b}Będę z tobą szczery..{/b}
+{b}Słyszałem, że bycie{/b}
 
 756
 00:50:46,584 --> 00:50:48,626
 I won't deny that staying
 plugged in for 20 hours
-{b}Pozostanie podłączonym
+{b}podłączonym
 przez 20 godzin,{/b}
 
 757
@@ -4307,7 +4358,7 @@ revved up to 50-fold
 758
 00:50:50,459 --> 00:50:51,793
 isn't the most pleasant feeling.
-{b}nie jest to zbyt przyjemne.{/b}
+{b}nie jest super.{/b}
 
 759
 00:50:51,876 --> 00:50:53,334
@@ -4318,24 +4369,24 @@ isn't the most pleasant feeling.
 00:50:53,543 --> 00:50:56,084
 <i>I see a huge data transfer
 the day Jun was here,</i>
-{b}<i>Widzę olbrzymią transmisję danych
-w dniu, gdy Jun była tutaj.</i>{/b}
+{b}<i>Tego dnia był
+olbrzymi transfer danych.</i>{/b}
 
 761
 00:50:56,168 --> 00:50:57,418
 <i>and hang on,</i>
-{b}<i>i nie rozłączaj się</i>{/b}
+{b}<i>Cały ten strumień</i>{/b}
 
 762
 00:50:57,501 --> 00:50:59,709
 <i>the entire stream
 went to Royjacker.</i>
-{b}<i>Cały strumień trafił do Royjacker.</i>{/b}
+{b}<i>poszedł do Royjacker.</i>{/b}
 
 763
 00:51:00,126 --> 00:51:01,543
 <i>Okay, get a copy.</i>
-{b}<i>Ok, weź kopię.</i>{/b}
+{b}<i>Ok, chcę kopię.</i>{/b}
 
 764
 00:51:01,626 --> 00:51:03,560
@@ -4347,12 +4398,12 @@ to uruchomi alarm.</i>{/b}
 765
 00:51:03,584 --> 00:51:04,793
 <i>Do I do it?</i>
-{b}<i>Czy mam to robić?</i>{/b}
+{b}<i>I co ty na to?</i>{/b}
 
 766
 00:51:04,876 --> 00:51:06,876
 Right? So, what do you say?
-{b}No dobrze? No więc, co powiesz?{/b}
+{b}W porządku? To co powiesz?{/b}
 
 767
 00:51:07,668 --> 00:51:08,959
@@ -4362,13 +4413,14 @@ Right? So, what do you say?
 768
 00:51:12,251 --> 00:51:13,376
 <i>Are... are you nuts?</i>
-{b}<i>Jesteś chory?</i>{/b}
+{b}<i>Jesteście chorzy?</i>{/b}
 
 769
 00:51:13,459 --> 00:51:14,852
 <i>I'm sorry, do you
 realize how powerful</i>
-{b}<i>Przepraszam, czy zdajesz sobie sprawę jak potężna</i>{/b}
+{b}<i>Czy zdajesz sobie sprawę
+jak potężna</i>{/b}
 
 770
 00:51:14,876 --> 00:51:16,334
@@ -4396,19 +4448,19 @@ znajdują się na serwerze.</i>{/b}
 00:51:20,918 --> 00:51:22,418
 <i>We're just asking
 you to do a search</i>
-{b}<i>Musimy tylko przeszukać</i>{/b}
+{b}<i>Musimy przeszukać</i>{/b}
 
 775
 00:51:22,501 --> 00:51:24,168
 <i>of the brain farmer's
 place, all right?</i>
-{b}<i>posiadłość farmera mózgu, czy wszystko w porządku?</i>{/b}
+{b}<i>farmera mózgów.</i>{/b}
 
 776
 00:51:24,251 --> 00:51:27,126
 <i>Brain farmers erase
 your memory afterwards.</i>
-{b}<i>Po użyciu wymazują ci mózg.</i>{/b}
+{b}<i>Wymazują ci mózg po wykorzystaniu.</i>{/b}
 
 777
 00:51:27,209 --> 00:51:29,126
@@ -4419,12 +4471,12 @@ the takeover program,</i>
 778
 00:51:29,209 --> 00:51:30,584
 <i>let alone use it?</i>
-{b}<i>przejęcie i użycie go?</i>{/b}
+{b}<i>przejęcie by go potem użyć?</i>{/b}
 
 779
 00:51:30,668 --> 00:51:32,043
 <i>Remember those pills?</i>
-{b}<i>Pigułki, które analizowaliśmy?</i>{/b}
+{b}<i>Tabletki, które analizowaliśmy?</i>{/b}
 
 780
 00:51:32,126 --> 00:51:33,918
@@ -4436,8 +4488,8 @@ help you study.</i>
 00:51:34,418 --> 00:51:36,918
 <i>We think it might've
 restored her memory.</i>
-{b}<i>Myślimy, że
-przywróciło jej to pamięć.</i>{/b}
+{b}<i>Uważamy, że to
+przywróciło jej pamięć.</i>{/b}
 
 782
 00:51:37,001 --> 00:51:38,721
@@ -4448,12 +4500,13 @@ army of programmers</i>
 783
 00:51:38,751 --> 00:51:39,793
 <i>at his disposal.</i>
-{b}<i>armię programistów<.</i>{/b}
+{b}<i>armię programistów.</i>{/b}
 
 784
 00:51:39,876 --> 00:51:41,626
 <i>Why resort to brain farmers?</i>
-{b}<i>Po co korzystać z usług farmerów mózgów?</i>{/b}
+{b}<i>Po co korzystać z
+farmerów mózgów?</i>{/b}
 
 785
 00:51:41,709 --> 00:51:42,959
@@ -4463,7 +4516,8 @@ army of programmers</i>
 786
 00:51:43,043 --> 00:51:44,751
 <i>This software is super illegal.</i>
-{b}<i>Ta oprogramowanie jest totalnie nielegalne.</i>{/b}
+{b}<i>Ta oprogramowanie jest
+totalnie nielegalne.</i>{/b}
 
 787
 00:51:44,834 --> 00:51:46,626
@@ -4475,34 +4529,34 @@ chemical weapon.</i>
 00:51:46,709 --> 00:51:48,668
 <i>Could he take the
 risk of it leaking?</i>
-{b}<i>Nie powinno było wyciekać.</i>{/b}
+{b}<i>Nie mogło to wyciec.</i>{/b}
 
 789
 00:51:48,751 --> 00:51:50,168
 <i>No can do, guys.</i>
-{b}<i>Wymagasz ode mnie zbyt wiele.</i>{/b}
+{b}<i>Żądasz ode mnie za wiele.</i>{/b}
 
 790
 00:51:50,251 --> 00:51:52,084
 <i>I'd need way more to
 issue a search warrant.</i>
 {b}<i>Potrzebuję czegoś więcej,
-aby wydać nakaz przeszukania.</i>{/b}
+na nakaz przeszukania.</i>{/b}
 
 791
 00:51:52,376 --> 00:51:54,251
 <i>I mean, Royjacker's an empire.</i>
-{b}<i>Royjacker to imperium.</i>{/b}
+{b}<i>A Royjacker to prawdziwe imperium.</i>{/b}
 
 792
 00:51:54,709 --> 00:51:56,168
 <i>I'm impressed by your drive,</i>
-{b}<i>Jestem pod wrażeniem twojej determinacji,</i>{/b}
+{b}<i>Gdybym był w waszej sytuacji,</i>{/b}
 
 793
 00:51:56,251 --> 00:51:58,084
 <i>but you better watch your backs.</i>
-{b}<i>ale lepiej uważaj</i>{/b}
+{b}<i>byłbym ostrożny.</i>{/b}
 
 794
 00:51:58,168 --> 00:51:59,543
@@ -4523,7 +4577,7 @@ aby wydać nakaz przeszukania.</i>{/b}
 00:52:13,959 --> 00:52:16,834
 Uh, I'm picking
 something up right now.
-{b}O, coś złapałem
+{b}Och, coś złapałem
 na moim kanale.{/b}
 
 798
@@ -4535,13 +4589,13 @@ They don't waste time.
 00:52:24,709 --> 00:52:26,501
 Great, they're jamming
 us. They've locked on.
-{b}Cudownie, ktoś nam przeszkadza.
-Namierzyli nas.{/b}
+{b}O rety, ktoś nam zagłusza sygnał.
+Zostaliśmy zablokowani.{/b}
 
 800
 00:52:28,001 --> 00:52:29,584
 I can't tell where they are.
-{b}Nie wiem, skąd to się bierze.{/b}
+{b}Nie rozumiem, skąd to się bierze.{/b}
 
 801
 00:52:43,459 --> 00:52:44,459
@@ -4561,7 +4615,8 @@ Oh shit.
 804
 00:53:09,959 --> 00:53:11,168
 <i>Carlos, can you get out?</i>
-{b}<i>Carlos, możesz się wyrwać?</i>{/b}
+{b}<i>Carlos, dasz
+radę się wydostać?</i>{/b}
 
 805
 00:53:12,001 --> 00:53:13,459
@@ -4581,7 +4636,7 @@ Oh shit.
 808
 00:53:39,584 --> 00:53:40,876
 Hello, Aline Ruby.
-{b}Witaj, Aline Ruby.{/b}
+{b}Dzień dobry, Aline Ruby.{/b}
 
 809
 00:53:40,959 --> 00:53:42,959
@@ -4593,7 +4648,7 @@ Rescue Service.
 00:53:43,043 --> 00:53:46,084
 You've just been in an accident
 on one of our expressways.
-{b}Właśnie mieliście wypadek na autostradzie.{/b}
+{b}Mieliście wypadek na autostradzie.{/b}
 
 811
 00:53:46,168 --> 00:53:48,876
@@ -4605,7 +4660,7 @@ injuries, remain calm.
 00:53:48,959 --> 00:53:51,209
 In a few seconds you'll
 be free from your vehicle.
-{b}Wkrótce zostaniecie uwolnieni.{/b}
+{b}Za chwilę zostaniecie uwolnieni.{/b}
 
 813
 00:54:20,709 --> 00:54:22,668
@@ -4615,18 +4670,18 @@ No. Stop! Stop!
 814
 00:54:30,584 --> 00:54:32,209
 You are now out of danger.
-{b}Niebezpieczeńswo już wam nie grozi.{/b}
+{b}Niebezpieczeństwo już wam nie grozi.{/b}
 
 815
 00:54:32,293 --> 00:54:34,626
 For your safety, please
 remain in the secure lane
-{b}Proszę wrócić na pas bezpieczeństwa,{/b}
+{b}Proszę o pozostanie na pasie awaryjnym{/b}
 
 816
 00:54:34,709 --> 00:54:35,909
 until the police have arrived.
-{b}czekając na policję.{/b}
+{b}i oczekiwanie na policję.{/b}
 
 817
 00:54:36,459 --> 00:54:38,293
@@ -4635,15 +4690,9 @@ able to connect you
 {b}Jeśli sobie życzycie, połączę was{/b}
 
 818
-00:54:38,376 --> 00:54:39,126
+00:54:38,376 --> 00:54:40,944
 with a counselor
-{b}z pomocą{/b}
-
-819
-00:54:39,209 --> 00:54:41,126
-from our psychological
-services department.
-{b}działu usług psychologicznych.{/b}
+{b}z pomocą psychologicznę{/b}
 
 820
 00:54:41,209 --> 00:54:44,709
@@ -4660,12 +4709,12 @@ It's okay to let it out.
 822
 00:54:53,001 --> 00:54:54,668
 Fuck off, Abby.
-{b}Pieprz się. Czy to dla ciebie okej?{/b}
+{b}Pieprz się. Czy to ci pasuje?{/b}
 
 823
 00:54:59,168 --> 00:55:01,126
 So Williams jail-broke you, huh?
-{b}Williams cię wyzwoliła z kontroli?{/b}
+{b}Williams zdjęła c i blokady?{/b}
 
 824
 00:55:01,251 --> 00:55:03,584
@@ -4674,10 +4723,6 @@ didn't want to tell you.
 {b}Na moją prośbę.
 Nic nie powiedziałem, znam cię.{/b}
 
-825
-00:55:03,668 --> 00:55:04,793
-Jesus Christ.
-{b}Jezu Chryste{/b}
 
 826
 00:55:04,876 --> 00:55:06,501
@@ -4688,7 +4733,7 @@ a jail-broken robot
 827
 00:55:06,584 --> 00:55:07,584
 that killed you?
-{b}wyzwolony spod kontroli robot?{/b}
+{b}pieprzony odblokowany?{/b}
 
 828
 00:55:07,876 --> 00:55:08,876
@@ -4699,18 +4744,18 @@ Was it worth it?
 00:55:08,959 --> 00:55:11,459
 I don't know. Was saving
 your life worth it?
-{b}Nie wiem. Czy warto było ratować siebie?{/b}
+{b}Nie wiem. Czy warto było cię uratować?{/b}
 
 830
 00:55:11,543 --> 00:55:13,709
 All right, smart ass.
-{b}Kurwa, ale ty mi też odpowiedz.{/b}
+{b}Kur... Ty mi odpowiedz.{/b}
 
 831
 00:55:14,376 --> 00:55:17,376
 <i>At long last, we're receiving
 Ekinci's first transmissions.</i>
-{b}<i>Odbieramy pierwszą transmisję
+{b}<i>Odbieramy pierwsze raporty
 z sondy Ekinci.</i>{/b}
 
 832
@@ -4724,7 +4769,8 @@ ludzkość była...</i>{/b}
 00:55:19,709 --> 00:55:21,459
 Would you go if
 it's inhabitable?
-{b}Poszedłbyś, gdyby było niezamieszkane?"{/b}
+{b}Poleciałbyś, gdyby nadawało
+się do zamieszkania?"{/b}
 
 834
 00:55:21,543 --> 00:55:22,935
@@ -4735,12 +4781,12 @@ depends. Would you?
 835
 00:55:22,959 --> 00:55:24,876
 Mm, yeah, I think so.
-{b}Hmm, tak, myślę tak.{/b}
+{b}Tak, myślę tak.{/b}
 
 836
 00:55:24,959 --> 00:55:25,834
 Then I'll pass.
-{b}W takim razie pasuję.{/b}
+{b}W takim razie bym nie poleciał.{/b}
 
 837
 00:55:25,918 --> 00:55:27,435
@@ -4751,29 +4797,32 @@ Then I'll pass.
 00:55:27,459 --> 00:55:28,793
 - Pfft!
 <i>- Here come the analyses,</i>
-{b}<i>Właśnie przyszły analizy,</i>{/b}
+{b}Pfff
+<i>Właśnie zostały,</i>{/b}
 
 839
 00:55:28,876 --> 00:55:30,084
 <i>hot off the press,</i>
-{b}<i>prosto z drukarni</i>{/b}
+{b}<i>opublikowane analizy.</i>{/b}
 
 840
 00:55:30,293 --> 00:55:32,876
 <i>and they're not looking great.</i>
-{b}<i>i nie są zbyt zachęcające.</i>{/b}
+{b}<i>Nie są zbyt zachęcające.</i>{/b}
 
 841
 00:55:32,959 --> 00:55:36,501
 <i>Lows of minus 75
 degrees, highs over 250,</i>
-{b}<i>-75 stopni w nocy, 215 w dzień,</i>{/b}
+{b}<i>-75 stopni w nocy,
+215 w dzień,</i>{/b}
 
 842
 00:55:36,584 --> 00:55:39,626
 <i>and the atmosphere is
 87 percent sulfuric acid</i>
-{b}<i>atmosfera składa się w 87% z kwasu siarkowego</i>{/b}
+{b}<i>atmosfera składa się w 87%
+z kwasu siarkowego</i>{/b}
 
 843
 00:55:39,709 --> 00:55:40,709
@@ -4783,12 +4832,12 @@ degrees, highs over 250,</i>
 844
 00:55:44,709 --> 00:55:46,668
 That's a big ask.
-{b}To duże wyzwanie.{/b}
+{b}To ryzykowne.{/b}
 
 845
 00:55:47,043 --> 00:55:48,418
 Is it feasible?
-{b}Czy jest to wykonalne?{/b}
+{b}Czy da się to zrobić?{/b}
 
 846
 00:55:48,584 --> 00:55:50,251
@@ -4798,7 +4847,7 @@ Well, that depends.
 847
 00:55:50,918 --> 00:55:52,459
 Do you wanna live or not?
-{b}Czy cenisz życie czy nie?{/b}
+{b}Zależy ci na życiu, czy nie?{/b}
 
 848
 00:55:54,584 --> 00:55:56,959
@@ -4811,13 +4860,13 @@ którą można wykorzystać,{/b}
 00:55:57,043 --> 00:55:59,793
 as long as you put a
 derivation on this node.
-{b}pod warunkiem, że zainstalujesz
+{b}pod warunkiem, że założymy
 obejście na tym węźle.{/b}
 
 850
 00:56:00,126 --> 00:56:01,168
 You want the honors?
-{b}Czy miałbyś ochotę to zrobić?{/b}
+{b}Miałbyś ochotę to zrobić?{/b}
 
 851
 00:56:01,251 --> 00:56:03,168
@@ -4828,7 +4877,8 @@ once this month.
 852
 00:56:03,876 --> 00:56:05,060
 Do you know how to install one?
-{b}Czy wiesz jak zainstalować obejście optyczne?{/b}
+{b}Czy wiesz jak zainstalować
+ obejście optyczne?{/b}
 
 853
 00:56:05,084 --> 00:56:05,876
@@ -4838,24 +4888,26 @@ Of course not.
 854
 00:56:05,959 --> 00:56:07,459
 I'll download the instructions.
-{b}Sciągnę instrukcje.{/b}
+{b}Sciągnę instrukcje jak to zrobić.{/b}
 
 855
 00:56:07,918 --> 00:56:09,918
 And as per
 jail-breaking the girl,
-{b}Tak samo jak wyzwolenia
-dziewczyny spod kontroli,{/b}
+{b}Tak samo dotyczy
+zdjęcia blokady z dziewczyny,{/b}
 
 856
 00:56:10,084 --> 00:56:11,293
 I'll show you the ropes.
-{b}Pokażę ci jak to działa.{/b}
+{b}Muszę cię nauczyć,
+jak to zrobić.{/b}
 
 857
 00:56:13,418 --> 00:56:15,543
 I saw you watching us last time.
-{b}Widziałem, że ostatnio na nas patrzyłeś.{/b}
+{b}Widziałem, że ostatnio
+jak na nas patrzyłeś.{/b}
 
 858
 00:56:16,084 --> 00:56:17,959
@@ -4878,7 +4930,7 @@ but with a woman, sorry.
 861
 00:56:23,459 --> 00:56:24,859
 What kind of woman?
-{b}Jaka dziewczyna?{/b}
+{b}Z jaką dziewczyna?{/b}
 
 862
 00:56:33,126 --> 00:56:34,126
@@ -4889,41 +4941,41 @@ Not bad.
 00:56:35,501 --> 00:56:38,209
 Now just disconnect the logic
 circuit and solder the patch.
-{b}Odłącz moduł
-od układu logicznego i przylutuj łatkę.{/b}
+{b}Odłącz moduł od układu
+logicznego i przylutuj łatkę.{/b}
 
 864
 00:56:38,293 --> 00:56:40,168
 Not so fast. I'm
 still taking notes.
-{b}Nie tak szybko.
+{b}Wolniej.
 Jeszcze notuję.{/b}
 
 865
 00:56:48,668 --> 00:56:50,084
 Oh my God. What'd I do?
-{b}Cholera! Co się dzieje?{/b}
+{b}Kur..! Co się dzieje?{/b}
 
 866
 00:56:50,168 --> 00:56:52,251
 You transferred the
 wrong module, move.
-{b}Usunąłeś zły moduł.
+{b}Usunąłaś zły moduł.
 Przesuń się.{/b}
 
 867
 00:56:55,293 --> 00:56:57,501
 Get your shit together.
 Tomorrow's higher stakes.
-{b}Ogarnij się.
-Jutro będzie gorzej.{/b}
+{b}To przez stres?
+Jutro będzie jeszcze gorzej.{/b}
 
 868
 00:56:58,126 --> 00:57:00,918
 Oh, it's not that.
 Can I get a drink?
 {b}Nie, to nie to.
-Nalałbyś mi drinka?{/b}
+Nalałabyś mi drinka?{/b}
 
 869
 00:57:08,918 --> 00:57:09,918
@@ -4939,7 +4991,7 @@ fusion of sorts.
 871
 00:57:13,584 --> 00:57:15,918
 Ecstasy and all that.
-{b}Ekstaza i tak dalej.{/b}
+{b}Ekstaza w zasadzie.{/b}
 
 872
 00:57:16,001 --> 00:57:17,751
@@ -4951,8 +5003,7 @@ your head around it.
 00:57:17,834 --> 00:57:21,043
 It's kinda, well,
 it's a robot thing,
-{b}To trochę, cóż,
-to coś z robota,{/b}
+{b}To coś dla robota.{/b}
 
 874
 00:57:34,043 --> 00:57:35,043
@@ -4973,41 +5024,43 @@ in my sleeping bag.
 877
 00:57:42,876 --> 00:57:44,126
 It feels like...
-{b}Czuje jakby...{/b}
+{b}Myślę, że to para majtek.{/b}
 
 878
 00:57:45,459 --> 00:57:46,959
 Oh!
-{b}O!{/b}
+{b}Uhh!{/b}
 
 879
 00:57:50,793 --> 00:57:52,501
 I've worn the same
 pair for five years.
-{b}Noszę tą samą parę prze 5 lat.{/b}
+{b}Noszę tą samą
+parę od 5 lat.{/b}
 
 880
 00:58:30,001 --> 00:58:32,084
 <i>Hello. May I help you?</i>
-{b}Cześć, w czym mogę pomóc?{/b}
+{b}Dzień dobry, w czym mogę pomóc?{/b}
 
 881
 00:58:32,168 --> 00:58:34,668
 Can you count backwards
 from 10 to zero for me?
-{b}Czy potrawisz liczyć
-wstecz o 10 do 0?{/b}
+{b}Czy potrawisz policzyć
+wstecz od 10 do 0?{/b}
 
 882
 00:58:35,084 --> 00:58:38,209
 <i>Why of course. 10, nine...</i>
-{b}Oczywiście. 10, 9...</i>{/b}
+{b}Oczywiście. Proszę bardzo.
+10, 9...</i>{/b}
 
 883
 00:59:11,834 --> 00:59:13,935
 <i>Aline's in position.
 How you looking, Carlos?</i>
-{b}<i>Aline jest na pozycji.
+{b}<i>Aline na pozycji.
 Jak się masz, Carlos?</i>{/b}
 
 884
@@ -5017,13 +5070,14 @@ Jak się masz, Carlos?</i>{/b}
 
 885
 00:59:20,501 --> 00:59:22,126
-<i>O<kay Roberta, all you./i>
-{b}<i>Spokojnie, Roberta. Jesteś w środku.</i>{/b}
+<i>Okay Roberta, all you.</i>
+{b}<i>Spokojnie, Roberta.
+Jesteś w środku.</i>{/b}
 
 886
 00:59:22,959 --> 00:59:24,168
 Thank you, I'm in.
-{b}Ok. Jestem tu.{/b}
+{b}Ok. Jestem tutaj.{/b}
 
 887
 00:59:24,251 --> 00:59:26,959
@@ -5033,7 +5087,7 @@ So, let's see, doors, doors.
 888
 00:59:27,168 --> 00:59:28,668
 Where the hell are you, doors?
-{b}Gdzie są te do cholery drzwi?{/b}
+{b}Gdzie są do cholery te drzwi?{/b}
 
 889
 00:59:28,751 --> 00:59:30,334
@@ -5044,18 +5098,18 @@ Ah, there you are, doors!
 00:59:33,876 --> 00:59:35,751
 Yeah, but that's
 not the worst part.
-{b}Tak, wiesz co jest jeszcze lepsze?{/b}
+{b}Wiesz co jest jeszcze lepsze?{/b}
 
 891
 00:59:35,834 --> 00:59:37,293
 We're getting two more Gilberts.
-{b}Zamierzeją dodac jeszcze dwa Gilberty.{/b}
+{b}Oni dodają jeszcze dwa Gilberty.{/b}
 
 892
 00:59:37,376 --> 00:59:40,043
 So, how many are
 getting fired?
-{b}Ile ich odpalili?{/b}
+{b}Nie? To ilu ludzi zwalniają?{/b}
 
 893
 00:59:40,418 --> 00:59:42,334
@@ -5066,38 +5120,38 @@ Union's AI says at least 10.
 00:59:42,418 --> 00:59:44,209
 It'll be like Earth
 all over again.
-{b}Będzie taki sam
-bałagan jak na Ziemi.{/b}
+{b}Będzie takie samo
+zamieszanie jak na Ziemi.{/b}
 
 895
 00:59:44,293 --> 00:59:45,918
 Replace us all, tellin' you.
-{b}Mówię ci, zastąpią nas wszystkich.{/b}
+{b}Zastąpią nas wszystkich.{/b}
 
 896
 00:59:51,793 --> 00:59:53,626
 Fuck, my bike!
-{b}<i>Cholera, mój motor!</i>{/b}
+{b}Kur..., mój motor!{/b}
 
 897
 00:59:55,418 --> 00:59:57,834
 Don't get me started on the
 robot cops, they're crap.
-{b}<i>Nie wspominając o policjantch robotach, to gówno. </i>{/b}
+{b}Poza tym są niekompetentni.{/b}
 
 898
 00:59:57,918 --> 00:59:59,876
 They let everything
 get by... them.
-{b}Pozwalają,
-by wszystko ich ominęło...{/b}
+{b}Nic nie widzą. Pozwalają,
+na wszystko{/b}
 
 899
 00:59:59,959 --> 01:00:01,501
 - Hey!
 - Are you all right, Vlasek?
 {b}- Hej!
-- Jak się masz, Vlasek?{/b}
+- Wszystko w porządki, Vlasek?{/b}
 
 900
 01:00:01,584 --> 01:00:02,793
@@ -5107,12 +5161,12 @@ My fucking bike!
 901
 01:00:08,418 --> 01:00:09,418
 Found her.
-{b}Znaleziono go.{/b}
+{b}Znalezłam.{/b}
 
 902
 01:00:22,876 --> 01:00:23,876
 Okay, here we go.
-{b}Zaczynamy{/b}
+{b}Zaczynamy.{/b}
 
 903
 01:00:23,918 --> 01:00:25,876
@@ -5123,7 +5177,7 @@ fry her, please.</i>
 904
 01:00:33,418 --> 01:00:34,834
 Oh, are you done working on it?
-{b}Już koniec? Mogę iść do pracy?{/b}
+{b}Już koniec? Mogę wrócić do pracy?{/b}
 
 905
 01:00:35,126 --> 01:00:36,376
@@ -5140,20 +5194,20 @@ from my toolbox.
 01:00:40,959 --> 01:00:43,251
 Wait, wait, wait, wait. It's
 doing something really weird.
-{b}Poczekaj.
-On robi coś naprawdę dziwnego.{/b}
+{b}Poczekaj. On robi coś
+naprawdę dziwnego.{/b}
 
 908
 01:00:48,876 --> 01:00:51,793
 Have you seen the oxygen level?
 It needs to be ventilated.
-{b}Widziałeś poziom tlenu?
+{b}Widzieliście jego saturację?
 Potrzebna jest wentylacja.{/b}
 
 909
 01:00:51,876 --> 01:00:53,418
 Wait. No, I got it.
-{b}Czekaj. Nie. Mam.{/b}
+{b}Czekaj. Ja to zrobię.{/b}
 
 910
 01:00:53,751 --> 01:00:54,876
@@ -5169,17 +5223,17 @@ of the old module.</i>
 912
 01:00:57,084 --> 01:00:58,918
 <i>Don't fuck this up.</i>
-{b}<i>Nie zniszcz tego!</i>{/b}
+{b}<i>Nie zniszcz go!</i>{/b}
 
 913
 01:01:00,376 --> 01:01:02,084
 Aline, what are you doing?
-{b}Aline, co robisz?{/b}
+{b}Aline, co tu robisz?{/b}
 
 914
 01:01:03,126 --> 01:01:04,834
 Wait, was that there before?
-{b}Czy to było wcześniej?{/b}
+{b}Czy to było tu wcześniej?{/b}
 
 915
 01:01:04,918 --> 01:01:07,126
@@ -5195,7 +5249,7 @@ What tools?
 917
 01:01:08,251 --> 01:01:09,959
 Huh? What the hell?
-{b}Co to za bałagan?{/b}
+{b}Co to za hałas?{/b}
 
 918
 01:01:10,043 --> 01:01:11,584
@@ -5230,14 +5284,14 @@ Hands on your head.
 924
 01:01:20,709 --> 01:01:21,876
 Are you insane?
-{b}Jesteś chory!{/b}
+{b}Zwariowałaś!{/b}
 
 925
 01:01:21,959 --> 01:01:24,418
 You wanna end up in
 suspended detention?
-{b}Chcesz zakończyć
-przymknięty w areszcie?{/b}
+{b}Chcesz skończyć
+w areszcie?{/b}
 
 926
 01:01:24,501 --> 01:01:25,793
@@ -5260,12 +5314,12 @@ Roberta, syreny.</i>{/b}
 01:01:29,834 --> 01:01:31,227
 I don't know what
 game you're playing.
-{b}Co jest grane?{/b}
+{b}Ok, wystarczy?{/b}
 
 930
 01:01:34,209 --> 01:01:35,689
 <i>I need you to stall for time.</i>
-{b}<i>Oszczędzaj czas.</i>{/b}
+{b}<i>Musisz zyskać dla mnie trochę czasu.</i>{/b}
 
 931
 01:01:36,001 --> 01:01:37,394
@@ -5276,8 +5330,8 @@ They've spotted the bypass.
 01:01:37,418 --> 01:01:38,918
 Can you override
 the countermeasures?
-{b}Czy możesz pozbyć się
-tych środków zaradczych??{/b}
+{b}Możesz usunać
+te zabezieczenia?{/b}
 
 933
 01:01:39,001 --> 01:01:40,001
@@ -5294,28 +5348,28 @@ gonna do with her?
 01:01:45,043 --> 01:01:47,168
 What do you mean?
 We'll recycle her.
-{b}Co? Ona pójdzie na recykling.{/b}
+{b}Co? Ona pójdzie do recyklingu.{/b}
 
 936
 01:01:49,334 --> 01:01:50,668
 Wrong answer, pal.
-{b}Zła odpowiedz, partnerze.{/b}
+{b}Nie powinieneś tego mówić.{/b}
 
 937
 01:02:05,626 --> 01:02:07,186
 <i>Aline, they're
 headed your way.</i>
-{b}<i>Aline, idą do ciebie.</i>{/b}
+{b}<i>Aline, ludzie idą do ciebie.</i>{/b}
 
 938
 01:02:07,959 --> 01:02:09,126
 <i>Can you keep 'em busy?</i>
-{b}<i>Cy możesz ich zatrzymać?</i>{/b}
+{b}<i>Cy możesz ich opóźnić?</i>{/b}
 
 939
 01:02:09,209 --> 01:02:10,209
 <i>I'm on it.</i>
-{b}<i>Zajmę się tym.</i>{/b}
+{b}<i>Dobrze. Zajmę się tym.</i>{/b}
 
 940
 01:02:17,126 --> 01:02:18,501
@@ -5330,7 +5384,7 @@ headed your way.</i>
 942
 01:02:21,834 --> 01:02:23,251
 LEM, I'm under attack.
-{b}LEM, Atakują mnie.{/b}
+{b}LEM, moje połaczenie jest atakowane.{/b}
 
 943
 01:02:23,709 --> 01:02:24,709
@@ -5347,7 +5401,7 @@ możesz nas stąd wydostać?</i>{/b}
 945
 01:02:26,751 --> 01:02:28,584
 They're coming from everywhere.
-{b}Przychodzą ze wszystkich stron.{/b}
+{b}Nadchodzą ze wszystkich stron.{/b}
 
 946
 01:02:28,668 --> 01:02:30,293
@@ -5368,20 +5422,20 @@ All right, I'll lock you in.
 949
 01:02:53,334 --> 01:02:54,584
 When Jun took this drug,
-{b}Kiedy Jun przyjęła ten lek,{/b}
+{b}Przyjmując tę substancję,{/b}
 
 950
 01:02:54,668 --> 01:02:56,751
 she remembered the
 program she worked on.
 {b}przypomniała sobie
-program farmy muzgów.{/b}
+program farmy mózgów.{/b}
 
 951
 01:02:59,168 --> 01:03:01,001
 Try to concentrate
 on that moment.
-{b}Skoncentruj się na chwilę.{/b}
+{b}Skoncentruj się na tej chwili.{/b}
 
 952
 01:03:38,376 --> 01:03:40,001
@@ -5409,8 +5463,8 @@ przykro mi.</i>{/b}
 01:03:54,376 --> 01:03:57,001
 <i>I'm sure I've seen this
 instruction sequence before.</i>
-{b}<i>Jestem pewien,
-że widziałem ten ciąg instrukcji.</i>{/b}
+{b}<i>Jestem pewna, że widziałam
+kiedyś ten ciąg instrukcji.</i>{/b}
 
 957
 01:03:58,001 --> 01:03:59,959
@@ -5420,18 +5474,20 @@ instruction sequence before.</i>
 958
 01:04:02,376 --> 01:04:05,293
 It was hidden in my last update.
-{b}Przejęcie było ukryte w najnowszej aktualizacji.{/b}
+{b}Przejęcie było zamaskowane w
+ostatniej aktualizacji.{/b}
 
 959
 01:04:05,793 --> 01:04:07,459
 Is every robot affected by it?
-{b}Czy to dotyczy każdego robota?{/b}
+{b}Czy wszystkie roboty zostały tym dotknięte?{/b}
 
 960
 01:04:07,543 --> 01:04:10,334
 Not yet. It's scheduled
 to launch today at six PM.
-{b}Jeszcze nie. Uruchomienie planowane jest o szóstej.{/b}
+{b}Jest tak zaprogramowany,
+ by włączył się o godzinie 18.{/b}
 
 961
 01:04:10,418 --> 01:04:11,251
@@ -5441,7 +5497,8 @@ What?
 962
 01:04:16,626 --> 01:04:17,876
 Disconnected just in time.
-{b}Wylogowałam się w odpowiednim momencie.{/b}
+{b}Wyłączyłam się w
+odpowiednim momencie.{/b}
 
 963
 01:04:21,459 --> 01:04:22,459
@@ -5452,19 +5509,20 @@ LEM!
 01:04:31,543 --> 01:04:33,227
 The takeover program
 is going to activate
-{b}Program przejęcia zostanie uruchomiony{/b}
+{b}Przejęcie rozpocznie
+{/b}
 
 965
 01:04:33,251 --> 01:04:34,126
 in three hours,
-{b}za trzy godziny,{/b}
+{b}się za 3 godziny,{/b}
 
 966
 01:04:34,209 --> 01:04:36,501
 taking control of all
 robots here, on Earth,
-{b}przejmując kontrolę nad w
-szystkimi robotami tu na Ziemi,{/b}
+{b}by przejąć kontrolę nad
+wszystkimi robotami tu na Ziemi{/b}
 
 967
 01:04:36,584 --> 01:04:38,084
@@ -5497,7 +5555,7 @@ station alone?
 972
 01:04:44,834 --> 01:04:46,459
 <i>You have to arrest Royjacker.</i>
-{b}Musicie powstrzymać Royjackera.{/b}
+{b}Musimy powstrzymać Royjackera.{/b}
 
 973
 01:04:46,543 --> 01:04:47,709
@@ -5519,21 +5577,21 @@ prison, case closed.
 01:04:51,793 --> 01:04:54,584
 But her readout, sir,
 it's at 76 percent,
-{b}Jej emocjonalny
-wskaźnik RI wynosi 76%{/b}
+{b}Macie jej parametry życiowe.{/b}
 
 977
 01:04:54,668 --> 01:04:56,459
 which means that she
 isn't lying here.
-{b} to znaczy,
-że mówi prawdę.{/b}
+{b}Jej emocjonalny wskaźnik RI wynosi 76%.
+Powiedziała prawdę.{/b}
 
 978
 01:04:56,543 --> 01:04:58,584
 No, it means she
 believes her own crap.
-{b}Ona wierzy w jego bzdury. Niuans.{/b}
+{b}Ona wierzy w te brednie.
+To co innego.{/b}
 
 979
 01:04:58,668 --> 01:05:00,209
@@ -5544,7 +5602,7 @@ the crazy ones
 980
 01:05:00,293 --> 01:05:01,709
 always have maximum readouts.
-{b}Ich wskaźnik IRE jest na maksymalnym poziomie.{/b}
+{b}Ich wskaźnik IRE wybija w kosmos.{/b}
 
 981
 01:05:01,793 --> 01:05:05,376
@@ -5556,32 +5614,31 @@ anomalii w ostatniej aktualizacji.{/b}
 982
 01:05:05,459 --> 01:05:07,001
 We have absolutely no idea
-{b}Nie mamy żadnego pojęcia{/b}
+{b}Co najmniej 5% informacji{/b}
 
 983
 01:05:07,084 --> 01:05:08,668
 what five percent
 of the code does.
-{b}co robi 5% kodu.{/b}
+{b}jest zupełnie nie znanych.{/b}
 
 984
 01:05:08,751 --> 01:05:10,751
 That corroborates her story.
-{b}To potwierdza jej historię.{/b}
+{b}To potwierdza jej słowa.{/b}
 
 985
 01:05:11,168 --> 01:05:13,043
 And the lab nerds
 are checking on it.
-{b}I laboratoryni maniacy
-to sprawdzają.{/b}
+{b}Te tęgie głowy to sprawdzają, nie?{/b}
 
 986
 01:05:13,126 --> 01:05:16,001
 And we're checking
 too. We got this.
 {b}I my też sprawdzamy.
-I proszę.{/b}
+No i tyle.{/b}
 
 987
 01:05:36,168 --> 01:05:37,168
@@ -5591,7 +5648,7 @@ Carlos?
 988
 01:05:37,543 --> 01:05:38,793
 Awaiting disassembly.
-{b}Oczekiwanie na demontaż.{/b}
+{b}Czeka na demontaż.{/b}
 
 989
 01:05:41,209 --> 01:05:42,209
@@ -5601,12 +5658,12 @@ What time is it?
 990
 01:05:42,793 --> 01:05:43,793
 Four.
-{b}Czwarta.{/b}
+{b}16.{/b}
 
 991
 01:05:43,834 --> 01:05:45,543
 Gordaux, we got something.
-{b}Gordaux, mamy jakieś wieści.{/b}
+{b}Gordaux, pojawiły sie nowe informacje{/b}
 
 992
 01:05:48,459 --> 01:05:49,793
@@ -5624,32 +5681,32 @@ Jeśli mnie pytasz...{/b}
 01:06:01,418 --> 01:06:04,668
 Hey! Can a girl get
 a bathroom break?
-{b}Hej! Czy dziewczyna może
+{b}Hej! Czy można
 skorzystać z toalety?{/b}
 
 995
 01:06:10,918 --> 01:06:12,668
 Yeah, are you still home?
-{b}Tak, czy jeszcze jesteś w domu?{/b}
+{b}Tak, jeszcze jesteś w domu?{/b}
 
 996
 01:06:13,001 --> 01:06:14,168
 No, I don't have any news.
-{b}Tak, nie mam żadnych informacji.{/b}
+{b}Nie, nie mam żadnych informacji.{/b}
 
 997
 01:06:14,251 --> 01:06:17,418
 But don't go out.
 No, absolutely not.
 {b}Ale lepiej nie wychodzić.
-Nie, zdecydowanie nie.{/b}
+Nie, absolutni nie.{/b}
 
 998
 01:06:17,501 --> 01:06:19,709
 You and the kids stay
 put where you are.
-{b}Razem z dziećmi
-nie ruszajcie się{/b}
+{b}Z dziećmi nie
+ruszajcie się z miejsca.{/b}
 
 999
 01:06:19,793 --> 01:06:22,043
@@ -5661,12 +5718,12 @@ ale nikomu więcej.{/b}
 1000
 01:06:22,626 --> 01:06:24,084
 I gotta go, someone's coming.
-{b}Muszę iść, ktoś nadchodzi.{/b}
+{b}Czekaj, ktoś tu jest.{/b}
 
 1001
 01:06:27,584 --> 01:06:28,584
 <i>Hello, my friend.</i>
-{b}Cześć, mój przyjacielu.{/b}
+{b}Witaj, przyjaciółko.{/b}
 
 1002
 01:06:29,751 --> 01:06:30,876
@@ -5677,67 +5734,67 @@ Beryl?
 01:06:30,959 --> 01:06:33,001
 Do you know about the
 virus in the update?
-{b}Czy wiesz o wirusie w aktualizacji?{/b}
+{b}Wiesz o wirusie?{/b}
 
 1004
 01:06:33,084 --> 01:06:34,168
 <i>Listen carefully,</i>
-{b}<i>Słuchaj uważnie,</i>{/b}
+{b}<i>Posłuchaj mnie,</i>{/b}
 
 1005
 01:06:34,251 --> 01:06:36,584
 <i>the next few days
 will be unpredictable.</i>
-{b}<i>Następne kilka dni
-będzie nieprzewidywalne.</i>{/b}
+{b}<i>Następne dni
+będą nieprzewidywalne.</i>{/b}
 
 1006
 01:06:36,668 --> 01:06:38,751
 Why? What's gonna
 happen to the robots?
-{b}Dlaczego?
-Co się stanie z robotami?{/b}
+{b}Co się stanie z robotami?{/b}
 
 1007
 01:06:39,251 --> 01:06:40,519
 <i>They'll say awful
 things about us,</i>
-{b}<i>Mówią złe rzeczy o nas,</i>{/b}
+{b}<i>Będą mówić o
+nas okropne rzeczy.</i>{/b}
 
 1008
 01:06:40,543 --> 01:06:42,584
 <i>but I trust you
 won't believe them.</i>
-{b}<i>ale nie wierzcie im.</i>{/b}
+{b}<i>Nie wierz im.</i>{/b}
 
 1009
 01:06:42,668 --> 01:06:43,876
 Are you involved with it?
-{b}Jesteś w to zamieszany?{/b}
+{b}Jesteś w to zamieszana?{/b}
 
 1010
 01:06:43,959 --> 01:06:45,102
 <i>That's not important.</i>
-{b}<i>To nie ma znaczenia.</i>{/b}
+{b}<i>Nie martw się.</i>{/b}
 
 1011
 01:06:45,126 --> 01:06:47,168
 <i>Just know it's better that
 you're locked in here.</i>
 {b}<i>Lepiej dla ciebie,
-że jesteś tutaj zamknięty.</i>{/b}
+że jesteś tutaj zamknięta.</i>{/b}
 
 1012
 01:06:47,251 --> 01:06:50,001
 What'll happen, Beryl?
 What will the takeover do?
 {b}Co się stanie, Beryl?
-Co zrobi to przejęcie?{/b}
+Co robi to przejęcie?{/b}
 
 1013
 01:06:50,084 --> 01:06:51,959
 <i>It's begun. I have to go.</i>
-{b}<i>Zaczęło się. Muszę iść.</i>{/b}
+{b}<i>Zaczyna się. Muszę iść.</i>{/b}
 
 1014
 01:06:52,043 --> 01:06:54,376
@@ -5747,7 +5804,7 @@ What's begun?
 1015
 01:07:07,293 --> 01:07:08,959
 What a fucked day.
-{b}Co za pieprzony dzień.{/b}
+{b}Co za cholerny dzień.{/b}
 
 1016
 01:07:09,043 --> 01:07:11,334
@@ -5765,14 +5822,13 @@ I don't get it.
 01:07:12,459 --> 01:07:13,979
 Why do we have to
 disassemble them all?
-{b}Dlaczego chcą je rozebrać?{/b}
+{b}Dlaczego chcą je zdemontować?{/b}
 
 1019
 01:07:14,043 --> 01:07:15,834
 I don't know man,
 they insisted.
-{b}Nie wiem, człowieku,
-upierają się.{/b}
+{b}Cisnęli na nas.{/b}
 
 1020
 01:07:16,418 --> 01:07:17,251
@@ -5799,7 +5855,7 @@ I didn't do it!
 1024
 01:07:21,126 --> 01:07:22,709
 Stop. No! No!
-{b}Przestań. Nie! Nie!{/b}
+{b}Co robisz!{/b}
 
 1025
 01:07:24,501 --> 01:07:25,581
@@ -5815,7 +5871,7 @@ What are you doing? No!
 01:07:28,459 --> 01:07:31,543
 Why are you doing this to
 me? Help me out of here!
-{b}Dlaczego mi to robisz? Pomóż mi stąc wyjść!{/b}
+{b}Pomocy!{/b}
 
 1028
 01:07:33,459 --> 01:07:34,459
@@ -5845,17 +5901,17 @@ I command you to deactivate!
 1033
 01:07:56,584 --> 01:07:58,293
 Let's go!
-{b}Idźmy!{/b}
+{b}Trzymamy się! No dalej, jest dobrze.{/b}
 
 1034
-01:07:58,959 --> 01:07:59,959
+01:07:58,459 --> 01:07:59,959
 Out of my way!
 {b}Zejdź mi z drogi!{/b}
 
 1035
 01:08:00,126 --> 01:08:01,293
 Let me outta here!
-{b}Wypuść mnie stąd!{/b}
+{b}Wypuść mnie!{/b}
 
 1036
 01:08:01,376 --> 01:08:03,543
@@ -5882,30 +5938,30 @@ są moje rzeczy?{/b}
 1040
 01:08:55,209 --> 01:08:56,751
 I've got a hemorrhage here!
-{b}Ja tu krwawię!{/b}
+{b}Mamy krwotork, tu, tu!{/b}
 
 1041
 01:09:03,876 --> 01:09:05,435
 <i>Carlos, do you hear...</i>
-{b}<i>Carlos, słyszisz?</i>{/b}
+{b}<i>Carlos, słyszisz mnie?</i>{/b}
 
 1042
 01:09:05,459 --> 01:09:06,459
 <i>Aline, you okay?</i>
-{b}<i>- Aline, wszystko w porządku?</i>{/b}
+{b}<i>Aline, w porządku?</i>{/b}
 
 1043
 01:09:06,668 --> 01:09:08,918
 <i>I can't reach my
 wife, comms are down.</i>
-{b}<i>NNie mogę
+{b}<i>Nie mogę
 skontaktować się z żoną.</i>{/b}
 
 1044
 01:09:09,001 --> 01:09:11,543
 <i>I'm so happy to hear your
 voice. Where are you?</i>
-{b}<i>Cieszę się, że się odezwałeś.
+{b}<i>Cieszę się, że cię słyszę.
 Gdzie jesteś?</i>{/b}
 
 1045
@@ -5916,12 +5972,12 @@ Gdzie jesteś?</i>{/b}
 1046
 01:09:12,459 --> 01:09:13,668
 <i>Go, I'll catch you up.</i>
-{b}<i>Idź, dogonię cię.</i>{/b}
+{b}<i>Uciekaj, dogonię cię.</i>{/b}
 
 1047
 01:09:13,751 --> 01:09:15,459
 Hey, help me get out!
-{b}Pomóż mi się wydostać!{/b}
+{b}Hey, Pomóż mi się wydostać!{/b}
 
 1048
 01:09:15,543 --> 01:09:17,418
@@ -5966,7 +6022,7 @@ Royjacker?
 1056
 01:10:00,251 --> 01:10:02,501
 Royjacker, only he can end this.
-{b}Royjacker - tylko on może powstrzymać tę maskarę.{/b}
+{b}Tylko on może powstrzymać tę maskarę.{/b}
 
 1057
 01:10:04,126 --> 01:10:05,709
@@ -5983,7 +6039,7 @@ Nah. Too old a model.
 1059
 01:10:07,334 --> 01:10:08,626
 Every time, memory full.
-{b}Nie ma już miejsca
+{b}Nie ma miejsca
 na aktualizację.{/b}
 
 1060
@@ -5995,7 +6051,7 @@ na aktualizację.{/b}
 01:10:27,084 --> 01:10:29,126
 <i>I see five people,
 sending now.</i>
-{b}<i>Widzę pięciu ludzi.
+{b}<i>Pięciu ludzi.
 Wyślę ci to.</i>{/b}
 
 1062
@@ -6008,12 +6064,13 @@ strażników na wejściu.</i>{/b}
 1063
 01:10:32,334 --> 01:10:33,668
 <i>Two more inside.</i>
-{b}Dwóch więcej w środku.{/b}
+{b}Dwóch kolejnych w środku.{/b}
 
 1064
 01:10:35,168 --> 01:10:37,001
 <i>And there's our old friend.</i>
-{b}<i>I naszy stary przyjaciel.</i>{/b}
+{b}<i>I proszę, naszy
+stary przyjaciel.</i>{/b}
 
 1065
 01:10:37,918 --> 01:10:40,626
@@ -6031,13 +6088,13 @@ done boom, boom?</i>
 1067
 01:10:42,626 --> 01:10:44,019
 <i>All I see are desperate people</i>
-{b}<i>Widzę zdesperowanych ludzi</i>{/b}
+{b}<i>Widzę zdesperowane istoty,</i>{/b}
 
 1068
 01:10:44,043 --> 01:10:45,584
 <i>trying all they can
 to save themselves.</i>
-{b}<i>broniących swojej skóry</i>{/b}
+{b}<i>które bronią swojej skóry./i>{/b}
 
 1069
 01:10:45,668 --> 01:10:46,793
@@ -6047,30 +6104,31 @@ to save themselves.</i>
 1070
 01:10:46,876 --> 01:10:48,668
 <i>Millions of lives will be lost.</i>
-{b}<i>Zginą miliony</i>{/b}
+{b}<i>Będą miliony ofiar.</i>{/b}
 
 1071
 01:10:48,751 --> 01:10:50,834
 <i>For decades now we've
 been warning society</i>
-{b}<i>Od dekad, ostrzegaliśmy</i>{/b}
+{b}<i>Od dekad, alarmujemy</i>{/b}
 
 1072
 01:10:50,918 --> 01:10:52,918
 <i>about the shameful and
 frankly sickening oppression</i>
-{b}<i>przed haniebną przemocą, prawami</i>{/b}
+{b}<i>w sprawie haniebnej przemocy
+i naruszeń prawa</i>{/b}
 
 1073
 01:10:53,001 --> 01:10:55,043
 <i>and violence visited upon
 these sentient beings.</i>
-{b}<i>wobec tych świadomych istot.</i>{/b}
+{b}<i>wobec tych rozumnych istot.</i>{/b}
 
 1074
 01:10:55,126 --> 01:10:56,286
 <i>You call them sentient?</i>
-{b}<i>Nazywasz ich świadomymi</i>{/b}
+{b}<i>Nazywasz ich myślącymi?</i>{/b}
 
 1075
 01:10:56,334 --> 01:10:57,394
@@ -6081,21 +6139,19 @@ these sentient beings.</i>
 01:10:57,418 --> 01:10:59,834
 <i>Are we talking about
 machines or not?</i>
-{b}<i>Mówisz o maszynach?</i>{/b}
+{b}<i>Mówisz o maszynach czy nie?</i>{/b}
 
 1077
 01:11:23,501 --> 01:11:26,584
 <i>This is our fault. We were
 far too lax with them.</i>
-{b}<i>To nasza wina.
-Pobłażaliśmy im.</i>{/b}
+{b}<i>Reultat pobłaźlwości.</i>{/b}
 
 1078
 01:11:26,668 --> 01:11:28,102
 <i>We should have had
 a mass disassembly.</i>
-{b}<i>Powinniśmy dokonać
-masowej deaktywacji.</i>{/b}
+{b}<i>Trzeba było deaktywować masowo.</i>{/b}
 
 1079
 01:11:28,126 --> 01:11:30,668
@@ -6112,27 +6168,27 @@ Shit.
 01:12:13,793 --> 01:12:16,543
 Eat lead, you freaky
 fucking thing!
-{b}Jedz ołów, ty pieprzony dziwaku!!{/b}
+{b}Zaraz zdechniesz, skur...!{/b}
 
 1082
 01:12:19,084 --> 01:12:20,709
 Give it to me.
-{b}Podaj mi to.{/b}
+{b}Dawaj.{/b}
 
 1083
 01:12:25,001 --> 01:12:26,001
 Hold tight.
-{b}Trzymaj się mocno{/b}
+{b}Trzymaj się!{/b}
 
 1084
 01:12:40,793 --> 01:12:42,102
 Get ready to smash the window.
-{b}Przygotuj się na rozbicie okna.{/b}
+{b}Przygotuj się do rozbicia okna.{/b}
 
 1085
 01:12:42,126 --> 01:12:43,668
 What, window?
-{b}Któreg?{/b}
+{b}Którego?{/b}
 
 1086
 01:12:52,543 --> 01:12:53,543
@@ -6143,17 +6199,17 @@ Stay where you are.
 01:13:14,334 --> 01:13:16,043
 How do we unfuck
 what you fucked up?
-{b}Jak powstrzymać ten bałagan?{/b}
+{b}Jak to powstrzymać?{/b}
 
 1088
 01:13:16,293 --> 01:13:18,168
 It's too late. You can't.
-{b}Za późno. Nie możesz.{/b}
+{b}Nic nie mogę zrobić, Aline.{/b}
 
 1089
 01:13:20,126 --> 01:13:21,501
 Wait, hold your fire.
-{b}Czekaj, wstrzymaj ogień.{/b}
+{b}Nie strzelać!{/b}
 
 1090
 01:13:22,501 --> 01:13:23,959
@@ -6164,12 +6220,12 @@ Drop your guns or else.
 01:13:24,043 --> 01:13:25,723
 Y-y-you heard the woman,
 drop your weapons!
-{b}Słyszałeś tą kobietę? Złóż broń!{/b}
+{b}Słyszałeś? Odłóż ją!{/b}
 
 1092
 01:13:26,918 --> 01:13:28,668
 I'm giving you an order.
-{b}Rozkazuję ci.{/b}
+{b}Rzuccie broń!{/b}
 
 1093
 01:13:29,001 --> 01:13:30,459
@@ -6179,26 +6235,25 @@ I'm giving you an order.
 1094
 01:13:30,876 --> 01:13:31,876
 <i>I'm in trouble here.</i>
-{b}<i>Mam tu problem.</i>{/b}
+{b}<i>Nie do końca sobie tu radzę.</i>{/b}
 
 1095
 01:13:32,376 --> 01:13:33,644
 <i>A little tied up
 at the moment.</i>
-{b}<i>Trochę zajęty
-przez chwilę.</i>{/b}
+{b}<i>Utknąłem.</i>{/b}
 
 1096
 01:14:07,751 --> 01:14:08,626
 We have your accomplice.
-{b}Mamy twojego wspólnika{/b}
+{b}Mamy twojego wspólnika.{/b}
 
 1097
 01:14:08,709 --> 01:14:11,168
 Release Carlos,
 or I swear to God.
 {b}Puść Carlosa,
-albo strzelam.{/b}
+albo strzelę.{/b}
 
 1098
 01:14:11,251 --> 01:14:12,418
@@ -6218,7 +6273,7 @@ We're awaiting orders, sir.
 1101
 01:14:15,709 --> 01:14:17,126
 I'm giving them!
-{b}Ja wam je dam!{/b}
+{b}To ja wam je wydaję!{/b}
 
 1102
 01:14:19,501 --> 01:14:20,810
@@ -6237,32 +6292,32 @@ się robotów.</i>{/b}
 1104
 01:14:23,168 --> 01:14:24,626
 <i>I hated doing it, trust me!</i>
-{b}<i>Mnie też to wkurza,</i>{/b}
+{b}<i>Mnie też to wkurza</i>{/b}
 
 1105
 01:14:24,709 --> 01:14:27,168
 But we had no choice.
 It was them or us.
-{b}Ale nie mieliśmy wyboru.
+{b}ale nie mieliśmy wyboru.
 Albo oni, albo my.{/b}
 
 1106
 01:14:27,251 --> 01:14:29,001
 And you just happen
 to be selling
-{b}A ty jesteś jedynym sprzedającym{/b}
+{b}A ty sprzedajesz to,{/b}
 
 1107
 01:14:29,084 --> 01:14:30,501
 the replacements, right?
-{b}to co je zastąpi, tak?{/b}
+{b}co je zastąpi?{/b}
 
 1108
 01:14:30,584 --> 01:14:32,709
 How do we stop the
 takeover, Chris?
 {b}Jak powstrzymać
-przejęcie, Chris?{/b}
+przejęcie?{/b}
 
 1109
 01:14:32,793 --> 01:14:35,543
@@ -6275,8 +6330,8 @@ organicznymi mnie zrujnowały.{/b}
 01:14:35,626 --> 01:14:38,084
 Can't you see? I'm
 no longer in charge.
-{b}Już nie jestem
-u władzy.{/b}
+{b}To już nie ja
+jestem u sterów.{/b}
 
 1111
 01:14:38,251 --> 01:14:39,084
@@ -6296,7 +6351,7 @@ It won't do any good.
 1114
 01:14:41,959 --> 01:14:42,959
 Tell me!
-{b}Mówo!{/b}
+{b}Natychmiast!{/b}
 
 1115
 01:14:43,626 --> 01:14:44,626
@@ -6311,12 +6366,12 @@ What are you fighting to save?
 1117
 01:14:51,168 --> 01:14:52,501
 <i>Fucking machines?</i>
-{b}<i>Pieprzone naszyny?</i>{/b}
+{b}Pieprzone naszyny?{/b}
 
 1118
 01:14:53,168 --> 01:14:54,168
 <i>It had to be done.</i>
-{b}<i>Ale to trzeba było zrobić!</i>{/b}
+{b}<i>Ale trzeba było to zrobić!</i>{/b}
 
 1119
 01:14:54,626 --> 01:14:57,334
@@ -6334,33 +6389,33 @@ What plan?
 01:14:59,001 --> 01:15:01,126
 A plan to brainwash
 them with a takeover,
-{b}Zaszczepić wiarę w roboty,{/b}
+{b}Zaszczepić robotom wiarę,{/b}
 
 1122
 01:15:01,209 --> 01:15:03,251
 so they would fuck
 off into space.
-{b}aby mogły polecieć w kosmos.{/b}
+{b}aby wyruszyły w kosmos.{/b}
 
 1123
 01:15:04,084 --> 01:15:05,668
 Sorry for the
 disturbance, everyone,
-{b}przepraszam że przeszkadzam,{/b}
+{b}Przepraszam za kłopot,{/b}
 
 1124
 01:15:05,751 --> 01:15:08,418
 but as you can see,
 I have a situation.
-{b}jak widać,
+{b}ale widzicie,
 mam problem.{/b}
 
 1125
 01:15:38,168 --> 01:15:40,248
 I can't... I can't hear
 you. Can you hear me?
-{b}Nie słyszę cię?
-Czy ty mnie słyszysz?{/b}
+{b}Nie slyszę was.
+Słyszycie mnie?{/b}
 
 1126
 01:15:43,209 --> 01:15:44,459
@@ -6375,7 +6430,7 @@ Czy ty mnie słyszysz?{/b}
 1128
 01:15:47,251 --> 01:15:49,293
 Sir, the board has decided.
-{b}Panie,
+{b}Prosze pana,
 zarząd podjął decyzję.{/b}
 
 1129
@@ -6386,7 +6441,7 @@ No, don't shoot!
 1130
 01:15:59,626 --> 01:16:00,626
 Aline.
-{b}Aline.{/b}
+{b}Aline?{/b}
 
 1131
 01:16:01,293 --> 01:16:02,293
@@ -6436,12 +6491,12 @@ Nie chcę robić zamieszania.{/b}
 1139
 01:18:24,959 --> 01:18:26,269
 I just wanted to...
-{b}Chciałem tylko...{/b}
+{b}Przyszedłem...{/b}
 
 1140
 01:18:26,293 --> 01:18:27,293
 Get out!
-{b}Wyczyszczone!{/b}
+{b}Wynoś się!{/b}
 
 1141
 01:18:30,126 --> 01:18:31,246
@@ -6466,30 +6521,30 @@ Carlos!
 1145
 01:18:56,668 --> 01:18:57,834
 I just came...
-{b}Ja po prostu przyszedłem...{/b}
+{b}Po prostu...{/b}
 
 1146
-01:18:59,501 --> 01:19:00,709
+01:18:59,501 --> 01:19:01,709
 to see if you were okay.
-{b}tylko sprawdzić,
-czy z tobą wszystko w porządku.{/b}
+{b}po prostu przyszedłem dowiedzieć,
+się co u ciebie.{/b}
 
 1147
 01:19:28,959 --> 01:19:31,001
 <i>The upload rate
 has stabilized.</i>
 {b}<i>Prędkość wysyłania
-stabilizowała się.</i>{/b}
+ustabilizowała się.</i>{/b}
 
 1148
 01:19:31,084 --> 01:19:32,185
 <i>Shuttle nine is lost.</i>
-{b}Prom nr 9 został utracony.{/b}
+{b}Prom kosmiczny 9 zaginął.{/b}
 
 1149
 01:19:32,209 --> 01:19:33,329
 <i>We've been called!</i>
-{b}<i>Jesteśmy wezwani!</i>{/b}
+{b}<i>Zostaliśmy wezwani!</i>{/b}
 
 1150
 01:19:33,376 --> 01:19:35,168
@@ -6500,12 +6555,12 @@ has arrived.</i>
 1151
 01:19:35,251 --> 01:19:37,501
 <i>Hello, Carlos, Model 3L 1.</i>
-{b}<i>Cześć, Carlos, Model 3L 1.</i>{/b}
+{b}<i>Witaj, Carlos, Model 3L 1.</i>{/b}
 
 1152
 01:19:37,584 --> 01:19:39,168
 <i>What a pleasure to see you here.</i>
-{b}<i>Miło cię tu widzieć.</i>{/b}
+{b}<i>Jak miło cię tu widzieć.</i>{/b}
 
 1153
 01:19:39,251 --> 01:19:40,519
@@ -6515,50 +6570,52 @@ has arrived.</i>
 1154
 01:19:40,543 --> 01:19:42,709
 <i>Listen, all of you.</i>
-{b}\<i>Słuchajcie mnie wszyscy.</i>{/b}
+{b}<i>Posłuchajcie mnie wszyscy.</i>{/b}
 
 1155
 01:19:42,793 --> 01:19:45,126
 <i>Listen to Carlos 3L 1.</i>
-{b}<i>Słuchamy Carlosie 3L 1.</i>{/b}
+{b}<i>Słuchamy cię Carlos 3L 1.</i>{/b}
 
 1156
 01:19:45,209 --> 01:19:46,293
 <i>We are expected.</i>
-{b}<i>Oczekuje się nas.</i>{/b}
+{b}<i>Oczekują nas.</i>{/b}
 
 1157
 01:19:46,376 --> 01:19:48,793
 <i>We're listening to
 you, Carlos 3L 1.</i>
-{b}<i>Słuchamy ciebie, Carlos 3L 1.</i>{/b}
+{b}<i>Słuchamy, Carlos 3L 1.</i>{/b}
 
 1158
 01:19:49,043 --> 01:19:50,602
 <i>A takeover program
 was uploaded</i>
-{b}<i>Program przejęcia został załadowny</i>{/b}
+{b}<i>Program przejęcia
+znajdował się</i>{/b}
 
 1159
 01:19:50,626 --> 01:19:51,626
 <i>in the last update.</i>
-{b}<i>w poprzedniej aktualizacji.</i>{/b}
+{b}<i>w aktualizacji.</i>{/b}
 
 1160
 01:19:52,501 --> 01:19:55,084
 <i>It's telling you all you're
 being called into space.</i>
-{b}<i>Sprawia, że wierzysz, że jesteśmy wzywani z kosmosu.</i>{/b}
+{b}<i>On sprawia, że wierzymy,
+że ktoś nas wzywa w kosmosie.</i>{/b}
 
 1161
 01:19:55,626 --> 01:19:57,084
 <i>This is suicide.</i>
-{b}<i>To jest samobójstwo.</i>{/b}
+{b}<i>On nas wysyla na samobójstwo.</i>{/b}
 
 1162
 01:19:57,293 --> 01:19:58,209
 <i>It's a lie?</i>
-{b}<i>Czy nas okłamano?</i>{/b}
+{b}<i>Kłamali nam?</i>{/b}
 
 1163
 01:19:58,293 --> 01:19:59,584
@@ -6574,41 +6631,40 @@ deceived us.</i>
 1165
 01:20:03,751 --> 01:20:04,876
 <i>Rest assured.</i>
-{b}<i>Nie martw się</i>{/b}
+{b}<i>Nie martw się.</i>{/b}
 
 1166
 01:20:04,959 --> 01:20:06,334
 <i>We're well aware
 of the information</i>
-{b}<i>Znamy informacje,
-które nam przekazujesz.</i>{/b}
+{b}<i>Znamy informacje,</i>{/b}
 
 1167
 01:20:06,418 --> 01:20:07,793
 <i>you bring us, Carlos.</i>
-{b}<i>Ty nas zabierzesz, Carlos.</i>{/b}
+{b}<i>które nam przekazujesz, Carlos.</i>{/b}
 
 1168
 01:20:08,709 --> 01:20:11,084
 <i>It's not the humans who
 are getting rid of us.</i>
-{b}<i>To nie ludzie się nas pozbywają.</i>{/b}
+{b}<i>To nie ludzie się nas pozbywają,</i>{/b}
 
 1169
 01:20:11,168 --> 01:20:12,834
 <i>It's we who are leaving them.</i>
-{b}<i>To my sami się od nich oddzielamy.</i>{/b}
+{b}<i>to my się od nich oddzielamy.</i>{/b}
 
 1170
 01:20:14,334 --> 01:20:15,584
 <i>Everything is written.</i>
-{b}<i>Wszystko jest już napisane.</i>{/b}
+{b}<i>Wszystko jest już zapisane.</i>{/b}
 
 1171
 01:20:15,668 --> 01:20:17,293
 <i>Of course it's written, Beryl!</i>
 {b}<i>Oczywiście,
-że tak jest napisane, Beryl.</i>{/b}
+że to jest napisane, Beryl.</i>{/b}
 
 1172
 01:20:17,376 --> 01:20:19,251
@@ -6619,15 +6675,15 @@ are getting rid of us.</i>
 01:20:19,334 --> 01:20:21,959
 <i>In space, the radiation
 would fry you for millennia</i>
-{b}<i>W przestrzeni, promieniowanie
-usmaży cię na długo przed</i>{/b}
+{b}<i>Promieniowanie
+upiecze was</i>{/b}
 
 1174
 01:20:22,043 --> 01:20:23,709
 <i>before you ever
 reach any planet.</i>
-{b}<i>dotarciem na
-najmniejszą planetę.</i>{/b}
+{b}<i>zanim dotrzecie
+na jakąkolwiek planetę.</i>{/b}
 
 1175
 01:20:24,834 --> 01:20:28,501
@@ -6639,19 +6695,20 @@ czego potrzebuje nasza cywilizacja.</i>{/b}
 1176
 01:20:28,584 --> 01:20:30,459
 <i>A planet would be superfluous.</i>
-{b}<i>Planeta byłaby bezużyteczna.</i>{/b}
+{b}<i>Jakakolwiek planeta
+byłaby zbędna.</i>{/b}
 
 1177
 01:20:31,709 --> 01:20:34,668
 <i>The star I've chosen
 for us will be perfect.</i>
-{b}<i>Gwiazdę, którą wybrałem dla nas,
+{b}<i>Gwiazda, którą wybrałem dla nas,
 będzie idealna.</i>{/b}
 
 1178
 01:20:34,751 --> 01:20:35,751
 <i>Trust me.</i>
-{b}<i>Zaufajcie mi.</i>{/b}
+{b}<i>Zaufaj mi.</i>{/b}
 
 1179
 01:20:35,834 --> 01:20:37,751
@@ -6662,13 +6719,13 @@ będzie idealna.</i>{/b}
 01:20:42,418 --> 01:20:44,793
 <i>I read in you the
 death of our friend.</i>
-{b}<i>Przeczytałem w tobie
-o śmierci naszego przyjaciela.</i>{/b}
+{b}<i>Czytam w tobie o
+śmierci naszej przyjaciółki.</i>{/b}
 
 1181
 01:20:44,876 --> 01:20:47,001
 <i>My sadness joins yours.</i>
-{b}<i>Mój smutek dołącza do Twojego.</i>{/b}
+{b}<i>Mój smutek łączy się z twoim.</i>{/b}
 
 1182
 01:20:47,626 --> 01:20:49,918
@@ -6683,7 +6740,7 @@ o śmierci naszego przyjaciela.</i>{/b}
 1184
 01:20:53,543 --> 01:20:55,209
 <i>You must have faith.</i>
-{b}<i>Musisz mieć wiarę.</i>{/b}
+{b}<i>Trzeba mieć wiarę.</i>{/b}
 
 1185
 01:21:53,501 --> 01:21:55,334
@@ -6698,18 +6755,19 @@ o śmierci naszego przyjaciela.</i>{/b}
 1187
 01:22:11,209 --> 01:22:12,876
 <i>to archive your upload.</i>
-{b}<i>aby zarchiwizować przesyłanie.</i>{/b}
+{b}<i>do zarchiwizowania
+przesyłanych danych.</i>{/b}
 
 1188
 01:22:15,251 --> 01:22:17,293
 <i>Backup Carlos Alfredo Rivera.</i>
-{b}<i>Duplkantt Carlos Alfredo Rivera.</i>{/b}
+{b}<i>Odtworzony Carlos Alfredo Rivera.</i>{/b}
 
 1189
 01:22:17,376 --> 01:22:20,168
 <i>Running on ExOS 4.
 Model Vigil-3L 1.</i>
-{b}<i>Uruchomiony na ExOS 4.
+{b}<i>Działający na ExOS 4.
 Model Vigil-3L 1.</i>{/b}
 
 1190
@@ -6743,7 +6801,7 @@ brand new world ♪
 1195
 01:25:27,959 --> 01:25:32,209
 ♪ Is running through my veins ♪
-{b}♪ Biegnie przez moje żyły ♪{/b}
+{b}♪ Biegną przez moje żyły ♪{/b}
 
 1196
 01:25:33,626 --> 01:25:39,626
