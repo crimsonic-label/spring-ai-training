@@ -45,5 +45,6 @@
     <module>subtitle-translator</module>
     <module>multiple-models</module>
     <module>rag</module>
+    <module>tool-calling</module>
   </modules>
 </project>
