@@ -39,14 +39,14 @@ public class SubtitleLineProcessor {
 
         } else if (timingPattern.matcher(line).find()) {
           // the second line - timing
-          writeLine(line, writer);
+          writeLine("<font color=\"grey\"> " + line + " </font>", writer);
 
         } else if (line.isEmpty()) {
           // the last empty one
 
           // write all collected subtile lines and clear the builder
           String translated = translator.translate(subtitle.toString());
-          writeLine("{b}" + translated + "{/b}", writer);
+          writeLine(translated, writer);
           log.info(subtitle.toString().trim() + " -> " + translated);
           subtitle.setLength(0);
 
