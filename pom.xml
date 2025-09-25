@@ -46,5 +46,6 @@
     <module>multiple-models</module>
     <module>rag</module>
     <module>tool-calling</module>
+    <module>mcp-client</module>
   </modules>
 </project>
