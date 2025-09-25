@@ -1,3 +1,7 @@
+# Available servers ready tu run 
+check on
+https://github.com/modelcontextprotocol/servers
+
 # The MCP inspector is a developer tool for testing and debugging*
 https://github.com/modelcontextprotocol/inspector
 
