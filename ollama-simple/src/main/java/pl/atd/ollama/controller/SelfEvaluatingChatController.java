@@ -6,6 +6,8 @@ import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
 import org.springframework.ai.chat.evaluation.FactCheckingEvaluator;
 import org.springframework.ai.evaluation.EvaluationRequest;
 import org.springframework.ai.evaluation.EvaluationResponse;
+import org.springframework.retry.annotation.Recover;
+import org.springframework.retry.annotation.Retryable;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -27,11 +29,17 @@ public class SelfEvaluatingChatController {
     this.factCheckingEvaluator = new FactCheckingEvaluator(builder);
   }
 
+  @Retryable(retryFor = InvalidAnswerException.class, maxAttempts = 3)
   @GetMapping("/evaluate/chat")
   public String chat(@RequestParam("message") String message) {
     String response = chatClient.prompt(message).call().content();
     validateAnswer(message, response);
     return response;
+  }
+
+  @Recover
+  public String recover(InvalidAnswerException exception) {
+    return "I'am sorry. I couldn't answer your question. Please try rephrasing it.";
   }
 
   private  void validateAnswer(String message, String answer) {

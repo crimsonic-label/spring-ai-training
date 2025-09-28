@@ -15,7 +15,6 @@ import org.junit.jupiter.api.Timeout;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.ChatClient.Builder;
 import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;
-import org.springframework.ai.chat.evaluation.FactCheckingEvaluator;
 import org.springframework.ai.chat.evaluation.RelevancyEvaluator;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.document.Document;
@@ -55,7 +54,7 @@ class OllamaApplicationTest {
 
   private ChatClient chatClient;
   private RelevancyEvaluator relevancyEvaluator;
-  private FactCheckingEvaluator factCheckingEvaluator;
+  private FactCheckingFixedEvaluator factCheckingEvaluator;
 
   @BeforeEach
   void setup() {
@@ -63,7 +62,7 @@ class OllamaApplicationTest {
         .defaultAdvisors(new SimpleLoggerAdvisor());
     this.chatClient = builder.build();
     this.relevancyEvaluator = new RelevancyEvaluator(builder);
-    this.factCheckingEvaluator = new FactCheckingEvaluator(builder);
+    this.factCheckingEvaluator = new FactCheckingFixedEvaluator(builder);
   }
 
   @Test
@@ -99,7 +98,7 @@ class OllamaApplicationTest {
     );
   }
 
-  //@Test
+  @Test // rather use different model to validate, FactCheckingEvaluator is rather for RAG
   @DisplayName("Should return correct response for gravity-related question")
   @Timeout(value = 30)
   void evaluateFactAccuracyForGravityQuestion() {
@@ -124,7 +123,7 @@ class OllamaApplicationTest {
     );
   }
 
-  //@Test
+  @Test
   @DisplayName("Should correct evaluate factual response based on HR policy context (RAG scenario)")
   @Timeout(value = 30)
   void evaluateHrPolicyAnswerWithRagContext() throws IOException {
