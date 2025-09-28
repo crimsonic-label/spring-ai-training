@@ -1,4 +1,4 @@
-package pl.atd.mcpserver.entity;
+package pl.atd.mcpserverremote.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

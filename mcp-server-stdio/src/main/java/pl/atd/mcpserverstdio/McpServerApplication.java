@@ -1,4 +1,4 @@
-package pl.atd.mcpserver;
+package pl.atd.mcpserverstdio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -48,5 +48,6 @@
     <module>tool-calling</module>
     <module>mcp-client</module>
     <module>mcp-server-stdio</module>
+    <module>mcp-server-remote</module>
   </modules>
 </project>

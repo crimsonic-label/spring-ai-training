@@ -1,12 +1,12 @@
-package pl.atd.mcpserver.service;
+package pl.atd.mcpserverstdio.service;
 
 import java.time.LocalDateTime;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import pl.atd.mcpserver.entity.HelpDeskTicket;
-import pl.atd.mcpserver.model.TicketRequest;
-import pl.atd.mcpserver.repository.HelpDeskTicketRepository;
+import pl.atd.mcpserverstdio.entity.HelpDeskTicket;
+import pl.atd.mcpserverstdio.model.TicketRequest;
+import pl.atd.mcpserverstdio.repository.HelpDeskTicketRepository;
 
 @Service
 @RequiredArgsConstructor

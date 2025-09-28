@@ -1,4 +1,4 @@
-package pl.atd.mcpserver.model;
+package pl.atd.mcpserverstdio.model;
 
 public record TicketRequest(String issue, String username) {
 

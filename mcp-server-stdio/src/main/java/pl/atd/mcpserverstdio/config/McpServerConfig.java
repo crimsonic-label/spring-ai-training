@@ -1,11 +1,11 @@
-package pl.atd.mcpserver.config;
+package pl.atd.mcpserverstdio.config;
 
 import java.util.List;
 import org.springframework.ai.tool.ToolCallback;
 import org.springframework.ai.support.ToolCallbacks;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import pl.atd.mcpserver.tool.HelpDeskTools;
+import pl.atd.mcpserverstdio.tool.HelpDeskTools;
 
 @Configuration
 public class McpServerConfig {

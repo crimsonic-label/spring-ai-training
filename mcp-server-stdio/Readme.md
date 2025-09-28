@@ -12,4 +12,4 @@ https://github.com/modelcontextprotocol/inspector
 
 4. connect
 5. list tools
-6. run createYicket tool and getTicketStatus tool
+6. run createTicket tool and getTicketStatus tool

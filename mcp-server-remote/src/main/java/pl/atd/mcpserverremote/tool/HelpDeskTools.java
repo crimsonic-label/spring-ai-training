@@ -1,4 +1,4 @@
-package pl.atd.mcpserver.tool;
+package pl.atd.mcpserverremote.tool;
 
 import java.util.List;
 import lombok.RequiredArgsConstructor;
@@ -6,9 +6,9 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.ai.tool.annotation.ToolParam;
 import org.springframework.stereotype.Component;
-import pl.atd.mcpserver.entity.HelpDeskTicket;
-import pl.atd.mcpserver.model.TicketRequest;
-import pl.atd.mcpserver.service.HelpDeskTicketService;
+import pl.atd.mcpserverremote.entity.HelpDeskTicket;
+import pl.atd.mcpserverremote.model.TicketRequest;
+import pl.atd.mcpserverremote.service.HelpDeskTicketService;
 
 @Component
 @RequiredArgsConstructor
