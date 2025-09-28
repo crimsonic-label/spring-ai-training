@@ -47,5 +47,6 @@
     <module>rag</module>
     <module>tool-calling</module>
     <module>mcp-client</module>
+    <module>mcp-server-stdio</module>
   </modules>
 </project>

@@ -1,5 +1,12 @@
 {
   "mcpServers": {
+    "spring-ai-mcp": {
+      "command": "/opt/homebrew/opt/openjdk/bin/java",
+      "args": [
+        "-jar",
+        "/Users/bruno/work/projects/java/spring-ai/spring-ai-training/mcp-server/target/mcp-server-1.0-SNAPSHOT.jar"
+      ]
+    },
     "filesystem": {
       "command": "npx",
       "args": [
