@@ -16,3 +16,14 @@ Advisors usage:
 
 Communications from chat to LLM
 - http://localhost:8080/actuator/metrics/spring.ai.chat.client
+
+# Expose metrics to prometheus
+- add `io.macrometer` `micrometer-registry-prometheus` dependency - library that transforms metrics format
+- add `prometheus` to `management.endpoints.web.exposure.include` in `application.properties`
+
+Prometheus data should be found in actuator:
+http://localhost:8080/actuator
+
+- run Prometheus with docker - add service to docker compose.yaml
+- add Prometheus config `prometheus-config.yaml`
+- Prometheus is available at `http://localhost:9090/query`
