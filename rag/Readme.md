@@ -27,3 +27,19 @@ http://localhost:8080/actuator
 - run Prometheus with docker - add service to docker compose.yaml
 - add Prometheus config `prometheus-config.yaml`
 - Prometheus is available at `http://localhost:9090/query`
+
+# Add Grafana
+- add service to docker.yml
+- open http://localhost:3000, log with `admin` `admin`
+- in connections menu add Prometheus data source
+
+  - url: http://prometheus:9090 (this is inside docker spring-ai network)
+  
+- build Grafana dashboard, create one 
+- add visualization, 
+- select prometheus data source
+- select metrics:
+
+  - gen_ai_client_token_usage_total,
+  - label filters: gen_ai_token_type
+  - total
