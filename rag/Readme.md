@@ -43,3 +43,15 @@ http://localhost:8080/actuator
   - gen_ai_client_token_usage_total,
   - label filters: gen_ai_token_type
   - total
+
+# Tracing AI operations
+
+- add dependency: 
+
+  - `io.micrometer:micrometer-tracing-bridge-otel` to expose data in open telemetry format
+  - `io.opentelemetry:opentelemetry-exporter-otlp` to export tracing information to collector component
+  - create config class `OpenTelemetryExporterConfig'
+  - create exporter bean for url to run exporter component
+  - add tracing service with Jaeger docker with the same port as exporter
+  - call http://localhost:16686/search
+  - search for service 'RAG' and operations
