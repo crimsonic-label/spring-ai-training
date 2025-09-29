@@ -49,5 +49,6 @@
     <module>mcp-client</module>
     <module>mcp-server-stdio</module>
     <module>mcp-server-remote</module>
+    <module>voice-to-text</module>
   </modules>
 </project>
